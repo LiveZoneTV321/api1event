@@ -78,18 +78,36 @@ function normalizeDrm(value) {
   return Buffer.from(plain, "utf8").toString("base64");
 }
 
+/**
+ * URL থেকে DRM অংশ কেটে বের করে আনা (নতুন যোগ করা হয়েছে)
+ */
+function extractDrm(streamUrl) {
+  if (!streamUrl) return { cleanUrl: "", drmKey: "" };
+  if (streamUrl.includes("drmLicense=")) {
+    let parts = streamUrl.split("drmLicense=");
+    let cleanUrl = parts[0].split("?")[0]; 
+    let drmKey = parts[1].split("&")[0].trim(); 
+    return { cleanUrl, drmKey };
+  }
+  return { cleanUrl: streamUrl, drmKey: "" };
+}
+
 // ── Event decoding ────────────────────────────────────────────────────────────
 function decodeEncrypted(id, raw) {
   const streams = Array.isArray(raw.s)
     ? raw.s
         .filter((s) => s && typeof s === "object")
-        .map((s) => ({
-          name: dec(s.n),
-          url: dec(s.u),
-          referer: dec(s.ref),
-          userAgent: dec(s.ua),
-          drm: normalizeDrm(s.drm),
-        }))
+        .map((s) => {
+          const rawUrl = dec(s.u);
+          const { cleanUrl, drmKey } = extractDrm(rawUrl); // 💡 DRM আলাদা করা
+          return {
+            name: dec(s.n),
+            url: cleanUrl,
+            referer: dec(s.ref),
+            userAgent: dec(s.ua),
+            drm: drmKey || normalizeDrm(s.drm),
+          };
+        })
     : [];
 
   return {
@@ -117,13 +135,17 @@ function decodePlain(id, raw) {
     : [];
   const streams = list
     .filter((s) => s && typeof s === "object")
-    .map((s, i) => ({
-      name: s.display_name || s.name || `Server ${i + 1}`,
-      url: s.stream_link || s.videoURL || s.url || "",
-      referer: s.referer || raw.referer || s.headers?.Referer || "",
-      userAgent: s.userAgent || s.user_agent || s.headers?.["User-Agent"] || "",
-      drm: s.drmLicenseUrl ? Buffer.from(s.drmLicenseUrl, "utf8").toString("base64") : "",
-    }));
+    .map((s, i) => {
+      const rawUrl = s.stream_link || s.videoURL || s.url || "";
+      const { cleanUrl, drmKey } = extractDrm(rawUrl); // 💡 DRM আলাদা করা
+      return {
+        name: s.display_name || s.name || `Server ${i + 1}`,
+        url: cleanUrl,
+        referer: s.referer || raw.referer || s.headers?.Referer || "",
+        userAgent: s.userAgent || s.user_agent || s.headers?.["User-Agent"] || "",
+        drm: drmKey || (s.drmLicenseUrl ? Buffer.from(s.drmLicenseUrl, "utf8").toString("base64") : ""),
+      };
+    });
 
   return {
     id,
@@ -204,10 +226,20 @@ async function main() {
     throw new Error("API returned 0 events — পুরনো events.json অক্ষত রাখা হলো");
   }
 
+  const now = new Date();
+
+  // 💡 স্ট্রিম থাকলে status 'LIVE' হবে
+  events.forEach((ev) => {
+    if (ev.streams && ev.streams.length > 0) {
+      ev.status = "LIVE";
+    } else {
+      const evDate = new Date(`${ev.date} ${ev.time}`);
+      ev.status = evDate > now ? "UPCOMING" : "ENDED";
+    }
+  });
+
   // Sort by date then time
   events.sort((a, b) => new Date(`${a.date} ${a.time}`) - new Date(`${b.date} ${b.time}`));
-
-  const now = new Date();
 
   // Bangladesh Standard Time = UTC+6
   const bst = new Date(now.getTime() + 6 * 60 * 60 * 1000);
@@ -219,15 +251,20 @@ async function main() {
     `${pad(bst.getUTCDate())} ${months[bst.getUTCMonth()]} ${bst.getUTCFullYear()}, ` +
     `${pad(h12)}:${pad(bst.getUTCMinutes())}:${pad(bst.getUTCSeconds())} ${h24 < 12 ? "AM" : "PM"} BST`;
 
+  // 💡 মোট ম্যাচ এবং লাইভ ম্যাচের কাউন্ট
+  const totalCount = events.length;
+  const liveCount = events.filter((ev) => ev.status === "LIVE").length;
+
   const output = {
     last_updated: readable,
     last_updated_iso: now.toISOString(),
-    total_events: events.length,
+    total_events: totalCount,
+    live_match: liveCount,
     events,
   };
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), "utf8");
-  console.log(`[${now.toISOString()}] ✅ Saved ${events.length} events → last_updated: ${readable}`);
+  console.log(`[${now.toISOString()}] ✅ Saved ${totalCount} events (${liveCount} LIVE) → last_updated: ${readable}`);
 }
 
 main().catch((err) => {
