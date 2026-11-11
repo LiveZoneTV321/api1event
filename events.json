@@ -1,94 +1,8 @@
 {
-  "last_updated": "11 Nov 2026, 06:30:20 PM BST",
-  "last_updated_iso": "2026-11-11T12:30:20.811Z",
-  "total_events": 278,
+  "last_updated": "11 Nov 2026, 06:40:14 PM BST",
+  "last_updated_iso": "2026-11-11T12:40:14.647Z",
+  "total_events": 276,
   "events": [
-    {
-      "id": "2537",
-      "date": "11/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | PAK vs SL - 1st Test, Day 3",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZDYzZDYyY2E2ZjJkMTg3M2Q3OTk3MTc0N2E0ODliMWI6NmM2YjA0Nzg5MzYzMGExOWNiMDkxYmRlNGNkNjYwZjM="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZDYzZDYyY2E2ZjJkMTg3M2Q3OTk3MTc0N2E0ODliMWI6NmM2YjA0Nzg5MzYzMGExOWNiMDkxYmRlNGNkNjYwZjM="
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "t sports hd",
-          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2538",
-      "date": "11/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | WBBL 2026 - 18th Match",
-      "team1": "Perth Scorchers Women",
-      "team2": "Sydney Thunder Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274889/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow sports - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MjFlZjUzNWM1NTk3NTg5MjI1ZDI3ODMwOGMyYTVjOTM6YTRhMzhhYzMxMjk0YzM4OGFhZWMzOWNhYjRhYWU5M2E="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MjFlZjUzNWM1NTk3NTg5MjI1ZDI3ODMwOGMyYTVjOTM6YTRhMzhhYzMxMjk0YzM4OGFhZWMzOWNhYjRhYWU5M2E="
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2531",
       "date": "11/11/2026",
@@ -183,6 +97,20 @@
       "streams": []
     },
     {
+      "id": "2561",
+      "date": "12/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Women's Champions League",
+      "team1": "Benfica (W)",
+      "team2": "Austria Wien (W)",
+      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2569",
       "date": "12/11/2026",
       "time": "10:30 AM",
@@ -195,6 +123,28 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
+    },
+    {
+      "id": "2570",
+      "date": "12/11/2026",
+      "time": "10:40 AM",
+      "league": "Cricket | WBBL 2026 - 19th Match",
+      "team1": "Melbourne Stars Women",
+      "team2": "Brisbane Heat Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2552",
@@ -239,20 +189,6 @@
       "streams": []
     },
     {
-      "id": "2561",
-      "date": "12/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Women's Champions League",
-      "team1": "Benfica (W)",
-      "team2": "Austria Wien (W)",
-      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2562",
       "date": "12/11/2026",
       "time": "2:00 AM",
@@ -262,20 +198,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2687/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2570",
-      "date": "12/11/2026",
-      "time": "10:40 AM",
-      "league": "Cricket | WBBL 2026 - 19th Match",
-      "team1": "Melbourne Stars Women",
-      "team2": "Brisbane Heat Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
