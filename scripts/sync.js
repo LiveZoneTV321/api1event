@@ -228,7 +228,7 @@ async function main() {
 
   const now = new Date();
 
-  // 💡 স্ট্রিম থাকলে status 'LIVE' হবে
+  // 💡 নতুন লজিক: স্ট্রিম থাকলে status 'LIVE' হবে
   events.forEach((ev) => {
     if (ev.streams && ev.streams.length > 0) {
       ev.status = "LIVE";
