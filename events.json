@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 03:10:14 PM BST",
-  "last_updated_iso": "2026-11-11T09:10:14.149Z",
+  "last_updated": "11 Nov 2026, 03:20:14 PM BST",
+  "last_updated_iso": "2026-11-11T09:20:14.713Z",
   "total_events": 279,
   "events": [
     {
@@ -101,7 +101,71 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "myco - aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports hd",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "btv - hd",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001794385164-0-0-bf74bb84e7d967d37725f17a6ba130ac",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.zktsva.app/live/289650.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794281371-0-0-634218b345f6b9cdd2dc4c60cd6e11c0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2531",
