@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 12:30:19 PM BST",
-  "last_updated_iso": "2026-11-11T06:30:19.412Z",
+  "last_updated": "11 Nov 2026, 12:40:15 PM BST",
+  "last_updated_iso": "2026-11-11T06:40:15.966Z",
   "total_events": 279,
   "events": [
     {
@@ -34,6 +34,13 @@
           "name": "Tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports hd",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
