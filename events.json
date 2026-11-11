@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 06:43:48 PM BST",
-  "last_updated_iso": "2026-11-11T12:43:48.303Z",
+  "last_updated": "11 Nov 2026, 06:47:34 PM BST",
+  "last_updated_iso": "2026-11-11T12:47:34.739Z",
   "total_events": 276,
   "live_match": 5,
   "events": [
@@ -56,6 +56,36 @@
       "status": "LIVE"
     },
     {
+      "id": "2690",
+      "date": "11/11/2026",
+      "time": "7:45 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 11th Match",
+      "team1": "Royal Desert Champions",
+      "team2": "UAE Bulls",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/78.png",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "PREMIERE2 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2261",
       "date": "11/11/2026",
       "time": "8:00 PM",
@@ -81,6 +111,59 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2691",
+      "date": "11/11/2026",
+      "time": "10:00 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 12th Match",
+      "team1": "Arabian Aces",
+      "team2": "Yas Lions",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/1LI.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "PREMIERE2 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2570",
+      "date": "12/11/2026",
+      "time": "10:40 AM",
+      "league": "Cricket | WBBL 2026 - 19th Match",
+      "team1": "Melbourne Stars Women",
+      "team2": "Brisbane Heat Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
         }
       ],
       "status": "LIVE"
@@ -131,29 +214,6 @@
       "status": "UPCOMING"
     },
     {
-      "id": "2570",
-      "date": "12/11/2026",
-      "time": "10:40 AM",
-      "league": "Cricket | WBBL 2026 - 19th Match",
-      "team1": "Melbourne Stars Women",
-      "team2": "Brisbane Heat Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow sports - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2552",
       "date": "12/11/2026",
       "time": "11:00 AM",
@@ -173,10 +233,10 @@
       "date": "12/11/2026",
       "time": "11:00 AM",
       "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
-      "team1": "1st in Group B",
-      "team2": "2nd in Group A",
-      "logo1": "",
-      "logo2": "",
+      "team1": "Afghanistan Under-19",
+      "team2": "India Under-19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213103/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213112/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
       "isHot": false,
       "visibility": "public",
@@ -2027,66 +2087,6 @@
       "visibility": "public",
       "streams": [],
       "status": "ENDED"
-    },
-    {
-      "id": "2690",
-      "date": "11/11/2026",
-      "time": "7:45 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 11th Match",
-      "team1": "Royal Desert Champions",
-      "team2": "UAE Bulls",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/78.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2691",
-      "date": "11/11/2026",
-      "time": "10:00 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 12th Match",
-      "team1": "Arabian Aces",
-      "team2": "Yas Lions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
     },
     {
       "id": "2692",
