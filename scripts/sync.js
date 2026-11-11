@@ -213,7 +213,6 @@ async function main() {
   const raw = await fetchData();
   if (!raw || typeof raw !== "object") throw new Error("Invalid response from API");
 
-  // অ্যাপের মতোই অ্যারে বা অবজেক্ট — দুটোই সাপোর্ট
   const entries = Array.isArray(raw)
     ? raw.map((e, i) => [String(e?.id ?? i), e])
     : Object.entries(raw);
@@ -228,7 +227,7 @@ async function main() {
 
   const now = new Date();
 
-  // 💡 নতুন লজিক: স্ট্রিম থাকলে status 'LIVE' হবে
+  // 💡 স্ট্রিম থাকলে status 'LIVE' হবে
   events.forEach((ev) => {
     if (ev.streams && ev.streams.length > 0) {
       ev.status = "LIVE";
@@ -238,8 +237,16 @@ async function main() {
     }
   });
 
-  // Sort by date then time
-  events.sort((a, b) => new Date(`${a.date} ${a.time}`) - new Date(`${b.date} ${b.time}`));
+  // 💡 নতুন সর্টিং লজিক: LIVE ম্যাচ আগে, তারপর টাইম অনুযায়ী
+  events.sort((a, b) => {
+    const aLive = a.streams && a.streams.length > 0 ? 1 : 0;
+    const bLive = b.streams && b.streams.length > 0 ? 1 : 0;
+    
+    if (aLive !== bLive) {
+      return bLive - aLive; // যার স্ট্রিম আছে (1) সে আগে যাবে
+    }
+    return new Date(`${a.date} ${a.time}`) - new Date(`${b.date} ${b.time}`);
+  });
 
   // Bangladesh Standard Time = UTC+6
   const bst = new Date(now.getTime() + 6 * 60 * 60 * 1000);
@@ -253,7 +260,7 @@ async function main() {
 
   // 💡 মোট ম্যাচ এবং লাইভ ম্যাচের কাউন্ট
   const totalCount = events.length;
-  const liveCount = events.filter((ev) => ev.status === "LIVE").length;
+  const liveCount = events.filter((ev) => ev.streams && ev.streams.length > 0).length;
 
   const output = {
     last_updated: readable,
