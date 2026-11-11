@@ -1,8 +1,8 @@
 {
-  "last_updated": "12 Nov 2026, 12:30:20 AM BST",
-  "last_updated_iso": "2026-11-11T18:30:20.459Z",
+  "last_updated": "12 Nov 2026, 12:40:14 AM BST",
+  "last_updated_iso": "2026-11-11T18:40:14.439Z",
   "total_events": 275,
-  "live_match": 3,
+  "live_match": 4,
   "events": [
     {
       "id": "2691",
@@ -97,6 +97,36 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2692",
+      "date": "13/11/2026",
+      "time": "5:30 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 13th Match",
+      "team1": "United Tigers",
+      "team2": "Emirates Eagles",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/1LK.png",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "PREMIERE2 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -2001,21 +2031,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2692",
-      "date": "13/11/2026",
-      "time": "3:30 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 13th Match",
-      "team1": "United Tigers",
-      "team2": "Emirates Eagles",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
