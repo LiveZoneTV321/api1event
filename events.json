@@ -1,8 +1,8 @@
 {
-  "last_updated": "11 Nov 2026, 11:20:15 PM BST",
-  "last_updated_iso": "2026-11-11T17:20:15.341Z",
+  "last_updated": "11 Nov 2026, 11:31:09 PM BST",
+  "last_updated_iso": "2026-11-11T17:31:09.879Z",
   "total_events": 273,
-  "live_match": 2,
+  "live_match": 3,
   "events": [
     {
       "id": "2691",
@@ -42,6 +42,36 @@
       "status": "LIVE"
     },
     {
+      "id": "2530",
+      "date": "11/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Women's Champions League",
+      "team1": "Oud-Heverlee Leuven (W)",
+      "team2": "Koge (W)",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/71508",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/66336",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794403409-0-0-68282e46185bb7d360a7f1ea76dc1872",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2570",
       "date": "12/11/2026",
       "time": "10:40 AM",
@@ -63,21 +93,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "2530",
-      "date": "11/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Women's Champions League",
-      "team1": "Oud-Heverlee Leuven (W)",
-      "team2": "Koge (W)",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/71508",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/66336",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
     },
     {
       "id": "2561",
