@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 08:20:14 PM BST",
-  "last_updated_iso": "2026-11-11T14:20:14.606Z",
+  "last_updated": "11 Nov 2026, 08:30:23 PM BST",
+  "last_updated_iso": "2026-11-11T14:30:23.282Z",
   "total_events": 275,
   "live_match": 4,
   "events": [
@@ -114,6 +114,13 @@
           "name": "Server - 5",
           "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794403167-0-0-ae0c03a1a548ec73f26f134b58c19b1d",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.zktsva.app/live/289650.m3u8",
+          "referer": "https://xlz.domainkqt.cc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
