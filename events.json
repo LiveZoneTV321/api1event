@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 09:10:14 PM BST",
-  "last_updated_iso": "2026-11-11T15:10:14.122Z",
+  "last_updated": "11 Nov 2026, 09:20:14 PM BST",
+  "last_updated_iso": "2026-11-11T15:20:14.342Z",
   "total_events": 275,
   "live_match": 4,
   "events": [
@@ -122,6 +122,13 @@
           "url": "https://live2.zktsva.app/live/289650.m3u8",
           "referer": "https://xlz.domainkqt.cc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BTV 2 Fast",
+          "url": "http://line.rapid-pro.cc/live/F4422034AF16/9C852A/108801.m3u8",
+          "referer": "",
+          "userAgent": "",
           "drm": ""
         }
       ],
