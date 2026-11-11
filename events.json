@@ -1,7 +1,7 @@
 {
-  "last_updated": "11 Nov 2026, 11:31:09 PM BST",
-  "last_updated_iso": "2026-11-11T17:31:09.879Z",
-  "total_events": 273,
+  "last_updated": "11 Nov 2026, 11:40:17 PM BST",
+  "last_updated_iso": "2026-11-11T17:40:17.206Z",
+  "total_events": 275,
   "live_match": 3,
   "events": [
     {
@@ -4141,6 +4141,36 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
+      "streams": [],
+      "status": "ENDED"
+    },
+    {
+      "id": "2836",
+      "date": "14/11/2026",
+      "time": "3:00 PM",
+      "league": "Football | SAFF Championship 2026 - (Semi-Final 1)",
+      "team1": "India",
+      "team2": "Bhutan",
+      "logo1": "https://img.sofascore.com/api/v1/team/4828/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/191564/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [],
+      "status": "ENDED"
+    },
+    {
+      "id": "2837",
+      "date": "14/11/2026",
+      "time": "8:30 PM",
+      "league": "Football | SAFF Championship 2026 - (Semi-Final 2)",
+      "team1": "Bangladesh",
+      "team2": "Pakistan",
+      "logo1": "https://img.sofascore.com/api/v1/team/6080/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": false,
+      "visibility": "unpublic",
       "streams": [],
       "status": "ENDED"
     }
