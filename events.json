@@ -1,60 +1,9 @@
 {
-  "last_updated": "11 Nov 2026, 08:00:26 PM BST",
-  "last_updated_iso": "2026-11-11T14:00:26.616Z",
-  "total_events": 276,
-  "live_match": 5,
+  "last_updated": "11 Nov 2026, 08:10:14 PM BST",
+  "last_updated_iso": "2026-11-11T14:10:14.408Z",
+  "total_events": 275,
+  "live_match": 4,
   "events": [
-    {
-      "id": "2531",
-      "date": "11/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Vietnam",
-      "team2": "Chinese Taipei",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5462",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8509",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794390727-0-0-255a19bf80464315665421f943af3476",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1794391267-0-0-ed8b2d26f4fa0f35ad53f5d101fe1b99",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live2.zktsva.app/live/304565.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live2.zktsva.app/live/294335.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
     {
       "id": "2690",
       "date": "11/11/2026",
@@ -255,6 +204,21 @@
       "status": "UPCOMING"
     },
     {
+      "id": "2562",
+      "date": "12/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Women's Champions League",
+      "team1": "Juventus (W)",
+      "team2": "Olympique Lyonnais (W)",
+      "logo1": "https://img.sofascore.com/api/v1/team/2687/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [],
+      "status": "UPCOMING"
+    },
+    {
       "id": "2569",
       "date": "12/11/2026",
       "time": "10:30 AM",
@@ -313,21 +277,6 @@
       "visibility": "public",
       "streams": [],
       "status": "ENDED"
-    },
-    {
-      "id": "2562",
-      "date": "12/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Women's Champions League",
-      "team1": "Juventus (W)",
-      "team2": "Olympique Lyonnais (W)",
-      "logo1": "https://img.sofascore.com/api/v1/team/2687/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
     },
     {
       "id": "2564",
