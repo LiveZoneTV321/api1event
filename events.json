@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 04:00:27 PM BST",
-  "last_updated_iso": "2026-11-11T10:00:27.082Z",
+  "last_updated": "11 Nov 2026, 04:10:13 PM BST",
+  "last_updated_iso": "2026-11-11T10:10:13.890Z",
   "total_events": 279,
   "events": [
     {
@@ -161,6 +161,13 @@
         {
           "name": "Server - 6",
           "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794281371-0-0-634218b345f6b9cdd2dc4c60cd6e11c0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VETO - aq",
+          "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
