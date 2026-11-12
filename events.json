@@ -1,7 +1,7 @@
 {
-  "last_updated": "12 Nov 2026, 01:50:26 PM BST",
-  "last_updated_iso": "2026-11-12T07:50:26.646Z",
-  "total_events": 271,
+  "last_updated": "12 Nov 2026, 02:00:26 PM BST",
+  "last_updated_iso": "2026-11-12T08:00:26.099Z",
+  "total_events": 270,
   "live_match": 9,
   "events": [
     {
@@ -44,50 +44,6 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2570",
-      "date": "12/11/2026",
-      "time": "10:40 AM",
-      "league": "Cricket | WBBL 2026 - 19th Match",
-      "team1": "Melbourne Stars Women",
-      "team2": "Brisbane Heat Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow sports - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzkxM2IxNDcxZjQ5ZTQwMjVkOGQ3YjlmYTFhZWY4MTA6YTNlODU1MzBkZTU1YTFmNDAyYTA5OWIyYWRlODgwOGY="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzkxM2IxNDcxZjQ5ZTQwMjVkOGQ3YjlmYTFhZWY4MTA6YTNlODU1MzBkZTU1YTFmNDAyYTA5OWIyYWRlODgwOGY="
         }
       ],
       "status": "LIVE"
@@ -304,6 +260,29 @@
       "status": "LIVE"
     },
     {
+      "id": "2571",
+      "date": "12/11/2026",
+      "time": "2:10 PM",
+      "league": "Cricket | WBBL 2026 - 20th Match",
+      "team1": "Melbourne Renegades Women",
+      "team2": "Sydney Sixers Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274887/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2692",
       "date": "13/11/2026",
       "time": "5:30 PM",
@@ -407,21 +386,6 @@
       "visibility": "public",
       "streams": [],
       "status": "ENDED"
-    },
-    {
-      "id": "2571",
-      "date": "12/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | WBBL 2026 - 20th Match",
-      "team1": "Melbourne Renegades Women",
-      "team2": "Sydney Sixers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274887/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
     },
     {
       "id": "2573",
