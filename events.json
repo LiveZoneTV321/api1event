@@ -1,8 +1,8 @@
 {
-  "last_updated": "12 Nov 2026, 10:50:16 PM BST",
-  "last_updated_iso": "2026-11-12T16:50:16.737Z",
+  "last_updated": "12 Nov 2026, 11:00:27 PM BST",
+  "last_updated_iso": "2026-11-12T17:00:27.054Z",
   "total_events": 263,
-  "live_match": 11,
+  "live_match": 12,
   "events": [
     {
       "id": "2555",
@@ -58,6 +58,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://www.rtmpcdn.com/live/17e1ac47-caa9-4698-a236-70ce92411dea.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -153,6 +160,13 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://www.rtmpcdn.com/live/f19479d7-0000-4b2b-8adf-3a39c47e4bee.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -195,6 +209,13 @@
           "name": "Server - 3",
           "url": "http://193.47.62.59/hls/GGGGAAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://www.rtmpcdn.com/live/48188144-5399-4da3-ab38-99af6a1a06ed.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -462,6 +483,29 @@
       "status": "LIVE"
     },
     {
+      "id": "2567",
+      "date": "12/11/2026",
+      "time": "11:30 PM",
+      "league": "Football | Friendly International",
+      "team1": "Malta",
+      "team2": "Eswatini",
+      "logo1": "https://img.sofascore.com/api/v1/team/4483/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4733/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=1c0168f38fd9f0f9fa1681cbb6f2c8fb&wsABSTime=1794543859",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2692",
       "date": "13/11/2026",
       "time": "5:30 PM",
@@ -565,21 +609,6 @@
       "visibility": "public",
       "streams": [],
       "status": "ENDED"
-    },
-    {
-      "id": "2567",
-      "date": "12/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | Friendly International",
-      "team1": "Malta",
-      "team2": "Eswatini",
-      "logo1": "https://img.sofascore.com/api/v1/team/4483/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4733/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
     },
     {
       "id": "2568",
