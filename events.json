@@ -1,8 +1,8 @@
 {
-  "last_updated": "13 Nov 2026, 12:20:15 AM BST",
-  "last_updated_iso": "2026-11-12T18:20:15.381Z",
+  "last_updated": "13 Nov 2026, 12:30:22 AM BST",
+  "last_updated_iso": "2026-11-12T18:30:22.900Z",
   "total_events": 259,
-  "live_match": 15,
+  "live_match": 16,
   "events": [
     {
       "id": "2556",
@@ -297,6 +297,13 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g5l5tyyxyx/out/v1/6cc87968a1d5484c9beeb7041c3f9371/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "e433b72b04b06443f8f24794d88131e7:1dd12c46939c3027d9efd66a6330e3f3"
         }
       ],
       "status": "LIVE"
@@ -501,6 +508,50 @@
       "status": "LIVE"
     },
     {
+      "id": "2577",
+      "date": "13/11/2026",
+      "time": "1:00 AM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Cameroon",
+      "team2": "Namibia",
+      "logo1": "https://img.sofascore.com/api/v1/team/4751/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4832/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794504034-0-0-826df58b57f9c930a5a6b8c98c3fc49e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://playback.livetl004.com/live/6a9a5525864ea536c2577392.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1794499688-0-0-7f59c125bfdb1f057bba66c8e03a8579",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2600",
       "date": "13/11/2026",
       "time": "12:00 AM",
@@ -674,21 +725,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2577",
-      "date": "13/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Cameroon",
-      "team2": "Namibia",
-      "logo1": "https://img.sofascore.com/api/v1/team/4751/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4832/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "public",
       "streams": [],
