@@ -1,9 +1,46 @@
 {
-  "last_updated": "12 Nov 2026, 10:10:13 AM BST",
-  "last_updated_iso": "2026-11-12T04:10:13.651Z",
+  "last_updated": "12 Nov 2026, 10:20:14 AM BST",
+  "last_updated_iso": "2026-11-12T04:20:14.424Z",
   "total_events": 271,
-  "live_match": 4,
+  "live_match": 5,
   "events": [
+    {
+      "id": "2569",
+      "date": "12/11/2026",
+      "time": "10:30 AM",
+      "league": "Cricket | PAK vs SL - 1st Test, Day 4",
+      "team1": "Pakistan",
+      "team2": "Sri Lanka",
+      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZTE0OGI3MGQxYTg0NTI0YzZlZjA5MmY2ZDdlMmMxMGE6YzFmM2NjMzhmYmZmMTA0YmZkYWNkMGRjZDA3ZDA5MDA="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZTE0OGI3MGQxYTg0NTI0YzZlZjA5MmY2ZDdlMmMxMGE6YzFmM2NjMzhmYmZmMTA0YmZkYWNkMGRjZDA3ZDA5MDA="
+        },
+        {
+          "name": "t sports hd",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
     {
       "id": "2570",
       "date": "12/11/2026",
@@ -116,21 +153,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "2569",
-      "date": "12/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | PAK vs SL - 1st Test, Day 4",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
     },
     {
       "id": "2552",
