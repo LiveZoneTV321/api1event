@@ -1,8 +1,8 @@
 {
-  "last_updated": "12 Nov 2026, 11:40:13 AM BST",
-  "last_updated_iso": "2026-11-12T05:40:13.263Z",
+  "last_updated": "12 Nov 2026, 11:50:13 AM BST",
+  "last_updated_iso": "2026-11-12T05:50:13.224Z",
   "total_events": 271,
-  "live_match": 7,
+  "live_match": 8,
   "events": [
     {
       "id": "2569",
@@ -195,6 +195,36 @@
       "status": "LIVE"
     },
     {
+      "id": "2564",
+      "date": "12/11/2026",
+      "time": "12:00 PM",
+      "league": "Football | Friendly International",
+      "team1": "New Zealand",
+      "team2": "India",
+      "logo1": "https://img.sofascore.com/api/v1/team/4784/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4828/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=4b6a6d357ed9f5ddf137281de5b2d4fa&txTime=6af57cd0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794455168-0-0-e814d543bfb3e48908b252dd03d78f70",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2692",
       "date": "13/11/2026",
       "time": "5:30 PM",
@@ -298,21 +328,6 @@
       "visibility": "public",
       "streams": [],
       "status": "ENDED"
-    },
-    {
-      "id": "2564",
-      "date": "12/11/2026",
-      "time": "12:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "New Zealand",
-      "team2": "India",
-      "logo1": "https://img.sofascore.com/api/v1/team/4784/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4828/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
     },
     {
       "id": "2572",
