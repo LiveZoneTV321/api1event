@@ -1,6 +1,6 @@
 {
-  "last_updated": "12 Nov 2026, 01:30:22 PM BST",
-  "last_updated_iso": "2026-11-12T07:30:22.067Z",
+  "last_updated": "12 Nov 2026, 01:40:18 PM BST",
+  "last_updated_iso": "2026-11-12T07:40:18.609Z",
   "total_events": 271,
   "live_match": 9,
   "events": [
@@ -282,6 +282,20 @@
         {
           "name": "Server - 1",
           "url": "https://scontent.fdac24-2.fna.fbcdn.net/hvideo-frc-prn/_nc_cat-1/_nc_sr_t-4/v/rAbbd9PQszyBLvoOo7dn05XqiBVoqXp7NwK5dl_1mi1k-0w/_nc_ohc-o5sf-CHGRcwQ7kNvwHEcyUN/live-dash/dash-abr-ibr-audio/122147769177382821.mpd?_nc_eui2=AeFS-0Mb2R3wE49iptmW7FWtxRje9_UXKRnFGN739RcpGfC-_WJiRBwW_gtb80dq44zQni6T8un2Ni4YAhm0hR0D&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQSvcCxLROooNAViCDvSQap-ALaVzxh6ukFOkVM4AkToJQ&oe=6AF745E9",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://scontent.fdac198-1.fna.fbcdn.net/hvideo-atn-hil/_nc_cat-104/_nc_sr_t-4/v/rAbbjY4Ihb9LjZxduTgwQmmafFgzW_Ol-gN5jdcH37evN7g/_nc_ohc-U05qpXkFzq8Q7kNvwHFOeDv/live-dash/dash-abr-ibr-audio/122147797119382821.mpd?_nc_eui2=AeFZis-5QElZUN1UTDNdqSxkx4HJYJVrq37HgclglWurfqg9NbhE1zXc0twLPJv8lYdf0QCZOjYcnTHy1Or-q5Hq&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQRppbBDXDOL37aNSOg4tZgPLgV99NJ5K048sqGAlsWcVg&oe=6AF7341B",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
