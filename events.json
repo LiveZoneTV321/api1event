@@ -1,8 +1,8 @@
 {
-  "last_updated": "12 Nov 2026, 10:40:15 PM BST",
-  "last_updated_iso": "2026-11-12T16:40:15.948Z",
+  "last_updated": "12 Nov 2026, 10:50:16 PM BST",
+  "last_updated_iso": "2026-11-12T16:50:16.737Z",
   "total_events": 263,
-  "live_match": 9,
+  "live_match": 11,
   "events": [
     {
       "id": "2555",
@@ -320,6 +320,143 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2560",
+      "date": "12/11/2026",
+      "time": "11:00 PM",
+      "league": "Football | UEFA Nations League",
+      "team1": "Armenia",
+      "team2": "Cyprus",
+      "logo1": "https://img.sofascore.com/api/v1/team/4740/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4482/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794544046~acl=/*~id=19800105313312507146401517764036~hmac=8459cb0749612260423503c41c8663ec1a0de0b11fbabfe68ea714b7b27859ad",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BeIN2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "name": "SPORT2 TV CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794500455-0-0-ad48c6ffa19bbbfe35664b6e09523299",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live1.quickscoreboardz.com/live/channel21.flv?wsSecret=f70751edb93cfbbbee7367d1f93f31a9&wsABSTime=1794543655",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794500456-0-0-d6c122449c8c8372a763177b33813282",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "http://193.47.62.50/hls/EEEEAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794459008-0-0-aea9031a6f8c63ffefe032b4bc661207",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794490328-0-0-021ee251ff530a8da773d7429f5166c1",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 8",
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794492548-0-0-51f2d41036734018ff6377bf94c1ca29",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2566",
+      "date": "12/11/2026",
+      "time": "11:00 PM",
+      "league": "Football | Friendly International",
+      "team1": "Lithuania",
+      "team2": "Suriname",
+      "logo1": "https://img.sofascore.com/api/v1/team/4776/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/21822/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=27763d17ad355b3f07dcfafa06cb9545&wsABSTime=1794543842",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "http://193.47.62.50/hls/EEEE.m3u8",
+          "referer": "https://iframe.rumsport8.live/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -428,36 +565,6 @@
       "visibility": "public",
       "streams": [],
       "status": "ENDED"
-    },
-    {
-      "id": "2560",
-      "date": "12/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | UEFA Nations League",
-      "team1": "Armenia",
-      "team2": "Cyprus",
-      "logo1": "https://img.sofascore.com/api/v1/team/4740/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4482/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
-    },
-    {
-      "id": "2566",
-      "date": "12/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Lithuania",
-      "team2": "Suriname",
-      "logo1": "https://img.sofascore.com/api/v1/team/4776/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/21822/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
     },
     {
       "id": "2567",
