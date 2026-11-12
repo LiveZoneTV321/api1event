@@ -1,8 +1,8 @@
 {
-  "last_updated": "12 Nov 2026, 04:50:15 PM BST",
-  "last_updated_iso": "2026-11-12T10:50:15.165Z",
-  "total_events": 269,
-  "live_match": 8,
+  "last_updated": "12 Nov 2026, 05:00:25 PM BST",
+  "last_updated_iso": "2026-11-12T11:00:25.789Z",
+  "total_events": 266,
+  "live_match": 6,
   "events": [
     {
       "id": "2569",
@@ -42,43 +42,6 @@
           "name": "Tapmad - (bd)",
           "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
           "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2552",
-      "date": "12/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
-      "team1": "Pakistan Under-19",
-      "team2": "Bangladesh Under-19",
-      "logo1": "https://img.sofascore.com/api/v1/team/213104/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/213099/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gzvikpbslw/out/v1/63a3205231a0489fb62c8acc96e52bc2/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YWU5ZGZjM2UxNGY4MTUyMGM5NjY3OGIyODE4MjAzYjA6ODkwZjI3Y2U2NTMxNTc1ZDA5MzY1Yzk1Yzc1NTdjZDg="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gzvikpbslw/out/v1/63a3205231a0489fb62c8acc96e52bc2/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YWU5ZGZjM2UxNGY4MTUyMGM5NjY3OGIyODE4MjAzYjA6ODkwZjI3Y2U2NTMxNTc1ZDA5MzY1Yzk1Yzc1NTdjZDg="
-        },
-        {
-          "name": "sonyliv - (eng)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -143,57 +106,6 @@
         {
           "name": "sonyliv - (kan)",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794501332~acl=/*~id=71171590885094350985902327906639~hmac=50100fedc135277ca2c49ddb8d4b9348a675608125436cd200a57e119ceee376",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2572",
-      "date": "12/11/2026",
-      "time": "12:45 PM",
-      "league": "Cricket | NPL 2026 - 22nd Match",
-      "team1": "Biratnagar Kings",
-      "team2": "Pokhara Avengers",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PU.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PW.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "fancode - Aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "name": "FANCODE - SD",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://scontent.fdac24-2.fna.fbcdn.net/hvideo-frc-prn/_nc_cat-1/_nc_sr_t-4/v/rAbbd9PQszyBLvoOo7dn05XqiBVoqXp7NwK5dl_1mi1k-0w/_nc_ohc-o5sf-CHGRcwQ7kNvwHEcyUN/live-dash/dash-abr-ibr-audio/122147769177382821.mpd?_nc_eui2=AeFS-0Mb2R3wE49iptmW7FWtxRje9_UXKRnFGN739RcpGfC-_WJiRBwW_gtb80dq44zQni6T8un2Ni4YAhm0hR0D&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQSvcCxLROooNAViCDvSQap-ALaVzxh6ukFOkVM4AkToJQ&oe=6AF745E9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://scontent.fdac198-1.fna.fbcdn.net/hvideo-atn-hil/_nc_cat-104/_nc_sr_t-4/v/rAbbjY4Ihb9LjZxduTgwQmmafFgzW_Ol-gN5jdcH37evN7g/_nc_ohc-U05qpXkFzq8Q7kNvwHFOeDv/live-dash/dash-abr-ibr-audio/122147797119382821.mpd?_nc_eui2=AeFZis-5QElZUN1UTDNdqSxkx4HJYJVrq37HgclglWurfqg9NbhE1zXc0twLPJv8lYdf0QCZOjYcnTHy1Or-q5Hq&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQRppbBDXDOL37aNSOg4tZgPLgV99NJ5K048sqGAlsWcVg&oe=6AF7341B",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -349,21 +261,6 @@
       "visibility": "public",
       "streams": [],
       "status": "ENDED"
-    },
-    {
-      "id": "2573",
-      "date": "12/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 23rd Match",
-      "team1": "Karnali Yaks",
-      "team2": "Lumbini Lions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
     },
     {
       "id": "2555",
