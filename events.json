@@ -1,8 +1,8 @@
 {
-  "last_updated": "12 Nov 2026, 10:40:15 AM BST",
-  "last_updated_iso": "2026-11-12T04:40:15.064Z",
+  "last_updated": "12 Nov 2026, 10:50:12 AM BST",
+  "last_updated_iso": "2026-11-12T04:50:12.851Z",
   "total_events": 271,
-  "live_match": 5,
+  "live_match": 7,
   "events": [
     {
       "id": "2569",
@@ -37,6 +37,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -67,6 +74,80 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YzkxM2IxNDcxZjQ5ZTQwMjVkOGQ3YjlmYTFhZWY4MTA6YTNlODU1MzBkZTU1YTFmNDAyYTA5OWIyYWRlODgwOGY="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YzkxM2IxNDcxZjQ5ZTQwMjVkOGQ3YjlmYTFhZWY4MTA6YTNlODU1MzBkZTU1YTFmNDAyYTA5OWIyYWRlODgwOGY="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2552",
+      "date": "12/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
+      "team1": "Pakistan Under-19",
+      "team2": "Bangladesh Under-19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213104/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213099/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gzvikpbslw/out/v1/63a3205231a0489fb62c8acc96e52bc2/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YWU5ZGZjM2UxNGY4MTUyMGM5NjY3OGIyODE4MjAzYjA6ODkwZjI3Y2U2NTMxNTc1ZDA5MzY1Yzk1Yzc1NTdjZDg="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gzvikpbslw/out/v1/63a3205231a0489fb62c8acc96e52bc2/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YWU5ZGZjM2UxNGY4MTUyMGM5NjY3OGIyODE4MjAzYjA6ODkwZjI3Y2U2NTMxNTc1ZDA5MzY1Yzk1Yzc1NTdjZDg="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2553",
+      "date": "12/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
+      "team1": "Afghanistan Under-19",
+      "team2": "India Under-19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213103/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213112/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dgcuvppny7/out/v1/bdda2132bb0d48b58073099204524d19/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NjliNGY3ZDVkODVmZjQ3MTkyZmNlMjdjMTA3MjQ2Zjc6ODk5M2Y5OTE2NTVjODRlYjMyNGJhZDJjMWM1NTFjYzE="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dgcuvppny7/out/v1/bdda2132bb0d48b58073099204524d19/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NjliNGY3ZDVkODVmZjQ3MTkyZmNlMjdjMTA3MjQ2Zjc6ODk5M2Y5OTE2NTVjODRlYjMyNGJhZDJjMWM1NTFjYzE="
         }
       ],
       "status": "LIVE"
@@ -160,36 +241,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "2552",
-      "date": "12/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
-      "team1": "Pakistan Under-19",
-      "team2": "Bangladesh Under-19",
-      "logo1": "https://img.sofascore.com/api/v1/team/213104/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/213099/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
-    },
-    {
-      "id": "2553",
-      "date": "12/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
-      "team1": "Afghanistan Under-19",
-      "team2": "India Under-19",
-      "logo1": "https://img.sofascore.com/api/v1/team/213103/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/213112/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "UPCOMING"
     },
     {
       "id": "2554",
