@@ -1,8 +1,8 @@
 {
-  "last_updated": "12 Nov 2026, 02:10:13 PM BST",
-  "last_updated_iso": "2026-11-12T08:10:13.508Z",
-  "total_events": 270,
-  "live_match": 9,
+  "last_updated": "12 Nov 2026, 02:20:16 PM BST",
+  "last_updated_iso": "2026-11-12T08:20:16.212Z",
+  "total_events": 269,
+  "live_match": 8,
   "events": [
     {
       "id": "2569",
@@ -144,64 +144,6 @@
           "name": "sonyliv - (kan)",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794501332~acl=/*~id=71171590885094350985902327906639~hmac=50100fedc135277ca2c49ddb8d4b9348a675608125436cd200a57e119ceee376",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2564",
-      "date": "12/11/2026",
-      "time": "12:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "New Zealand",
-      "team2": "India",
-      "logo1": "https://img.sofascore.com/api/v1/team/4784/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4828/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=4b6a6d357ed9f5ddf137281de5b2d4fa&txTime=6af57cd0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794455168-0-0-e814d543bfb3e48908b252dd03d78f70",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794461060-0-0-22c3e8368b5b471db3174ee020a40e57",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live2.zktsva.app/live/306290.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 6",
-          "url": "http://193.47.62.59/hls/VFFFAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
