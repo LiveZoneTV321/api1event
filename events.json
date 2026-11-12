@@ -1,6 +1,6 @@
 {
-  "last_updated": "12 Nov 2026, 09:10:14 PM BST",
-  "last_updated_iso": "2026-11-12T15:10:14.718Z",
+  "last_updated": "12 Nov 2026, 09:20:14 PM BST",
+  "last_updated_iso": "2026-11-12T15:20:14.615Z",
   "total_events": 263,
   "live_match": 5,
   "events": [
@@ -44,6 +44,20 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "name": "beIN ESPNAOL FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
         }
       ],
       "status": "LIVE"
