@@ -1,8 +1,8 @@
 {
-  "last_updated": "13 Nov 2026, 11:30:19 AM BST",
-  "last_updated_iso": "2026-11-13T05:30:19.037Z",
+  "last_updated": "13 Nov 2026, 11:40:13 AM BST",
+  "last_updated_iso": "2026-11-13T05:40:13.578Z",
   "total_events": 240,
-  "live_match": 6,
+  "live_match": 7,
   "events": [
     {
       "id": "2602",
@@ -188,6 +188,36 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2605",
+      "date": "13/11/2026",
+      "time": "12:00 PM",
+      "league": "Cricket | AFG vs ZIM - 2nd Test, Day 1",
+      "team1": "Afghanistan",
+      "team2": "Zimbabwe",
+      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dnip3gefsa/out/v1/d07a14d5030a4c119f2adb15588cb7e2/cenc.mpd",
+          "referer": "b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YjIxNDg3ZDQ4ZGJhMTYxZGYxZGJjYjI3MDllNzhhYzU6NDk1ZDRkZmQ2NTU3OTFjMzk5MzM0NjFjMzc1MWJkZTM="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dnip3gefsa/out/v1/d07a14d5030a4c119f2adb15588cb7e2/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YjIxNDg3ZDQ4ZGJhMTYxZGYxZGJjYjI3MDllNzhhYzU6NDk1ZDRkZmQ2NTU3OTFjMzk5MzM0NjFjMzc1MWJkZTM="
         }
       ],
       "status": "LIVE"
@@ -532,21 +562,6 @@
       "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5089",
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2605",
-      "date": "13/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | AFG vs ZIM - 2nd Test, Day 1",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
