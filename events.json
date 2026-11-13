@@ -1,7 +1,7 @@
 {
-  "last_updated": "13 Nov 2026, 02:10:13 PM BST",
-  "last_updated_iso": "2026-11-13T08:10:13.436Z",
-  "total_events": 238,
+  "last_updated": "13 Nov 2026, 02:20:13 PM BST",
+  "last_updated_iso": "2026-11-13T08:20:13.657Z",
+  "total_events": 237,
   "live_match": 7,
   "events": [
     {
@@ -418,21 +418,6 @@
       "team2": "Kenya",
       "logo1": "https://img.sofascore.com/api/v1/team/4736/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4773/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2584",
-      "date": "13/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Equatorial Guinea",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/8032/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4719/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "public",
