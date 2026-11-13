@@ -1,8 +1,8 @@
 {
-  "last_updated": "13 Nov 2026, 07:30:22 PM BST",
-  "last_updated_iso": "2026-11-13T13:30:22.498Z",
-  "total_events": 233,
-  "live_match": 7,
+  "last_updated": "13 Nov 2026, 07:40:21 PM BST",
+  "last_updated_iso": "2026-11-13T13:40:21.058Z",
+  "total_events": 232,
+  "live_match": 6,
   "events": [
     {
       "id": "2578",
@@ -216,50 +216,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2692",
-      "date": "13/11/2026",
-      "time": "5:30 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 13th Match",
-      "team1": "United Tigers",
-      "team2": "Emirates Eagles",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kjohwlwwrx/out/v1/45f5249357694dd985808ceea0a3cd80/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MDRhZmEzNzg2YmZiZGIyNWRlN2MzZWEzZjUwOTBmNGM6ZjM2OGYwM2Q3YzljODJhZjAyM2ZmY2Q5OWU1MzM5OTg="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kjohwlwwrx/out/v1/45f5249357694dd985808ceea0a3cd80/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MDRhZmEzNzg2YmZiZGIyNWRlN2MzZWEzZjUwOTBmNGM6ZjM2OGYwM2Q3YzljODJhZjAyM2ZmY2Q5OWU1MzM5OTg="
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2693",
       "date": "13/11/2026",
       "time": "7:45 PM",
@@ -283,6 +239,27 @@
           "name": "a sports - aq",
           "url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoet76t7t0/out/v1/42febfe8a5424aa1b545cb1199709a04/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "Mjc2NDA0N2U4NDY0OWI2NjU0YmRkZTFiM2ExMWJhY2Y6ZGU2NzAxODlkZjM3MWM1YTg0NjUzMWRlNmM3MGI4ZDU="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoet76t7t0/out/v1/42febfe8a5424aa1b545cb1199709a04/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "Mjc2NDA0N2U4NDY0OWI2NjU0YmRkZTFiM2ExMWJhY2Y6ZGU2NzAxODlkZjM3MWM1YTg0NjUzMWRlNmM3MGI4ZDU="
+        },
+        {
+          "name": "Myco - aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/stablesportstv/",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
