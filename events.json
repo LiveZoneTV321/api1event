@@ -1,8 +1,8 @@
 {
-  "last_updated": "13 Nov 2026, 10:10:13 AM BST",
-  "last_updated_iso": "2026-11-13T04:10:13.857Z",
+  "last_updated": "13 Nov 2026, 10:20:17 AM BST",
+  "last_updated_iso": "2026-11-13T04:20:17.742Z",
   "total_events": 240,
-  "live_match": 5,
+  "live_match": 6,
   "events": [
     {
       "id": "2602",
@@ -114,6 +114,43 @@
           "name": "willow sports - aq",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "referer": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2604",
+      "date": "13/11/2026",
+      "time": "10:30 AM",
+      "league": "Cricket | PAK vs SL - 1st Test, Day 5",
+      "team1": "Pakistan",
+      "team2": "Sri Lanka",
+      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NWU4ZWJkOTE4MTk0NmZiYWE2ZTNkYmY1N2JlMWUwOGM6N2FjNjVhNTBiZDk4MzNmNDBlYjhkMzgzYTViZjJiZWI="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NWU4ZWJkOTE4MTk0NmZiYWE2ZTNkYmY1N2JlMWUwOGM6N2FjNjVhNTBiZDk4MzNmNDBlYjhkMzgzYTViZjJiZWI="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -460,21 +497,6 @@
       "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5089",
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2604",
-      "date": "13/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | PAK vs SL - 1st Test, Day 5",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
