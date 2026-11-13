@@ -1,8 +1,8 @@
 {
-  "last_updated": "14 Nov 2026, 01:40:17 AM BST",
-  "last_updated_iso": "2026-11-13T19:40:17.871Z",
+  "last_updated": "14 Nov 2026, 01:50:16 AM BST",
+  "last_updated_iso": "2026-11-13T19:50:16.344Z",
   "total_events": 337,
-  "live_match": 12,
+  "live_match": 14,
   "events": [
     {
       "id": "2608",
@@ -79,6 +79,43 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001794590616-0-0-69a27f570cf662565c1cede569257f5f",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2610",
+      "date": "14/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Morocco",
+      "team2": "Niger",
+      "logo1": "https://img.sofascore.com/api/v1/team/4778/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/8031/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001794594179-0-0-3b16b61a61e28815d36aebd7ec5571c0",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -345,6 +382,13 @@
         {
           "name": "Server - 8",
           "url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -657,6 +701,36 @@
       "status": "LIVE"
     },
     {
+      "id": "2643",
+      "date": "14/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | Copa del Rey",
+      "team1": "Salamanca UDS",
+      "team2": "RC Celta",
+      "logo1": "https://img.sofascore.com/api/v1/team/263916/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2821/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=a094b07719f963fdf33f8e504b750a61&wsABSTime=1794637505",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.41/hls/EBBBAAAAAQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2644",
       "date": "14/11/2026",
       "time": "1:30 AM",
@@ -703,21 +777,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/6081/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4828/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2610",
-      "date": "14/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Morocco",
-      "team2": "Niger",
-      "logo1": "https://img.sofascore.com/api/v1/team/4778/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/8031/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "unpublic",
       "streams": [],
@@ -1063,21 +1122,6 @@
       "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2643",
-      "date": "14/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | Copa del Rey",
-      "team1": "Salamanca UDS",
-      "team2": "RC Celta",
-      "logo1": "https://img.sofascore.com/api/v1/team/263916/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2821/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": [],
