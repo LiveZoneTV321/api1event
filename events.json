@@ -1,8 +1,8 @@
 {
-  "last_updated": "13 Nov 2026, 09:30:21 PM BST",
-  "last_updated_iso": "2026-11-13T15:30:21.639Z",
+  "last_updated": "13 Nov 2026, 09:40:14 PM BST",
+  "last_updated_iso": "2026-11-13T15:40:14.677Z",
   "total_events": 229,
-  "live_match": 7,
+  "live_match": 11,
   "events": [
     {
       "id": "1",
@@ -65,6 +65,133 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001794583243-0-0-30508d55fe94ffe72732f7f0c0737566",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2582",
+      "date": "13/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Gabon",
+      "team2": "Lesotho",
+      "logo1": "https://img.sofascore.com/api/v1/team/4761/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/8033/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794583330-0-0-d04060af755f7c723e6b6439b05fe746",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2583",
+      "date": "13/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "South Africa",
+      "team2": "Kenya",
+      "logo1": "https://img.sofascore.com/api/v1/team/4736/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4773/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001794583456-0-0-41eaf824e1a43ffbcadb464a4b3070dc",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2586",
+      "date": "13/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Cape Verde",
+      "team2": "Liberia",
+      "logo1": "https://img.sofascore.com/api/v1/team/4753/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/8034/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794583251-0-0-a0944623cedd67b51730c6d1a849d6ab",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2587",
+      "date": "13/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Nigeria",
+      "team2": "Tanzania",
+      "logo1": "https://img.sofascore.com/api/v1/team/4785/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4835/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel20.flv?wsSecret=31d9625ecf461ca8bbdabbc2f99a4863&wsABSTime=1794626492",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001794583468-0-0-b7fc79d8b333a7ac851a6e12f93d34d9",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -335,36 +462,6 @@
       "status": "ENDED"
     },
     {
-      "id": "2582",
-      "date": "13/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Gabon",
-      "team2": "Lesotho",
-      "logo1": "https://img.sofascore.com/api/v1/team/4761/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/8033/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2583",
-      "date": "13/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "South Africa",
-      "team2": "Kenya",
-      "logo1": "https://img.sofascore.com/api/v1/team/4736/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4773/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "2585",
       "date": "13/11/2026",
       "time": "10:00 PM",
@@ -373,36 +470,6 @@
       "team2": "Libya",
       "logo1": "https://img.sofascore.com/api/v1/team/4729/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4775/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2586",
-      "date": "13/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Cape Verde",
-      "team2": "Liberia",
-      "logo1": "https://img.sofascore.com/api/v1/team/4753/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/8034/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2587",
-      "date": "13/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Nigeria",
-      "team2": "Tanzania",
-      "logo1": "https://img.sofascore.com/api/v1/team/4785/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4835/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "public",
