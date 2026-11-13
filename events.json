@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Nov 2026, 09:40:14 PM BST",
-  "last_updated_iso": "2026-11-13T15:40:14.677Z",
+  "last_updated": "13 Nov 2026, 09:50:14 PM BST",
+  "last_updated_iso": "2026-11-13T15:50:14.267Z",
   "total_events": 229,
   "live_match": 11,
   "events": [
@@ -440,6 +440,13 @@
           "name": "a sports - aq",
           "url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "myco - aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
