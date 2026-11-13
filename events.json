@@ -1,8 +1,8 @@
 {
-  "last_updated": "13 Nov 2026, 07:20:14 PM BST",
-  "last_updated_iso": "2026-11-13T13:20:14.923Z",
-  "total_events": 234,
-  "live_match": 8,
+  "last_updated": "13 Nov 2026, 07:30:22 PM BST",
+  "last_updated_iso": "2026-11-13T13:30:22.498Z",
+  "total_events": 233,
+  "live_match": 7,
   "events": [
     {
       "id": "2578",
@@ -209,43 +209,6 @@
           "name": "Server - 5",
           "url": "https://live2.zktsva.app/live/289650.m3u8",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2605",
-      "date": "13/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | AFG vs ZIM - 2nd Test, Day 1",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dnip3gefsa/out/v1/d07a14d5030a4c119f2adb15588cb7e2/cenc.mpd",
-          "referer": "b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjIxNDg3ZDQ4ZGJhMTYxZGYxZGJjYjI3MDllNzhhYzU6NDk1ZDRkZmQ2NTU3OTFjMzk5MzM0NjFjMzc1MWJkZTM="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dnip3gefsa/out/v1/d07a14d5030a4c119f2adb15588cb7e2/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjIxNDg3ZDQ4ZGJhMTYxZGYxZGJjYjI3MDllNzhhYzU6NDk1ZDRkZmQ2NTU3OTFjMzk5MzM0NjFjMzc1MWJkZTM="
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -479,7 +442,7 @@
     {
       "id": "2596",
       "date": "13/11/2026",
-      "time": "8:00 PM",
+      "time": "10:30 PM",
       "league": "Football | Friendly International",
       "team1": "Kuwait",
       "team2": "Syria",
@@ -524,7 +487,7 @@
     {
       "id": "2599",
       "date": "13/11/2026",
-      "time": "11:00 PM",
+      "time": "8:10 PM",
       "league": "Football | Friendly International",
       "team1": "UAE",
       "team2": "Honduras",
