@@ -1,9 +1,46 @@
 {
-  "last_updated": "13 Nov 2026, 08:50:14 PM BST",
-  "last_updated_iso": "2026-11-13T14:50:14.106Z",
-  "total_events": 231,
-  "live_match": 8,
+  "last_updated": "13 Nov 2026, 09:00:28 PM BST",
+  "last_updated_iso": "2026-11-13T15:00:28.609Z",
+  "total_events": 232,
+  "live_match": 9,
   "events": [
+    {
+      "id": "1",
+      "date": "13/11/2026",
+      "time": "9:00 PM",
+      "league": "Friendly international",
+      "team1": "Iraq",
+      "team2": "Lebanon",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5078",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5088",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=af4eac140a81728eafc3769659aace32&txTime=6af76c84",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=af4eac140a81728eafc3769659aace32&txTime=6af76c84",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/BBBBAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
     {
       "id": "2578",
       "date": "13/11/2026",
