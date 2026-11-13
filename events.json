@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Nov 2026, 11:50:13 AM BST",
-  "last_updated_iso": "2026-11-13T05:50:13.611Z",
+  "last_updated": "13 Nov 2026, 12:00:25 PM BST",
+  "last_updated_iso": "2026-11-13T06:00:25.240Z",
   "total_events": 240,
   "live_match": 7,
   "events": [
@@ -218,6 +218,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "YjIxNDg3ZDQ4ZGJhMTYxZGYxZGJjYjI3MDllNzhhYzU6NDk1ZDRkZmQ2NTU3OTFjMzk5MzM0NjFjMzc1MWJkZTM="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
