@@ -1,8 +1,8 @@
 {
-  "last_updated": "13 Nov 2026, 10:20:15 PM BST",
-  "last_updated_iso": "2026-11-13T16:20:15.902Z",
-  "total_events": 350,
-  "live_match": 10,
+  "last_updated": "13 Nov 2026, 10:30:19 PM BST",
+  "last_updated_iso": "2026-11-13T16:30:19.964Z",
+  "total_events": 349,
+  "live_match": 12,
   "events": [
     {
       "id": "1",
@@ -127,6 +127,43 @@
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2585",
+      "date": "13/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Tunisia",
+      "team2": "Libya",
+      "logo1": "https://img.sofascore.com/api/v1/team/4729/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4775/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "beIN SPORTS FHD",
+          "url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=lLi8AB39t1Leqsc4dCjaew&e=2094539414&scheme=https",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BeIN SPORTS EXTRA FHD",
+          "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "bc1ba12f4bf63bdd174fa9d781619371:0612fbf17cca145bf907cceffed162ab"
         }
       ],
       "status": "LIVE"
@@ -192,6 +229,143 @@
           "name": "Server - 3",
           "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001794583468-0-0-b7fc79d8b333a7ac851a6e12f93d34d9",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2594",
+      "date": "13/11/2026",
+      "time": "11:00 PM",
+      "league": "Football | UEFA Nations League",
+      "team1": "Moldova",
+      "team2": "Kazakhstan",
+      "logo1": "https://img.sofascore.com/api/v1/team/4782/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4772/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/Footlive1311/ENG/master.m3u8?hdnea=exp=1794630051~acl=/*~id=17706944214801836118993937716397~hmac=b15f8282f4b0ae2fc8e3a8b5b27018fb16b28d42efe12ca68067bf9961b7c8c2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "beIN ENGLISH FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "name": "SPORT1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=f48789d7503895d6e3a81995579e5390&wsABSTime=1794626637",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794583443-0-0-4055e23021813b13ca11bebafba0b638",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001794583444-0-0-fbd88ab08917ca3ff114a507b50bf594",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=e79daae4c9b8158645f893975a4e8e9f&txTime=6af77bfc",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794586028-0-0-75b0269cc480d89f4b0e4f0af906dfec",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2596",
+      "date": "13/11/2026",
+      "time": "10:30 PM",
+      "league": "Football | Friendly International",
+      "team1": "Kuwait",
+      "team2": "Syria",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5092",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/5090",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001794583372-0-0-25e7cb11651b815df156e8cfcf671011",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794577808-0-0-e48f97b31ae66858c848d70304d338e9",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.zktsva.app/live/301238.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "http://193.47.62.41/hls/WAWAWAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -329,43 +503,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2599",
-      "date": "13/11/2026",
-      "time": "8:10 PM",
-      "league": "Football | Friendly International",
-      "team1": "UAE",
-      "team2": "Honduras",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5089",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794576376-0-0-27630dbeb632ffe9ab20a0726fad17b3",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "http://193.47.62.41/hls/BBBBA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2694",
       "date": "13/11/2026",
       "time": "10:00 PM",
@@ -426,51 +563,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2585",
-      "date": "13/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Tunisia",
-      "team2": "Libya",
-      "logo1": "https://img.sofascore.com/api/v1/team/4729/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4775/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2594",
-      "date": "13/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | UEFA Nations League",
-      "team1": "Moldova",
-      "team2": "Kazakhstan",
-      "logo1": "https://img.sofascore.com/api/v1/team/4782/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4772/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2596",
-      "date": "13/11/2026",
-      "time": "10:30 PM",
-      "league": "Football | Friendly International",
-      "team1": "Kuwait",
-      "team2": "Syria",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5092",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/5090",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
       "streams": [],
