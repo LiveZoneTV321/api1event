@@ -1,8 +1,8 @@
 {
-  "last_updated": "13 Nov 2026, 09:20:14 AM BST",
-  "last_updated_iso": "2026-11-13T03:20:14.061Z",
+  "last_updated": "13 Nov 2026, 09:30:20 AM BST",
+  "last_updated_iso": "2026-11-13T03:30:20.520Z",
   "total_events": 240,
-  "live_match": 4,
+  "live_match": 5,
   "events": [
     {
       "id": "2602",
@@ -65,6 +65,29 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "2848e6ec50f63a4a5ed5e0c0bb94c870:c6d49139023938d6a73f6a3141b2ff5e"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2603",
+      "date": "13/11/2026",
+      "time": "9:30 AM",
+      "league": "Cricket | AUS vs ENG - 1st ODI",
+      "team1": "Australia",
+      "team2": "England",
+      "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/team/287712/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -409,21 +432,6 @@
       "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5089",
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2603",
-      "date": "13/11/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | AUS vs ENG - 1st ODI",
-      "team1": "Australia",
-      "team2": "England",
-      "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/team/287712/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
