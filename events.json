@@ -1,8 +1,8 @@
 {
-  "last_updated": "13 Nov 2026, 10:00:33 PM BST",
-  "last_updated_iso": "2026-11-13T16:00:33.303Z",
-  "total_events": 229,
-  "live_match": 11,
+  "last_updated": "13 Nov 2026, 10:10:14 PM BST",
+  "last_updated_iso": "2026-11-13T16:10:14.299Z",
+  "total_events": 228,
+  "live_match": 10,
   "events": [
     {
       "id": "1",
@@ -366,57 +366,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2693",
-      "date": "13/11/2026",
-      "time": "7:45 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 14th Match",
-      "team1": "Royal Desert Champions",
-      "team2": "Yas Lions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 SPORTS - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoet76t7t0/out/v1/42febfe8a5424aa1b545cb1199709a04/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "Mjc2NDA0N2U4NDY0OWI2NjU0YmRkZTFiM2ExMWJhY2Y6ZGU2NzAxODlkZjM3MWM1YTg0NjUzMWRlNmM3MGI4ZDU="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoet76t7t0/out/v1/42febfe8a5424aa1b545cb1199709a04/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "Mjc2NDA0N2U4NDY0OWI2NjU0YmRkZTFiM2ExMWJhY2Y6ZGU2NzAxODlkZjM3MWM1YTg0NjUzMWRlNmM3MGI4ZDU="
-        },
-        {
-          "name": "Myco - aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/stablesportstv/",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2694",
       "date": "13/11/2026",
       "time": "10:00 PM",
@@ -449,6 +398,20 @@
           "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/delyeuco8c/out/v1/1f09875985524291b4fc55f67ababfb5/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OGY1ZGQxM2I4YThlMzM1OWE3M2UyMjNiODgzNjkwNjA6ODc2YmJkYTNlNjk4NjU0OTgyNDhlYTA5MmRjZTRjOWU="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pslnnoz6xn/out/v1/01d27da0257d4eda953bdb38ec553d31/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OGY1ZGQxM2I4YThlMzM1OWE3M2UyMjNiODgzNjkwNjA6ODc2YmJkYTNlNjk4NjU0OTgyNDhlYTA5MmRjZTRjOWU="
         }
       ],
       "status": "LIVE"
