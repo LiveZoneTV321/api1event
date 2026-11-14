@@ -1,8 +1,8 @@
 {
-  "last_updated": "14 Nov 2026, 02:00:24 PM BST",
-  "last_updated_iso": "2026-11-14T08:00:24.192Z",
-  "total_events": 318,
-  "live_match": 4,
+  "last_updated": "14 Nov 2026, 02:10:13 PM BST",
+  "last_updated_iso": "2026-11-14T08:10:13.110Z",
+  "total_events": 317,
+  "live_match": 3,
   "events": [
     {
       "id": "2554",
@@ -63,43 +63,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2636",
-      "date": "14/11/2026",
-      "time": "12:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Bahrain",
-      "team2": "Yemen",
-      "logo1": "https://img.sofascore.com/api/v1/team/5161/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4721/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794633608-0-0-a91cb7385182c59917057128d0815167",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794637328-0-0-fe1dfc1c9df76cbf57d81856c7e47e70",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2650",
       "date": "14/11/2026",
       "time": "2:10 PM",
@@ -118,6 +81,27 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZmM0OTY4ZmI0ZGVjODM3ZmE1YmU2MmY5YzQ2M2NmMDQ6MGI3ZDcwYmJmMTE0NTQzYmM5MjE5MzAyMWNjYzBiMjM="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZmM0OTY4ZmI0ZGVjODM3ZmE1YmU2MmY5YzQ2M2NmMDQ6MGI3ZDcwYmJmMTE0NTQzYmM5MjE5MzAyMWNjYzBiMjM="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -1766,7 +1750,7 @@
       "logo1": "https://img.sofascore.com/api/v1/team/4819/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4756/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
+      "isHot": true,
       "visibility": "unpublic",
       "streams": [],
       "status": "ENDED"
@@ -3041,7 +3025,7 @@
       "logo1": "https://img.sofascore.com/api/v1/team/6080/image",
       "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
-      "isHot": false,
+      "isHot": true,
       "visibility": "unpublic",
       "streams": [],
       "status": "ENDED"
