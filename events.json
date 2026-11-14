@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 06:50:13 PM BST",
-  "last_updated_iso": "2026-11-14T12:50:13.447Z",
+  "last_updated": "14 Nov 2026, 07:00:26 PM BST",
+  "last_updated_iso": "2026-11-14T13:00:26.222Z",
   "total_events": 318,
   "live_match": 16,
   "events": [
@@ -694,6 +694,13 @@
         {
           "name": "t sports - hd 2",
           "url": "http://103.209.196.22:84/feed1001/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "btv hd",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
