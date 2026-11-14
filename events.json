@@ -1,8 +1,8 @@
 {
-  "last_updated": "15 Nov 2026, 12:10:12 AM BST",
-  "last_updated_iso": "2026-11-14T18:10:12.944Z",
-  "total_events": 290,
-  "live_match": 7,
+  "last_updated": "15 Nov 2026, 12:20:17 AM BST",
+  "last_updated_iso": "2026-11-14T18:20:17.570Z",
+  "total_events": 291,
+  "live_match": 10,
   "events": [
     {
       "id": "2630",
@@ -337,6 +337,96 @@
       "status": "LIVE"
     },
     {
+      "id": "2698",
+      "date": "15/11/2026",
+      "time": "3:30 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 19th Match",
+      "team1": "Royal Desert Champions",
+      "team2": "Arabian Aces",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "PREMIERE2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2699",
+      "date": "15/11/2026",
+      "time": "5:45 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 20th Match",
+      "team1": "Emirates Eagles",
+      "team2": "UAE Bulls",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/1LK.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/78.png",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "PREMIERE2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2700",
+      "date": "15/11/2026",
+      "time": "8:00 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 21st Match",
+      "team1": "United Tigers",
+      "team2": "Yas Lions",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "PREMIERE2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2719",
       "date": "16/11/2026",
       "time": "2:10 PM",
@@ -381,6 +471,21 @@
         }
       ],
       "status": "LIVE"
+    },
+    {
+      "id": "1",
+      "date": "15/11/2026",
+      "time": "3:30 AM",
+      "league": "Football | CONCACAF Nations League",
+      "team1": "Haiti",
+      "team2": "USA",
+      "logo1": "https://img.sofascore.com/api/v1/team/7229/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4724/image",
+      "leagueLogo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [],
+      "status": "ENDED"
     },
     {
       "id": "2653",
@@ -767,51 +872,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2698",
-      "date": "15/11/2026",
-      "time": "3:30 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 19th Match",
-      "team1": "Royal Desert Champions",
-      "team2": "Arabian Aces",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2699",
-      "date": "15/11/2026",
-      "time": "5:45 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 20th Match",
-      "team1": "Emirates Eagles",
-      "team2": "UAE Bulls",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/78.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2700",
-      "date": "15/11/2026",
-      "time": "8:00 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 21st Match",
-      "team1": "United Tigers",
-      "team2": "Yas Lions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
