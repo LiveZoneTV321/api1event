@@ -1,8 +1,8 @@
 {
-  "last_updated": "14 Nov 2026, 05:40:13 PM BST",
-  "last_updated_iso": "2026-11-14T11:40:13.054Z",
+  "last_updated": "14 Nov 2026, 05:50:16 PM BST",
+  "last_updated_iso": "2026-11-14T11:50:16.245Z",
   "total_events": 318,
-  "live_match": 9,
+  "live_match": 15,
   "events": [
     {
       "id": "1",
@@ -186,6 +186,138 @@
       "status": "LIVE"
     },
     {
+      "id": "2638",
+      "date": "14/11/2026",
+      "time": "6:00 PM",
+      "league": "Football | Friendly International",
+      "team1": "Thailand",
+      "team2": "Tajikistan",
+      "logo1": "https://img.sofascore.com/api/v1/team/4730/image",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001794655615-0-0-cba3eb9a028fda94bd6ac3f3984de8d4",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=f76e0e754c496bc23ddacfc989e85da4&txTime=6af82d2c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1794631448-0-0-0330254d5e227e09bb09d510640e2ab5",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2639",
+      "date": "14/11/2026",
+      "time": "6:00 PM",
+      "league": "Football | Friendly International",
+      "team1": "China",
+      "team2": "Malaysia",
+      "logo1": "https://img.sofascore.com/api/v1/team/4755/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6912/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794655639-0-0-b315c675383e46756eb1d53f0418f00a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://playback.livetl004.com/live/6a9776215126529dede9bf51.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2640",
+      "date": "14/11/2026",
+      "time": "6:00 PM",
+      "league": "Football | Friendly International",
+      "team1": "Chinese Taipei",
+      "team2": "Kyrgyzstan",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8509",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/11295",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001794655279-0-0-92910147b3d667141ee891a8920afdd4",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2650",
       "date": "14/11/2026",
       "time": "2:10 PM",
@@ -304,6 +436,29 @@
       "status": "LIVE"
     },
     {
+      "id": "2673",
+      "date": "15/11/2026",
+      "time": "6:00 AM",
+      "league": "Cricket | Womens Big Bash League 2026",
+      "team1": "Sydney Sixers Women",
+      "team2": "Melbourne Renegades Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274883/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2695",
       "date": "14/11/2026",
       "time": "7:30 PM",
@@ -322,6 +477,52 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2719",
+      "date": "16/11/2026",
+      "time": "2:10 PM",
+      "league": "Cricket | Womens Big Bash League 2026 - 24th Match",
+      "team1": "Sydney Thunder Women",
+      "team2": "Melbourne Stars Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274889/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274886/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2759",
+      "date": "17/11/2026",
+      "time": "2:10 PM",
+      "league": "Cricket | Womens Big Bash League 2026 - 25th Match",
+      "team1": "Adelaide Strikers Women",
+      "team2": "Sydney Sixers Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274888/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
         }
       ],
       "status": "LIVE"
@@ -631,51 +832,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/4475/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4702/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2638",
-      "date": "14/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Thailand",
-      "team2": "Tajikistan",
-      "logo1": "https://img.sofascore.com/api/v1/team/4730/image",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2639",
-      "date": "14/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "China",
-      "team2": "Malaysia",
-      "logo1": "https://img.sofascore.com/api/v1/team/4755/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6912/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2640",
-      "date": "14/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Chinese Taipei",
-      "team2": "Kyrgyzstan",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8509",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/11295",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -1066,21 +1222,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/47321/image",
       "logo2": "https://img.sofascore.com/api/v1/team/24335/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2673",
-      "date": "15/11/2026",
-      "time": "6:00 AM",
-      "league": "Cricket | Womens Big Bash League 2026",
-      "team1": "Sydney Sixers Women",
-      "team2": "Melbourne Renegades Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274883/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -1501,21 +1642,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2719",
-      "date": "16/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 24th Match",
-      "team1": "Sydney Thunder Women",
-      "team2": "Melbourne Stars Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274889/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274886/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -2101,21 +2227,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2759",
-      "date": "17/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 25th Match",
-      "team1": "Adelaide Strikers Women",
-      "team2": "Sydney Sixers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274888/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
