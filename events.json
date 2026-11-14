@@ -1,8 +1,8 @@
 {
-  "last_updated": "14 Nov 2026, 11:20:13 PM BST",
-  "last_updated_iso": "2026-11-14T17:20:13.447Z",
-  "total_events": 293,
-  "live_match": 8,
+  "last_updated": "14 Nov 2026, 11:30:18 PM BST",
+  "last_updated_iso": "2026-11-14T17:30:18.254Z",
+  "total_events": 292,
+  "live_match": 9,
   "events": [
     {
       "id": "2611",
@@ -249,14 +249,14 @@
       "status": "LIVE"
     },
     {
-      "id": "2646",
+      "id": "2647",
       "date": "14/11/2026",
-      "time": "9:15 PM",
+      "time": "11:30 PM",
       "league": "Football | LaLiga 2",
-      "team1": "Real Sociedad B",
-      "team2": "Sporting Gijon",
-      "logo1": "https://img.sofascore.com/api/v1/team/24360/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2852/image",
+      "team1": "Almeria",
+      "team2": "Andorra",
+      "logo1": "https://img.sofascore.com/api/v1/team/2858/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/324871/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
       "visibility": "public",
@@ -269,22 +269,80 @@
           "drm": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
         },
         {
+          "name": "LaLiga Hypermotion2",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f"
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.59/hls/VVVVAAAAAQAAAQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
           "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794666337-0-0-f0baadddacfc14e3b8e63e14917bf721",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794673174-0-0-31b80ef21eced845a2c67fbd4a3d730a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2648",
+      "date": "14/11/2026",
+      "time": "11:30 PM",
+      "league": "Football | LaLiga 2",
+      "team1": "Mallorca",
+      "team2": "Cordoba",
+      "logo1": "https://img.sofascore.com/api/v1/team/2826/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2850/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "LaLiga Hypermotion",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+        },
+        {
+          "name": "LaLiga Hypermotion2",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "Server - 3",
-          "url": "http://193.47.62.59/hls/BEEEAAAAA.m3u8",
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001794673546-0-0-a43d6819ee58f72d18a6672a87c50d21",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.59/hls/VVVVAAAAAQAAAQ.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -404,36 +462,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "2647",
-      "date": "14/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "Almeria",
-      "team2": "Andorra",
-      "logo1": "https://img.sofascore.com/api/v1/team/2858/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/324871/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2648",
-      "date": "14/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "Mallorca",
-      "team2": "Cordoba",
-      "logo1": "https://img.sofascore.com/api/v1/team/2826/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2850/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
     },
     {
       "id": "2653",
