@@ -1,8 +1,8 @@
 {
-  "last_updated": "14 Nov 2026, 03:10:20 PM BST",
-  "last_updated_iso": "2026-11-14T09:10:20.538Z",
+  "last_updated": "14 Nov 2026, 03:20:13 PM BST",
+  "last_updated_iso": "2026-11-14T09:20:13.419Z",
   "total_events": 317,
-  "live_match": 4,
+  "live_match": 5,
   "events": [
     {
       "id": "2554",
@@ -151,6 +151,29 @@
       "status": "LIVE"
     },
     {
+      "id": "2695",
+      "date": "14/11/2026",
+      "time": "7:30 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 16th Match",
+      "team1": "Royal Desert Champions",
+      "team2": "United Tigers",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2836",
       "date": "14/11/2026",
       "time": "3:00 PM",
@@ -209,6 +232,27 @@
           "name": "server - hd",
           "url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794648731-0-0-741b0e8b1c7210e4978b7d68066e3237",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c5de382b151ac3ef909d43c2727671c3&txTime=6af870e8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -960,21 +1004,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2695",
-      "date": "14/11/2026",
-      "time": "3:30 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 16th Match",
-      "team1": "Royal Desert Champions",
-      "team2": "United Tigers",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
