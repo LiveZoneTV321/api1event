@@ -1,8 +1,8 @@
 {
-  "last_updated": "14 Nov 2026, 02:20:13 PM BST",
-  "last_updated_iso": "2026-11-14T08:20:13.525Z",
+  "last_updated": "14 Nov 2026, 02:30:19 PM BST",
+  "last_updated_iso": "2026-11-14T08:30:19.006Z",
   "total_events": 317,
-  "live_match": 3,
+  "live_match": 4,
   "events": [
     {
       "id": "2554",
@@ -15,7 +15,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4828/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [
         {
           "name": "willow - aq",
@@ -66,14 +66,14 @@
       "id": "2650",
       "date": "14/11/2026",
       "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 22nd Match",
+      "league": "Cricket | Womens Big Bash League",
       "team1": "Perth Scorchers Women",
       "team2": "Adelaide Strikers Women",
       "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274888/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [
         {
           "name": "willow sports - aq",
@@ -110,14 +110,14 @@
       "id": "2651",
       "date": "14/11/2026",
       "time": "12:00 PM",
-      "league": "Cricket | Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 2",
+      "league": "Cricket | AFG vs ZIM in UAE, 2026 - 2nd Test, Day 2",
       "team1": "Afghanistan",
       "team2": "Zimbabwe",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [
         {
           "name": "willow - aq",
@@ -151,6 +151,64 @@
       "status": "LIVE"
     },
     {
+      "id": "2836",
+      "date": "14/11/2026",
+      "time": "3:00 PM",
+      "league": "Football | SAFF Championship 2026 - (Semi-Final 1)",
+      "team1": "India",
+      "team2": "Bhutan",
+      "logo1": "https://img.sofascore.com/api/v1/team/4828/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/191564/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "t sports hd",
+          "url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports hd 2",
+          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "btv hd",
+          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794640803-0-0-cb6bfed79e8c8350a56f468031462c4f",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2611",
       "date": "14/11/2026",
       "time": "10:00 PM",
@@ -161,7 +219,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4747/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -176,7 +234,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/59/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -191,7 +249,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/23/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -206,7 +264,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/28/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -221,7 +279,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/70/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -236,7 +294,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/79/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -251,7 +309,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/134/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -266,7 +324,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/83/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -281,7 +339,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/67/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -296,7 +354,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4480/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -311,7 +369,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4709/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -326,7 +384,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4702/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -341,7 +399,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4748/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -356,7 +414,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -371,7 +429,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/6912/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -386,7 +444,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/11295",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -401,7 +459,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2380",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -416,7 +474,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -431,7 +489,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5067/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -446,7 +504,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2852/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -461,7 +519,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/324871/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -476,7 +534,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2850/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -491,7 +549,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/PS.png",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -506,7 +564,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4836/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -521,7 +579,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/88508/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -536,7 +594,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1977/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -551,7 +609,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1974/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -566,7 +624,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4479/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -581,7 +639,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4703/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -596,7 +654,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4693/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -611,7 +669,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4701/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -626,7 +684,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4476/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -641,7 +699,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/7139/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -656,7 +714,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4740/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -671,7 +729,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4833/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -686,7 +744,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4690/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -701,7 +759,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4722/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -716,7 +774,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4828/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -731,7 +789,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/24264/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -746,7 +804,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2869/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -761,7 +819,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/6577/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -776,7 +834,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4488/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -791,7 +849,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/24335/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -806,7 +864,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -821,7 +879,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
       "leagueLogo": "",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -836,7 +894,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
       "leagueLogo": "",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -844,14 +902,14 @@
       "id": "2676",
       "date": "15/11/2026",
       "time": "12:00 PM",
-      "league": "Cricket | Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 3",
+      "league": "Cricket | AFG vs ZIM in UAE, 2026 - 2nd Test, Day 3",
       "team1": "Afghanistan",
       "team2": "Zimbabwe",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -866,7 +924,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/ZW.png",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -881,7 +939,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/PW.png",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -896,7 +954,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -911,7 +969,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -926,7 +984,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LK.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -941,7 +999,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/78.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -956,7 +1014,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -971,7 +1029,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/78.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -986,7 +1044,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1001,7 +1059,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/8032/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1016,7 +1074,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4739/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1031,7 +1089,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4751/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1046,7 +1104,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4764/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1061,7 +1119,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4826/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1076,7 +1134,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4744/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1091,7 +1149,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4713/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1106,7 +1164,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4714/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1121,7 +1179,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4700/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1136,7 +1194,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4707/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1151,7 +1209,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4697/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1166,7 +1224,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4782/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1181,7 +1239,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4830/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1196,7 +1254,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4716/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1211,7 +1269,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4478/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1219,14 +1277,14 @@
       "id": "2717",
       "date": "16/11/2026",
       "time": "12:00 PM",
-      "league": "Cricket | Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 4",
+      "league": "Cricket | AFG vs ZIM in UAE, 2026 - 2nd Test, Day 4",
       "team1": "Afghanistan",
       "team2": "Zimbabwe",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1241,7 +1299,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1256,7 +1314,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/274886/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1271,7 +1329,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1286,7 +1344,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LL.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1301,7 +1359,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4749/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1316,7 +1374,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4758/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1331,7 +1389,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4761/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1346,7 +1404,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5105",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1361,7 +1419,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4720/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1376,7 +1434,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4783/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1391,7 +1449,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4785/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1406,7 +1464,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5109",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1421,7 +1479,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4823/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1436,7 +1494,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4768/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1451,7 +1509,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4736/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1466,7 +1524,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4729/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1481,7 +1539,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/8035/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1496,7 +1554,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4484/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1511,7 +1569,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4695/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1526,7 +1584,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/6355/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1541,7 +1599,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4705/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1556,7 +1614,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4483/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1571,7 +1629,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4742/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1586,7 +1644,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4721/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1601,7 +1659,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5161/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1616,7 +1674,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4748/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1631,7 +1689,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5462",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1646,7 +1704,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1661,7 +1719,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4789/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1676,7 +1734,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2383",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1691,7 +1749,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/5090",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1706,7 +1764,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4723/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1721,7 +1779,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2380",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1736,7 +1794,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1751,7 +1809,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4756/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": true,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1766,7 +1824,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1781,7 +1839,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1796,7 +1854,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/24336/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1811,7 +1869,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187754/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1819,14 +1877,14 @@
       "id": "2757",
       "date": "17/11/2026",
       "time": "12:00 PM",
-      "league": "Cricket | Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 5",
+      "league": "Cricket | AFG vs ZIM in UAE, 2026 - 2nd Test, Day 5",
       "team1": "Afghanistan",
       "team2": "Zimbabwe",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1841,7 +1899,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1856,7 +1914,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1871,7 +1929,7 @@
       "logo2": "",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1886,7 +1944,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1901,7 +1959,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LL.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1916,7 +1974,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4726/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1931,7 +1989,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4831/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1946,7 +2004,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4753/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1961,7 +2019,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/23494/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1976,7 +2034,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4778/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -1991,7 +2049,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/154426/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2006,7 +2064,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4688/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2021,7 +2079,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4704/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2036,7 +2094,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4475/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2051,7 +2109,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4477/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2066,7 +2124,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4718/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2081,7 +2139,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4763/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2096,7 +2154,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4786/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2111,7 +2169,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2697/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2126,7 +2184,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/17/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2141,7 +2199,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4820/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2156,7 +2214,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4746/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2171,7 +2229,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/21813/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2186,7 +2244,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/team/287712/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2201,7 +2259,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2216,7 +2274,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2231,7 +2289,7 @@
       "logo2": "",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2246,7 +2304,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2261,7 +2319,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2276,7 +2334,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1968/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2291,7 +2349,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/21845/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2306,7 +2364,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1963/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2321,7 +2379,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1967/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2336,7 +2394,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1955/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2351,7 +2409,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1958/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2366,7 +2424,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/71508",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2381,7 +2439,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1644/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2396,7 +2454,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/66336",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2411,7 +2469,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2672/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2426,7 +2484,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2881/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2441,7 +2499,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/24335/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2456,7 +2514,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2826/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2471,7 +2529,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2822/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2486,7 +2544,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/188",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2501,7 +2559,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5999",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2516,7 +2574,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2531,7 +2589,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2546,7 +2604,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/274890/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2561,7 +2619,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/274889/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2576,7 +2634,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2591,7 +2649,7 @@
       "logo2": "",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2606,7 +2664,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2621,7 +2679,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LL.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2636,7 +2694,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2651,7 +2709,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1999/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2666,7 +2724,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1966/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2681,7 +2739,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1961/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2696,7 +2754,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2702/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2711,7 +2769,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/67625",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2726,7 +2784,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2741,7 +2799,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2591/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2756,7 +2814,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5885/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2771,7 +2829,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/269199/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2786,7 +2844,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/168090/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2801,7 +2859,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/34318/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2816,7 +2874,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/168086/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2831,7 +2889,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/56027/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2846,7 +2904,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/34315/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2861,7 +2919,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/56023/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2876,7 +2934,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/56035/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2891,7 +2949,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/853574/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2906,7 +2964,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/215167/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2921,7 +2979,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5133/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2936,7 +2994,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2951,7 +3009,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2966,7 +3024,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2981,7 +3039,7 @@
       "logo2": "",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -2996,22 +3054,7 @@
       "logo2": "",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2836",
-      "date": "14/11/2026",
-      "time": "3:00 PM",
-      "league": "Football | SAFF Championship 2026 - (Semi-Final 1)",
-      "team1": "India",
-      "team2": "Bhutan",
-      "logo1": "https://img.sofascore.com/api/v1/team/4828/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/191564/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
-      "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3026,7 +3069,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": true,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3041,7 +3084,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3203/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3056,7 +3099,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/43/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3071,7 +3114,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/32/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3086,7 +3129,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/7/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3101,7 +3144,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/34/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3116,7 +3159,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/41/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3131,7 +3174,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/14/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3146,7 +3189,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/42/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3161,7 +3204,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/27/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3176,7 +3219,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/61/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3191,7 +3234,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3206,7 +3249,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/47/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3221,7 +3264,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/21/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3236,7 +3279,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/8/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3251,7 +3294,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/9/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3266,7 +3309,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/24/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3281,7 +3324,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/58/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3296,7 +3339,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/64/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3311,7 +3354,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3326,7 +3369,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/12/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3341,7 +3384,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/180/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3356,7 +3399,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/49/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3371,7 +3414,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/54/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3386,7 +3429,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/62/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3401,7 +3444,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/133/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3416,7 +3459,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3431,7 +3474,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/71/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3446,7 +3489,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/31/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3461,7 +3504,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/10/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3476,7 +3519,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/72/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3491,7 +3534,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/84/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3506,7 +3549,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1662/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3521,7 +3564,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1644/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3536,7 +3579,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2671/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3551,7 +3594,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2538/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3566,7 +3609,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2673/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3581,7 +3624,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/36360/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3596,7 +3639,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2569/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3611,7 +3654,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2561/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3626,7 +3669,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2677/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3641,7 +3684,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2557/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3656,7 +3699,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2551/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3671,7 +3714,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2573/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3686,7 +3729,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2689/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3701,7 +3744,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2719/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3716,7 +3759,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2702/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3731,7 +3774,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2952/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3746,7 +3789,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2967/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3761,7 +3804,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2970/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3776,7 +3819,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3791,7 +3834,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5994/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3806,7 +3849,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2814/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3821,7 +3864,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2832/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3836,7 +3879,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2828/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3851,7 +3894,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2816/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3866,7 +3909,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2845/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3881,7 +3924,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/33779/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3896,7 +3939,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4488/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3911,7 +3954,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/47321/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3926,7 +3969,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5138/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3941,7 +3984,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3053/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3956,7 +3999,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3064/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3971,7 +4014,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3052/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -3986,7 +4029,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4001,7 +4044,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/274889/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4016,7 +4059,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/274890/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4031,7 +4074,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4046,7 +4089,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4061,7 +4104,7 @@
       "logo2": "",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4076,7 +4119,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/65668/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4091,7 +4134,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3209/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4106,7 +4149,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5981/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4121,7 +4164,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1982/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4136,7 +4179,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1954/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4151,7 +4194,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5251/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4166,7 +4209,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5250/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4181,7 +4224,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/9143",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4196,7 +4239,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/30/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4211,7 +4254,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/35/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4226,7 +4269,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/46/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4241,7 +4284,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1715/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4256,7 +4299,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1646/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4271,7 +4314,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4286,7 +4329,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1681/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4301,7 +4344,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1684/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4316,7 +4359,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1658/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4331,7 +4374,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2556/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4346,7 +4389,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2676/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4361,7 +4404,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2542/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4376,7 +4419,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2528/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4391,7 +4434,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2581/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4406,7 +4449,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2595/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4421,7 +4464,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2696/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4436,7 +4479,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2688/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4451,7 +4494,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2713/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4466,7 +4509,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2695/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4481,7 +4524,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2801/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4496,7 +4539,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2971/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4511,7 +4554,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2964/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4526,7 +4569,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2961/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4541,7 +4584,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2950/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4556,7 +4599,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2966/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4571,7 +4614,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2957/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4586,7 +4629,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2821/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4601,7 +4644,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2819/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4616,7 +4659,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2824/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4631,7 +4674,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2830/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4646,7 +4689,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2826/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4661,7 +4704,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2851/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4676,7 +4719,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/6577/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4691,7 +4734,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2831/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4706,7 +4749,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2839/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4721,7 +4764,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3054/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4736,7 +4779,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3050/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4751,7 +4794,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/6362/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4766,7 +4809,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/7040/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4781,7 +4824,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/39833/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4796,7 +4839,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/22007/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4811,7 +4854,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2504/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4826,7 +4869,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4841,7 +4884,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/274888/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     },
@@ -4856,7 +4899,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [],
       "status": "ENDED"
     }
