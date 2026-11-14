@@ -1,9 +1,60 @@
 {
-  "last_updated": "14 Nov 2026, 05:30:22 PM BST",
-  "last_updated_iso": "2026-11-14T11:30:22.712Z",
-  "total_events": 317,
-  "live_match": 8,
+  "last_updated": "14 Nov 2026, 05:40:13 PM BST",
+  "last_updated_iso": "2026-11-14T11:40:13.054Z",
+  "total_events": 318,
+  "live_match": 9,
   "events": [
+    {
+      "id": "1",
+      "date": "14/11/2026",
+      "time": "5:30 PM",
+      "league": "Cricket | Abu Dhabi T10 League",
+      "team1": "Royal Desert Champions",
+      "team2": "United Tigers",
+      "logo1": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+      "logo2": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YjVjYmI0NTJhYTc0Nzg5OWVlYzA0MjMwMzllZGQ0YTE6ZWY3NWZhNjE3YmRhNTA5N2M3Nzg4ODUwMmM2NTZiMDc="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YjVjYmI0NTJhYTc0Nzg5OWVlYzA0MjMwMzllZGQ0YTE6ZWY3NWZhNjE3YmRhNTA5N2M3Nzg4ODUwMmM2NTZiMDc="
+        },
+        {
+          "name": "Premier Sports - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YjVjYmI0NTJhYTc0Nzg5OWVlYzA0MjMwMzllZGQ0YTE6ZWY3NWZhNjE3YmRhNTA5N2M3Nzg4ODUwMmM2NTZiMDc="
+        }
+      ],
+      "status": "LIVE"
+    },
     {
       "id": "2554",
       "date": "14/11/2026",
