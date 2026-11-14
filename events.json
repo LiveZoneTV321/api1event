@@ -1,8 +1,8 @@
 {
-  "last_updated": "14 Nov 2026, 05:00:24 PM BST",
-  "last_updated_iso": "2026-11-14T11:00:24.591Z",
+  "last_updated": "14 Nov 2026, 05:10:12 PM BST",
+  "last_updated_iso": "2026-11-14T11:10:12.937Z",
   "total_events": 317,
-  "live_match": 7,
+  "live_match": 8,
   "events": [
     {
       "id": "2554",
@@ -362,6 +362,43 @@
           "name": "Server - 7",
           "url": "http://193.47.62.59/hls/SASASAB.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2837",
+      "date": "14/11/2026",
+      "time": "8:30 PM",
+      "league": "Football | SAFF Championship - (Semi-Final 2)",
+      "team1": "Bangladesh",
+      "team2": "Pakistan",
+      "logo1": "https://img.sofascore.com/api/v1/team/6080/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": true,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "server - hd",
+          "url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports - hd 1",
+          "url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports - hd 2",
+          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -3169,21 +3206,6 @@
       "logo2": "",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2837",
-      "date": "14/11/2026",
-      "time": "8:30 PM",
-      "league": "Football | SAFF Championship - (Semi-Final 2)",
-      "team1": "Bangladesh",
-      "team2": "Pakistan",
-      "logo1": "https://img.sofascore.com/api/v1/team/6080/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
-      "isHot": true,
       "visibility": "public",
       "streams": [],
       "status": "ENDED"
