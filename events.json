@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 10:50:14 AM BST",
-  "last_updated_iso": "2026-11-14T04:50:14.115Z",
+  "last_updated": "14 Nov 2026, 11:00:26 AM BST",
+  "last_updated_iso": "2026-11-14T05:00:26.821Z",
   "total_events": 319,
   "live_match": 2,
   "events": [
@@ -30,6 +30,34 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NmQ5ODk4YjkyMmM3MTVkZjIzOGI4MTAwMzJmOTllMDQ6MjRjZTJmZDY2ZDc3YzczNTQwZjEyOWFlODNjOTY3ZDc="
+        },
+        {
+          "name": "sonyliv - eng",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794674585~acl=/*~id=32098817877693136048092471544629~hmac=f70fcea0abc9e0dc04291f510785321d7641158e886dde2c446c7fe684ac14a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - hin",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794674585~acl=/*~id=32098817877693136048092471544629~hmac=f70fcea0abc9e0dc04291f510785321d7641158e886dde2c446c7fe684ac14a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - tam",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794674585~acl=/*~id=32098817877693136048092471544629~hmac=f70fcea0abc9e0dc04291f510785321d7641158e886dde2c446c7fe684ac14a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - kan",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794674585~acl=/*~id=32098817877693136048092471544629~hmac=f70fcea0abc9e0dc04291f510785321d7641158e886dde2c446c7fe684ac14a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -60,6 +88,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "ZjcwM2ZkMDkwNDRjY2E1MmUyNTc0YjM4ZmIzMGE2Zjk6MzU0OTQ5MDBhZmFkZTI1NmIwNmRjZTlmYmQ0ZTMwMTg="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
