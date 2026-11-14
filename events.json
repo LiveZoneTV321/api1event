@@ -1,8 +1,8 @@
 {
-  "last_updated": "14 Nov 2026, 11:40:13 AM BST",
-  "last_updated_iso": "2026-11-14T05:40:13.996Z",
+  "last_updated": "14 Nov 2026, 11:50:13 AM BST",
+  "last_updated_iso": "2026-11-14T05:50:13.061Z",
   "total_events": 319,
-  "live_match": 2,
+  "live_match": 4,
   "events": [
     {
       "id": "2554",
@@ -63,6 +63,43 @@
       "status": "LIVE"
     },
     {
+      "id": "2636",
+      "date": "14/11/2026",
+      "time": "12:00 PM",
+      "league": "Football | Friendly International",
+      "team1": "Bahrain",
+      "team2": "Yemen",
+      "logo1": "https://img.sofascore.com/api/v1/team/5161/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4721/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794633608-0-0-a91cb7385182c59917057128d0815167",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794637328-0-0-fe1dfc1c9df76cbf57d81856c7e47e70",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2649",
       "date": "14/11/2026",
       "time": "10:40 AM",
@@ -102,6 +139,43 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2651",
+      "date": "14/11/2026",
+      "time": "12:00 PM",
+      "league": "Cricket | Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 2",
+      "team1": "Afghanistan",
+      "team2": "Zimbabwe",
+      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OTM3M2MzZjA4YzY1Nzg1NDRlMGVhMTk5OWU5NTQxOGI6MTBhN2Y2ZTgxNzc0ODZkZmNhOWJiNTY5Njc3OWRkMDI="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OTM3M2MzZjA4YzY1Nzg1NDRlMGVhMTk5OWU5NTQxOGI6MTBhN2Y2ZTgxNzc0ODZkZmNhOWJiNTY5Njc3OWRkMDI="
+        },
+        {
+          "name": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
         }
       ],
       "status": "LIVE"
@@ -287,21 +361,6 @@
       "status": "ENDED"
     },
     {
-      "id": "2636",
-      "date": "14/11/2026",
-      "time": "12:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Bahrain",
-      "team2": "Yemen",
-      "logo1": "https://img.sofascore.com/api/v1/team/5161/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4721/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "2637",
       "date": "14/11/2026",
       "time": "4:15 PM",
@@ -461,21 +520,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274888/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2651",
-      "date": "14/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 2",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": [],
