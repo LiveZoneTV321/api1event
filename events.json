@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 09:40:13 PM BST",
-  "last_updated_iso": "2026-11-14T15:40:13.750Z",
+  "last_updated": "14 Nov 2026, 09:50:18 PM BST",
+  "last_updated_iso": "2026-11-14T15:50:18.257Z",
   "total_events": 305,
   "live_match": 14,
   "events": [
@@ -436,9 +436,23 @@
       "visibility": "public",
       "streams": [
         {
-          "name": "No Buffer- Fmd",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "name": "PrioFy TV -1",
+          "url": "http://bdtop1.tvhunter.top/T-SPORTS-HD/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "drm": ""
+        },
+        {
+          "name": "PrioFy TV - 2",
+          "url": "https://app-zibo-play40.tvhunter.top/newr/T-SPORTS-HD.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "drm": ""
+        },
+        {
+          "name": "No Buffer-Aq",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001794662403-0-0-ae1a0221a0af20fae3b5daec92361874",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
@@ -446,6 +460,13 @@
           "name": "No Buffer- hd",
           "url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
@@ -471,17 +492,10 @@
           "drm": ""
         },
         {
-          "name": "Server 6",
-          "url": "https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8",
-          "referer": "https://www.btvlive.gov.bd",
-          "userAgent": "Mozilla/5.0",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001794662403-0-0-ae1a0221a0af20fae3b5daec92361874",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "name": "Server 9",
+          "url": "https://live-sg-aws.bongobd.com/hls/v2.R4kxz0aGfBqKUQ8fDBKHtg/1794669658/bongoiptv/SAFFmatch08_mid/chunks.m3u8",
+          "referer": "",
+          "userAgent": "iphone",
           "drm": ""
         },
         {
