@@ -1,7 +1,7 @@
 {
-  "last_updated": "14 Nov 2026, 09:20:12 PM BST",
-  "last_updated_iso": "2026-11-14T15:20:12.823Z",
-  "total_events": 306,
+  "last_updated": "14 Nov 2026, 09:30:18 PM BST",
+  "last_updated_iso": "2026-11-14T15:30:18.890Z",
+  "total_events": 305,
   "live_match": 14,
   "events": [
     {
@@ -436,7 +436,7 @@
       "visibility": "public",
       "streams": [
         {
-          "name": "server - hd",
+          "name": "No Buffer- hd",
           "url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
@@ -571,21 +571,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/4475/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4702/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2641",
-      "date": "14/11/2026",
-      "time": "9:45 PM",
-      "league": "Football | Friendly International",
-      "team1": "Qatar",
-      "team2": "Australia",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2380",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
       "streams": [],
