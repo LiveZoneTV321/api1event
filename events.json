@@ -1,8 +1,8 @@
 {
-  "last_updated": "14 Nov 2026, 04:40:12 PM BST",
-  "last_updated_iso": "2026-11-14T10:40:12.546Z",
+  "last_updated": "14 Nov 2026, 04:50:12 PM BST",
+  "last_updated_iso": "2026-11-14T10:50:12.828Z",
   "total_events": 317,
-  "live_match": 6,
+  "live_match": 7,
   "events": [
     {
       "id": "2554",
@@ -218,6 +218,36 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2652",
+      "date": "14/11/2026",
+      "time": "5:15 PM",
+      "league": "Cricket | Nepal Premier League 2026 - 26th Match",
+      "team1": "Biratnagar Kings",
+      "team2": "Lumbini Lions",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/PU.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "FANCODE - FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "name": "FANCODE - SD",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
         }
       ],
       "status": "LIVE"
@@ -648,21 +678,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2826/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2850/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2652",
-      "date": "14/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | Nepal Premier League 2026 - 26th Match",
-      "team1": "Biratnagar Kings",
-      "team2": "Lumbini Lions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PU.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": [],
