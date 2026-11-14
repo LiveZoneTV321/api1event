@@ -1,39 +1,9 @@
 {
-  "last_updated": "14 Nov 2026, 10:30:19 AM BST",
-  "last_updated_iso": "2026-11-14T04:30:19.878Z",
-  "total_events": 320,
-  "live_match": 1,
+  "last_updated": "14 Nov 2026, 10:40:14 AM BST",
+  "last_updated_iso": "2026-11-14T04:40:14.839Z",
+  "total_events": 319,
+  "live_match": 0,
   "events": [
-    {
-      "id": "2635",
-      "date": "14/11/2026",
-      "time": "7:00 AM",
-      "league": "Football | Friendly International",
-      "team1": "Peru",
-      "team2": "Bolivia",
-      "logo1": "https://img.sofascore.com/api/v1/team/4790/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4746/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794601464-0-0-239924e30b5d7da94ebde60a71b3796d",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
     {
       "id": "2554",
       "date": "14/11/2026",
