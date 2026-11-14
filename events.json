@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 02:50:15 PM BST",
-  "last_updated_iso": "2026-11-14T08:50:15.685Z",
+  "last_updated": "14 Nov 2026, 03:00:24 PM BST",
+  "last_updated_iso": "2026-11-14T09:00:24.430Z",
   "total_events": 317,
   "live_match": 4,
   "events": [
@@ -201,6 +201,13 @@
         {
           "name": "Server - 3",
           "url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "server - hd",
+          "url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
