@@ -1,56 +1,42 @@
 {
-  "last_updated": "14 Nov 2026, 09:50:18 PM BST",
-  "last_updated_iso": "2026-11-14T15:50:18.257Z",
-  "total_events": 305,
-  "live_match": 14,
+  "last_updated": "14 Nov 2026, 10:00:24 PM BST",
+  "last_updated_iso": "2026-11-14T16:00:24.502Z",
+  "total_events": 304,
+  "live_match": 15,
   "events": [
     {
-      "id": "1",
+      "id": "2611",
       "date": "14/11/2026",
-      "time": "5:30 PM",
-      "league": "Cricket | Abu Dhabi T10 League",
-      "team1": "Royal Desert Champions",
-      "team2": "United Tigers",
-      "logo1": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-      "logo2": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+      "time": "10:00 PM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Uganda",
+      "team2": "Botswana",
+      "logo1": "https://img.sofascore.com/api/v1/team/4726/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4747/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+          "name": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjVjYmI0NTJhYTc0Nzg5OWVlYzA0MjMwMzllZGQ0YTE6ZWY3NWZhNjE3YmRhNTA5N2M3Nzg4ODUwMmM2NTZiMDc="
+          "drm": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
         },
         {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjVjYmI0NTJhYTc0Nzg5OWVlYzA0MjMwMzllZGQ0YTE6ZWY3NWZhNjE3YmRhNTA5N2M3Nzg4ODUwMmM2NTZiMDc="
-        },
-        {
-          "name": "Premier Sports - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "willow - alt",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
-          "referer": "",
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001794670078-0-0-94c32beb5f6a694f167794a7edd605c4",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjVjYmI0NTJhYTc0Nzg5OWVlYzA0MjMwMzllZGQ0YTE6ZWY3NWZhNjE3YmRhNTA5N2M3Nzg4ODUwMmM2NTZiMDc="
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -273,6 +259,29 @@
           "name": "sonyliv - aq",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794706992~acl=/*~id=37036924538723817727208164960462~hmac=c457c874636fc4835140cdf2f1e74ce5ac979519985e6a64766c735b626b4203",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2642",
+      "date": "14/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | Friendly International",
+      "team1": "Palestine",
+      "team2": "Iran",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=af4aeab46507828d705efb1d55f095b1&wsABSTime=1794713180",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -516,21 +525,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2611",
-      "date": "14/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Uganda",
-      "team2": "Botswana",
-      "logo1": "https://img.sofascore.com/api/v1/team/4726/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4747/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "2612",
       "date": "14/11/2026",
       "time": "9:00 PM",
@@ -585,21 +579,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/4475/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4702/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2642",
-      "date": "14/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Palestine",
-      "team2": "Iran",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
       "streams": [],
