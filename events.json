@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 09:30:18 PM BST",
-  "last_updated_iso": "2026-11-14T15:30:18.890Z",
+  "last_updated": "14 Nov 2026, 09:40:13 PM BST",
+  "last_updated_iso": "2026-11-14T15:40:13.750Z",
   "total_events": 305,
   "live_match": 14,
   "events": [
@@ -436,6 +436,13 @@
       "visibility": "public",
       "streams": [
         {
+          "name": "No Buffer- Fmd",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
           "name": "No Buffer- hd",
           "url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
           "referer": "",
@@ -464,17 +471,10 @@
           "drm": ""
         },
         {
-          "name": "Server 5",
+          "name": "Server 6",
           "url": "https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8",
           "referer": "https://www.btvlive.gov.bd",
           "userAgent": "Mozilla/5.0",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
