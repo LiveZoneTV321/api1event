@@ -1,7 +1,7 @@
 {
-  "last_updated": "14 Nov 2026, 01:30:18 PM BST",
-  "last_updated_iso": "2026-11-14T07:30:18.943Z",
-  "total_events": 319,
+  "last_updated": "14 Nov 2026, 01:40:13 PM BST",
+  "last_updated_iso": "2026-11-14T07:40:13.720Z",
+  "total_events": 318,
   "live_match": 4,
   "events": [
     {
@@ -100,45 +100,24 @@
       "status": "LIVE"
     },
     {
-      "id": "2649",
+      "id": "2650",
       "date": "14/11/2026",
-      "time": "10:40 AM",
-      "league": "Cricket | Womens Big Bash League 2026 - 21st Match",
-      "team1": "Hobart Hurricanes Women",
-      "team2": "Brisbane Heat Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274885/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
+      "time": "2:10 PM",
+      "league": "Cricket | Womens Big Bash League 2026 - 22nd Match",
+      "team1": "Perth Scorchers Women",
+      "team2": "Adelaide Strikers Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274888/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjcwM2ZkMDkwNDRjY2E1MmUyNTc0YjM4ZmIzMGE2Zjk6MzU0OTQ5MDBhZmFkZTI1NmIwNmRjZTlmYmQ0ZTMwMTg="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjcwM2ZkMDkwNDRjY2E1MmUyNTc0YjM4ZmIzMGE2Zjk6MzU0OTQ5MDBhZmFkZTI1NmIwNmRjZTlmYmQ0ZTMwMTg="
-        },
         {
           "name": "willow sports - aq",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -512,21 +491,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2826/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2850/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2650",
-      "date": "14/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 22nd Match",
-      "team1": "Perth Scorchers Women",
-      "team2": "Adelaide Strikers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274888/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": [],
