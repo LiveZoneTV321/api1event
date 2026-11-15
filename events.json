@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Nov 2026, 05:10:13 PM BST",
-  "last_updated_iso": "2026-11-15T11:10:13.478Z",
+  "last_updated": "15 Nov 2026, 05:20:15 PM BST",
+  "last_updated_iso": "2026-11-15T11:20:15.262Z",
   "total_events": 360,
   "live_match": 8,
   "events": [
@@ -150,6 +150,13 @@
         {
           "name": "t sports hd 2",
           "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
