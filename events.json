@@ -1,9 +1,116 @@
 {
-  "last_updated": "15 Nov 2026, 07:40:12 PM BST",
-  "last_updated_iso": "2026-11-15T13:40:12.821Z",
-  "total_events": 359,
-  "live_match": 8,
+  "last_updated": "15 Nov 2026, 07:50:13 PM BST",
+  "last_updated_iso": "2026-11-15T13:50:13.615Z",
+  "total_events": 357,
+  "live_match": 7,
   "events": [
+    {
+      "id": "2662",
+      "date": "15/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | UEFA Nations League",
+      "team1": "Cyprus",
+      "team2": "Montenegro",
+      "logo1": "https://img.sofascore.com/api/v1/team/4482/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/7139/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7a8bprod-PlaybackConfig/2120302/Footlive1511/ENG/master.m3u8?hdnea=exp=1794792058~acl=/*~id=66257252883334084836907359682890~hmac=f933eede56438c5ee6555eda4b21c3aab77da44094fb98b29e24df899f0c2d67",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BEIN3 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "name": "FOX2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "name": "SPORT1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794748831-0-0-7fb18defda487819c6d877a5942da6dd",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=aba601e68badb25d036563773c170a57&wsABSTime=1794792031",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794748832-0-0-74f5494692da135520ca99615f1b9c08",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794727748-0-0-94e66550b6db8a4dcf0074b2076428ce",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=db5e6a30c9d30d5529d58fc1811d38e9&txTime=6af9a558",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 8",
+          "url": "https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
     {
       "id": "2669",
       "date": "15/11/2026",
@@ -44,43 +151,6 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2676",
-      "date": "15/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | AFG vs ZIM in UAE, 2026 - 2nd Test, Day 3",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NWM1OGU4OWU1NWI2Y2E2YjcxNTVjYzc4YzhlMjMwMGQ6OTQ5YzJjNDViN2JiZmFiMWQwOWY3YzliYjk2ZTJlNGM="
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NWM1OGU4OWU1NWI2Y2E2YjcxNTVjYzc4YzhlMjMwMGQ6OTQ5YzJjNDViN2JiZmFiMWQwOWY3YzliYjk2ZTJlNGM="
         }
       ],
       "status": "LIVE"
@@ -146,50 +216,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2698",
-      "date": "15/11/2026",
-      "time": "3:30 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 19th Match",
-      "team1": "Royal Desert Champions",
-      "team2": "Arabian Aces",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MDc0NjU4OGNiZjhhYzAzYjY1MjA3ZmI0ODdkOGE2NWQ6MDFkYjIxZWYzNmVmMmMwMTBlZmM2YzMyYjljY2Y0MTI="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MDc0NjU4OGNiZjhhYzAzYjY1MjA3ZmI0ODdkOGE2NWQ6MDFkYjIxZWYzNmVmMmMwMTBlZmM2YzMyYjljY2Y0MTI="
         }
       ],
       "status": "LIVE"
@@ -299,21 +325,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "2662",
-      "date": "15/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | UEFA Nations League",
-      "team1": "Cyprus",
-      "team2": "Montenegro",
-      "logo1": "https://img.sofascore.com/api/v1/team/4482/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7139/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
     },
     {
       "id": "2663",
