@@ -1,8 +1,8 @@
 {
-  "last_updated": "15 Nov 2026, 01:50:22 PM BST",
-  "last_updated_iso": "2026-11-15T07:50:22.261Z",
+  "last_updated": "15 Nov 2026, 02:00:26 PM BST",
+  "last_updated_iso": "2026-11-15T08:00:26.183Z",
   "total_events": 363,
-  "live_match": 9,
+  "live_match": 10,
   "events": [
     {
       "id": "2674",
@@ -218,6 +218,43 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2679",
+      "date": "15/11/2026",
+      "time": "2:00 PM",
+      "league": "Cricket | Bangladesh tour of South Africa, 2026 - 1st Test, Day 1",
+      "team1": "South Africa",
+      "team2": "Bangladesh",
+      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "M2Q4NzIzNjdkM2ZmOTI3YzRhYmYwMTk4ZGZlYjAxZDI6NDc5NDUzOTM1ODhjZjQ3OWI3MjhkZjMyN2YzYmVmNTM="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "M2Q4NzIzNjdkM2ZmOTI3YzRhYmYwMTk4ZGZlYjAxZDI6NDc5NDUzOTM1ODhjZjQ3OWI3MjhkZjMyN2YzYmVmNTM="
+        },
+        {
+          "name": "t sports hd",
+          "url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -488,21 +525,6 @@
       "logo1": "https://cricketvectors.akamaized.net/Teams/PT.png",
       "logo2": "https://cricketvectors.akamaized.net/Teams/PW.png",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2679",
-      "date": "15/11/2026",
-      "time": "2:00 PM",
-      "league": "Cricket | Bangladesh tour of South Africa, 2026 - 1st Test, Day 1",
-      "team1": "South Africa",
-      "team2": "Bangladesh",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
