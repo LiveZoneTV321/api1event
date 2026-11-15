@@ -1,8 +1,8 @@
 {
-  "last_updated": "15 Nov 2026, 01:00:33 PM BST",
-  "last_updated_iso": "2026-11-15T07:00:33.048Z",
+  "last_updated": "15 Nov 2026, 01:10:13 PM BST",
+  "last_updated_iso": "2026-11-15T07:10:13.640Z",
   "total_events": 363,
-  "live_match": 7,
+  "live_match": 9,
   "events": [
     {
       "id": "2674",
@@ -151,6 +151,73 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2676",
+      "date": "15/11/2026",
+      "time": "12:00 PM",
+      "league": "Cricket | AFG vs ZIM in UAE, 2026 - 2nd Test, Day 3",
+      "team1": "Afghanistan",
+      "team2": "Zimbabwe",
+      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NWM1OGU4OWU1NWI2Y2E2YjcxNTVjYzc4YzhlMjMwMGQ6OTQ5YzJjNDViN2JiZmFiMWQwOWY3YzliYjk2ZTJlNGM="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NWM1OGU4OWU1NWI2Y2E2YjcxNTVjYzc4YzhlMjMwMGQ6OTQ5YzJjNDViN2JiZmFiMWQwOWY3YzliYjk2ZTJlNGM="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2677",
+      "date": "15/11/2026",
+      "time": "12:45 PM",
+      "league": "Cricket | Nepal Premier League 2026 - 27th Match",
+      "team1": "Chitwan Rhinos",
+      "team2": "Karnali Yaks",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/ZW.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "name": "FANCODE SD",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
         }
       ],
       "status": "LIVE"
@@ -406,36 +473,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/47321/image",
       "logo2": "https://img.sofascore.com/api/v1/team/24335/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2676",
-      "date": "15/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | AFG vs ZIM in UAE, 2026 - 2nd Test, Day 3",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2677",
-      "date": "15/11/2026",
-      "time": "12:45 PM",
-      "league": "Cricket | Nepal Premier League 2026 - 27th Match",
-      "team1": "Chitwan Rhinos",
-      "team2": "Karnali Yaks",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": [],
