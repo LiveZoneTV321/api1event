@@ -1,8 +1,8 @@
 {
-  "last_updated": "15 Nov 2026, 05:00:26 PM BST",
-  "last_updated_iso": "2026-11-15T11:00:26.766Z",
-  "total_events": 362,
-  "live_match": 9,
+  "last_updated": "15 Nov 2026, 05:10:13 PM BST",
+  "last_updated_iso": "2026-11-15T11:10:13.478Z",
+  "total_events": 360,
+  "live_match": 8,
   "events": [
     {
       "id": "2675",
@@ -100,36 +100,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2677",
-      "date": "15/11/2026",
-      "time": "12:45 PM",
-      "league": "Cricket | Nepal Premier League 2026 - 27th Match",
-      "team1": "Chitwan Rhinos",
-      "team2": "Karnali Yaks",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "fancode - Aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "name": "FANCODE SD",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2679",
       "date": "15/11/2026",
       "time": "2:00 PM",
@@ -213,6 +183,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MDc0NjU4OGNiZjhhYzAzYjY1MjA3ZmI0ODdkOGE2NWQ6MDFkYjIxZWYzNmVmMmMwMTBlZmM2YzMyYjljY2Y0MTI="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MDc0NjU4OGNiZjhhYzAzYjY1MjA3ZmI0ODdkOGE2NWQ6MDFkYjIxZWYzNmVmMmMwMTBlZmM2YzMyYjljY2Y0MTI="
         }
       ],
       "status": "LIVE"
@@ -438,21 +422,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/47321/image",
       "logo2": "https://img.sofascore.com/api/v1/team/24335/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2678",
-      "date": "15/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | Nepal Premier League 2026 - 28th Match",
-      "team1": "Kathmandu Gorkhas",
-      "team2": "Pokhara Avengers",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PW.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": [],
