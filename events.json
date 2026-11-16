@@ -1,7 +1,7 @@
 {
-  "last_updated": "16 Nov 2026, 08:00:27 PM BST",
-  "last_updated_iso": "2026-11-16T14:00:27.808Z",
-  "total_events": 417,
+  "last_updated": "16 Nov 2026, 08:10:14 PM BST",
+  "last_updated_iso": "2026-11-16T14:10:14.630Z",
+  "total_events": 416,
   "live_match": 8,
   "events": [
     {
@@ -251,36 +251,57 @@
       "status": "LIVE"
     },
     {
-      "id": "2717",
+      "id": "2705",
       "date": "16/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | AFG vs ZIM in UAE, 2026 - 2nd Test, Day 4",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "time": "9:00 PM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Somalia",
+      "team2": "Ghana",
+      "logo1": "https://img.sofascore.com/api/v1/team/23472/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4764/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "name": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjY3NDVjZjg2ODQ5OTkyMDE2YTE4ZmE3MDFiYmU0Yzc6MTg2ODA0OGY2YTk2NGM3NDlmMTRmYjJmYzI2Nzg4ZjQ="
+          "drm": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
         },
         {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794835547-0-0-81f5ecd3f290cb584f8cad47a09b1517",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794835448-0-0-304b223dc079843f080d4bc32eff21cf",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjY3NDVjZjg2ODQ5OTkyMDE2YTE4ZmE3MDFiYmU0Yzc6MTg2ODA0OGY2YTk2NGM3NDlmMTRmYjJmYzI2Nzg4ZjQ="
+          "drm": ""
         },
         {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-          "referer": "https://www.tapmad.com/",
+          "name": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://playback.livetl004.com/live/6a9776215126529dede9bf51.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -313,6 +334,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OGY2YWY2NWU2ZmQ1ZmU5YjJmYTc1MTBkZTY5ZTQ5MmE6NjE5MjFkMWU3M2MyZjA4NzBkM2YzZTdkMDlmOGJiYjY="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OGY2YWY2NWU2ZmQ1ZmU5YjJmYTc1MTBkZTY5ZTQ5MmE6NjE5MjFkMWU3M2MyZjA4NzBkM2YzZTdkMDlmOGJiYjY="
         }
       ],
       "status": "LIVE"
@@ -369,21 +404,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "2705",
-      "date": "16/11/2026",
-      "time": "9:00 PM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Somalia",
-      "team2": "Ghana",
-      "logo1": "https://img.sofascore.com/api/v1/team/23472/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4764/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
     },
     {
       "id": "2706",
