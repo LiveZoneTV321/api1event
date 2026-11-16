@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Nov 2026, 08:50:14 PM BST",
-  "last_updated_iso": "2026-11-16T14:50:14.032Z",
+  "last_updated": "16 Nov 2026, 09:00:42 PM BST",
+  "last_updated_iso": "2026-11-16T15:00:42.147Z",
   "total_events": 416,
   "live_match": 10,
   "events": [
@@ -537,6 +537,13 @@
           "name": "sonyliv - aq",
           "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
