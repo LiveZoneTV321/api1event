@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Nov 2026, 09:10:14 PM BST",
-  "last_updated_iso": "2026-11-16T15:10:14.732Z",
+  "last_updated": "16 Nov 2026, 09:20:15 PM BST",
+  "last_updated_iso": "2026-11-16T15:20:15.117Z",
   "total_events": 416,
   "live_match": 10,
   "events": [
@@ -458,6 +458,13 @@
           "name": "Tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FOX SPORTS HD",
+          "url": "https://chatgpt.hereisman.net/playlist/60251/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
