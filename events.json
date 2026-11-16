@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Nov 2026, 01:50:17 PM BST",
-  "last_updated_iso": "2026-11-16T07:50:17.474Z",
+  "last_updated": "16 Nov 2026, 02:00:24 PM BST",
+  "last_updated_iso": "2026-11-16T08:00:24.733Z",
   "total_events": 342,
   "live_match": 6,
   "events": [
@@ -139,6 +139,27 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkhwpl0tzw/out/v1/59557ba485b04e81863a3fa533d8179d/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OTNlMTljNmI1OTBmMDdjM2I5YmE4ZmVkNzZhMDFiNjE6Zjg5M2Q1ZDk4OGQ3NjQ5YmE4NTZkZmMxMjY5NzEwYmE="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkhwpl0tzw/out/v1/59557ba485b04e81863a3fa533d8179d/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OTNlMTljNmI1OTBmMDdjM2I5YmE4ZmVkNzZhMDFiNjE6Zjg5M2Q1ZDk4OGQ3NjQ5YmE4NTZkZmMxMjY5NzEwYmE="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
