@@ -1,8 +1,8 @@
 {
-  "last_updated": "16 Nov 2026, 11:40:14 PM BST",
-  "last_updated_iso": "2026-11-16T17:40:14.955Z",
+  "last_updated": "16 Nov 2026, 11:50:16 PM BST",
+  "last_updated_iso": "2026-11-16T17:50:16.659Z",
   "total_events": 423,
-  "live_match": 8,
+  "live_match": 9,
   "events": [
     {
       "id": "2679",
@@ -565,6 +565,43 @@
       "status": "LIVE"
     },
     {
+      "id": "2740",
+      "date": "17/11/2026",
+      "time": "12:00 AM",
+      "league": "Football | Friendly International",
+      "team1": "Andorra",
+      "team2": "Azerbaijan",
+      "logo1": "https://img.sofascore.com/api/v1/team/4818/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4742/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Sport3 Tv BR FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=842196f54b4725afd29e44339a9ed473&wsABSTime=1794892758",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2759",
       "date": "17/11/2026",
       "time": "2:10 PM",
@@ -852,21 +889,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/129264/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4483/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2740",
-      "date": "17/11/2026",
-      "time": "12:00 AM",
-      "league": "Football | Friendly International",
-      "team1": "Andorra",
-      "team2": "Azerbaijan",
-      "logo1": "https://img.sofascore.com/api/v1/team/4818/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4742/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
       "streams": [],
