@@ -1,8 +1,8 @@
 {
-  "last_updated": "18 Nov 2026, 12:20:23 AM BST",
-  "last_updated_iso": "2026-11-17T18:20:23.171Z",
+  "last_updated": "18 Nov 2026, 12:30:30 AM BST",
+  "last_updated_iso": "2026-11-17T18:30:30.975Z",
   "total_events": 378,
-  "live_match": 2,
+  "live_match": 3,
   "events": [
     {
       "id": "2679",
@@ -105,6 +105,57 @@
       "status": "LIVE"
     },
     {
+      "id": "2752",
+      "date": "18/11/2026",
+      "time": "5:00 AM",
+      "league": "Football | Friendly International",
+      "team1": "Argentina",
+      "team2": "Costa Rica",
+      "logo1": "https://img.sofascore.com/api/v1/team/4819/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4756/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": true,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "D SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "name": "SporTV BR FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "name": "SporTV BR ALT",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "name": "TYC SPORTS",
+          "url": "https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?",
+          "referer": "https://zlive.st/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2754",
       "date": "17/11/2026",
       "time": "10:30 PM",
@@ -152,21 +203,6 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4749/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2752",
-      "date": "18/11/2026",
-      "time": "5:00 AM",
-      "league": "Football | Friendly International",
-      "team1": "Argentina",
-      "team2": "Costa Rica",
-      "logo1": "https://img.sofascore.com/api/v1/team/4819/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4756/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": true,
       "visibility": "public",
       "streams": [],
       "status": "ENDED"
