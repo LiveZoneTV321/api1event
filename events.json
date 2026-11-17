@@ -1,8 +1,8 @@
 {
-  "last_updated": "17 Nov 2026, 07:20:14 PM BST",
-  "last_updated_iso": "2026-11-17T13:20:14.698Z",
+  "last_updated": "17 Nov 2026, 07:30:23 PM BST",
+  "last_updated_iso": "2026-11-17T13:30:23.076Z",
   "total_events": 407,
-  "live_match": 13,
+  "live_match": 15,
   "events": [
     {
       "id": "2679",
@@ -610,6 +610,59 @@
       "status": "LIVE"
     },
     {
+      "id": "2761",
+      "date": "17/11/2026",
+      "time": "7:45 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 24th Match",
+      "team1": "Yas Lions",
+      "team2": "Arabian Aces",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Myco - (bd)1",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3050",
+      "date": "17/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | SAFF Championship - (Final)",
+      "team1": "India",
+      "team2": "Pakistan",
+      "logo1": "https://img.sofascore.com/api/v1/team/4828/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "t sports hd",
+          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports hd 2",
+          "url": "http://116.204.149.16/T_SportsFHD/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3142",
       "date": "17/11/2026",
       "time": "6:30 PM",
@@ -895,21 +948,6 @@
       "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5092",
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2761",
-      "date": "17/11/2026",
-      "time": "7:45 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 24th Match",
-      "team1": "Yas Lions",
-      "team2": "Arabian Aces",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -5202,21 +5240,6 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3050",
-      "date": "17/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | SAFF Championship - (Final)",
-      "team1": "India",
-      "team2": "Pakistan",
-      "logo1": "https://img.sofascore.com/api/v1/team/4828/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
-      "isHot": false,
-      "visibility": "unpublic",
       "streams": [],
       "status": "ENDED"
     },
