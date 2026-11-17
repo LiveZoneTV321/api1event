@@ -1,8 +1,8 @@
 {
-  "last_updated": "17 Nov 2026, 03:20:14 PM BST",
-  "last_updated_iso": "2026-11-17T09:20:14.900Z",
+  "last_updated": "17 Nov 2026, 03:30:26 PM BST",
+  "last_updated_iso": "2026-11-17T09:30:26.586Z",
   "total_events": 409,
-  "live_match": 4,
+  "live_match": 5,
   "events": [
     {
       "id": "2679",
@@ -100,6 +100,71 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NmVkZmNhYjg4MjFjNzQzNzcxN2FiOWM5NDMwMGE4YTA6MWRjMTQxYzhhYzEzMWE2OGJkMWM0NDVhY2ZkYzY3M2M="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2743",
+      "date": "17/11/2026",
+      "time": "4:00 PM",
+      "league": "Football | Friendly International",
+      "team1": "Singapore",
+      "team2": "Brazil",
+      "logo1": "https://img.sofascore.com/api/v1/team/4738/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4748/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "SporTv Br - aq",
+          "url": "https://abbfz7naaaaaaaamlleqwa446ufun.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NTFjMGVmMjNiMTcyOTdlNWMwMWNkN2YzNmRkMGE2Y2U6ODgyM2Y3MTNiYTZmZGI5YmJlMGEyYWQ4MmQzMDlhNGI="
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001794903893-0-0-0cbbfb72689127f49c8d369b8b84a51d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794887048-0-0-f5c7dcee326510a18c72a91291473193",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794897668-0-0-cb414190dc32f0676e0eee7ce314c8f6",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -440,21 +505,6 @@
       "team2": "Bahrain",
       "logo1": "https://img.sofascore.com/api/v1/team/4755/image",
       "logo2": "https://img.sofascore.com/api/v1/team/5161/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2743",
-      "date": "17/11/2026",
-      "time": "4:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Singapore",
-      "team2": "Brazil",
-      "logo1": "https://img.sofascore.com/api/v1/team/4738/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4748/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
