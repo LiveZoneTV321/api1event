@@ -1,8 +1,8 @@
 {
-  "last_updated": "17 Nov 2026, 02:00:34 PM BST",
-  "last_updated_iso": "2026-11-17T08:00:34.080Z",
-  "total_events": 410,
-  "live_match": 5,
+  "last_updated": "17 Nov 2026, 02:10:14 PM BST",
+  "last_updated_iso": "2026-11-17T08:10:14.133Z",
+  "total_events": 409,
+  "live_match": 4,
   "events": [
     {
       "id": "2679",
@@ -100,50 +100,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NmVkZmNhYjg4MjFjNzQzNzcxN2FiOWM5NDMwMGE4YTA6MWRjMTQxYzhhYzEzMWE2OGJkMWM0NDVhY2ZkYzY3M2M="
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2741",
-      "date": "17/11/2026",
-      "time": "12:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Malaysia",
-      "team2": "Yemen",
-      "logo1": "https://img.sofascore.com/api/v1/team/6912/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4721/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794893203-0-0-6b5528ec2a7b9afcd382c1b5e46fa3db",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794884108-0-0-f16eef251718c0116005eb2b4f50f347",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -248,6 +204,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://t-prod-bd.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
