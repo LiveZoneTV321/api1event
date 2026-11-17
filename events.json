@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Nov 2026, 10:30:23 PM BST",
-  "last_updated_iso": "2026-11-17T16:30:23.688Z",
+  "last_updated": "17 Nov 2026, 10:40:14 PM BST",
+  "last_updated_iso": "2026-11-17T16:40:14.699Z",
   "total_events": 389,
   "live_match": 13,
   "events": [
@@ -218,6 +218,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "beIN ENGLISH FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "name": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
         }
       ],
       "status": "LIVE"
@@ -482,7 +496,7 @@
     {
       "id": "2753",
       "date": "17/11/2026",
-      "time": "11:00 PM",
+      "time": "10:00 PM",
       "league": "Football | Friendly International",
       "team1": "Russia",
       "team2": "Venezuela",
