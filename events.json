@@ -1,8 +1,8 @@
 {
-  "last_updated": "17 Nov 2026, 05:20:13 PM BST",
-  "last_updated_iso": "2026-11-17T11:20:13.709Z",
-  "total_events": 409,
-  "live_match": 6,
+  "last_updated": "17 Nov 2026, 05:30:19 PM BST",
+  "last_updated_iso": "2026-11-17T11:30:19.618Z",
+  "total_events": 408,
+  "live_match": 5,
   "events": [
     {
       "id": "2679",
@@ -179,6 +179,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live2.zktsva.app/live/294335.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -272,50 +279,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2759",
-      "date": "17/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Adelaide Strikers Women",
-      "team2": "Sydney Sixers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274888/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow sports - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://t-prod-bd.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ODJlYTk4MGM2YjcyZWI5ZDg0NWQzYmIyMzkzMzBjMzA6ZTIwNTc5OGJiMTY0NmYxZTBhYjBlZTM0NTliMDg0YmY="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vpayuuzjup/out/v1/bc0a550c2e694ee1ae017a247ab05e49/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ODJlYTk4MGM2YjcyZWI5ZDg0NWQzYmIyMzkzMzBjMzA6ZTIwNTc5OGJiMTY0NmYxZTBhYjBlZTM0NTliMDg0YmY="
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2760",
       "date": "17/11/2026",
       "time": "5:15 PM",
@@ -341,6 +304,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
+        },
+        {
+          "name": "star sports 2",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
