@@ -1,8 +1,8 @@
 {
-  "last_updated": "17 Nov 2026, 10:00:30 PM BST",
-  "last_updated_iso": "2026-11-17T16:00:30.260Z",
+  "last_updated": "17 Nov 2026, 10:10:18 PM BST",
+  "last_updated_iso": "2026-11-17T16:10:18.518Z",
   "total_events": 392,
-  "live_match": 13,
+  "live_match": 14,
   "events": [
     {
       "id": "2679",
@@ -559,6 +559,36 @@
       "status": "LIVE"
     },
     {
+      "id": "2751",
+      "date": "17/11/2026",
+      "time": "10:15 PM",
+      "league": "Football | Friendly International",
+      "team1": "Iraq",
+      "team2": "Iran",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5078",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001794928893-0-0-42088748e6a6da90a78930a09f87b454",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2762",
       "date": "17/11/2026",
       "time": "10:00 PM",
@@ -677,21 +707,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/4779/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4749/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2751",
-      "date": "17/11/2026",
-      "time": "10:15 PM",
-      "league": "Football | Friendly International",
-      "team1": "Iraq",
-      "team2": "Iran",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5078",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
       "streams": [],
