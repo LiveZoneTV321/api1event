@@ -1,7 +1,7 @@
 {
-  "last_updated": "17 Nov 2026, 08:20:13 PM BST",
-  "last_updated_iso": "2026-11-17T14:20:13.845Z",
-  "total_events": 403,
+  "last_updated": "17 Nov 2026, 08:30:21 PM BST",
+  "last_updated_iso": "2026-11-17T14:30:21.737Z",
+  "total_events": 402,
   "live_match": 13,
   "events": [
     {
@@ -774,21 +774,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/23478/image",
       "logo2": "https://img.sofascore.com/api/v1/team/8035/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2745",
-      "date": "17/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Lebanon",
-      "team2": "Palestine",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5088",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
       "streams": [],
