@@ -1,8 +1,8 @@
 {
-  "last_updated": "17 Nov 2026, 07:10:13 PM BST",
-  "last_updated_iso": "2026-11-17T13:10:13.929Z",
+  "last_updated": "17 Nov 2026, 07:20:14 PM BST",
+  "last_updated_iso": "2026-11-17T13:20:14.698Z",
   "total_events": 407,
-  "live_match": 12,
+  "live_match": 13,
   "events": [
     {
       "id": "2679",
@@ -499,6 +499,43 @@
       "status": "LIVE"
     },
     {
+      "id": "2746",
+      "date": "17/11/2026",
+      "time": "7:10 PM",
+      "league": "Football | Friendly International",
+      "team1": "Japan",
+      "team2": "Paraguay",
+      "logo1": "https://img.sofascore.com/api/v1/team/4770/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4789/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794918221-0-0-0d24eff9c0fa116a1637b14b6edf4181",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/DGGGAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2757",
       "date": "17/11/2026",
       "time": "12:00 PM",
@@ -737,21 +774,6 @@
       "team2": "Palestine",
       "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5088",
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2746",
-      "date": "17/11/2026",
-      "time": "7:10 PM",
-      "league": "Football | Friendly International",
-      "team1": "Japan",
-      "team2": "Paraguay",
-      "logo1": "https://img.sofascore.com/api/v1/team/4770/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4789/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
