@@ -1,8 +1,8 @@
 {
-  "last_updated": "17 Nov 2026, 06:30:20 PM BST",
-  "last_updated_iso": "2026-11-17T12:30:20.345Z",
-  "total_events": 409,
-  "live_match": 7,
+  "last_updated": "17 Nov 2026, 06:40:16 PM BST",
+  "last_updated_iso": "2026-11-17T12:40:16.734Z",
+  "total_events": 407,
+  "live_match": 6,
   "events": [
     {
       "id": "2679",
@@ -163,92 +163,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2743",
-      "date": "17/11/2026",
-      "time": "4:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Singapore",
-      "team2": "Brazil",
-      "logo1": "https://img.sofascore.com/api/v1/team/4738/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4748/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "SporTv Br alt",
-          "url": "https://abbfz7naaaaaaaamlleqwa446ufun.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NTFjMGVmMjNiMTcyOTdlNWMwMWNkN2YzNmRkMGE2Y2U6ODgyM2Y3MTNiYTZmZGI5YmJlMGEyYWQ4MmQzMDlhNGI="
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001794903893-0-0-0cbbfb72689127f49c8d369b8b84a51d",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794887048-0-0-f5c7dcee326510a18c72a91291473193",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794897668-0-0-cb414190dc32f0676e0eee7ce314c8f6",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 6",
-          "url": "https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SporTV BR FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        },
-        {
-          "name": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/0972098c-089b-42aa-b107-66a0bdf00b02.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 6",
-          "url": "https://live2.zktsva.app/live/294335.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2744",
       "date": "17/11/2026",
       "time": "6:00 PM",
@@ -328,57 +242,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2756",
-      "date": "17/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | SL vs PAK, 2026 - 2nd Test, Day 1",
-      "team1": "Sri Lanka",
-      "team2": "Pakistan",
-      "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187754/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NzE3ZTM5YzQyMDdlZjZiZDZhMWE0OTVmYjJlM2IxMzM6ZjlmNjY2Y2FjN2RlMmUyZDY5YmQ0MmU4ZmNkMDZhZDc="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NzE3ZTM5YzQyMDdlZjZiZDZhMWE0OTVmYjJlM2IxMzM6ZjlmNjY2Y2FjN2RlMmUyZDY5YmQ0MmU4ZmNkMDZhZDc="
-        },
-        {
-          "name": "Cricbuzz hd",
-          "url": "https://002.cdnplayer.eu/live/csstream3/chunklist.m3u8?vidictid=207743932580&id=1003&pk=a7ab797461ccef1b3d4164817d89934e584fd150aa9396ccceb425db2e4b2d3a575cad9b5260197356f7a5cf7c401dcbf2b83040bf493924ac256cfafb7e359d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow hd",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2757",
       "date": "17/11/2026",
       "time": "12:00 PM",
@@ -445,6 +308,57 @@
         {
           "name": "star sports 2",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3142",
+      "date": "17/11/2026",
+      "time": "6:30 PM",
+      "league": "Football | King's Cup",
+      "team1": "Tajikistan",
+      "team2": "Thailand",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
+      "logo2": "https://img.sofascore.com/api/v1/team/4730/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/10416/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel39.flv?wsSecret=2f59c8d7b156fbd49d35e95cb890d753&wsABSTime=1794957905",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel39/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794915248-0-0-919738d100ce984b9fd4ee2608d0bf95",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1794915248-0-0-7a3b83a74e24880d89f4532cacf7fc4e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794915248-0-0-1425bbecf8c9af14985a01507186f27c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.zktsva.app/live/289650.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -6462,21 +6376,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3142",
-      "date": "17/11/2026",
-      "time": "6:30 PM",
-      "league": "Football | King's Cup",
-      "team1": "Tajikistan",
-      "team2": "Thailand",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
-      "logo2": "https://img.sofascore.com/api/v1/team/4730/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/10416/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": [],
