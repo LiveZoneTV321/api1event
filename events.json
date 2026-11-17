@@ -1,8 +1,8 @@
 {
-  "last_updated": "17 Nov 2026, 11:30:19 AM BST",
-  "last_updated_iso": "2026-11-17T05:30:19.134Z",
+  "last_updated": "17 Nov 2026, 11:40:15 AM BST",
+  "last_updated_iso": "2026-11-17T05:40:15.051Z",
   "total_events": 410,
-  "live_match": 3,
+  "live_match": 4,
   "events": [
     {
       "id": "2679",
@@ -86,6 +86,50 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NjU5NzkwMmYwNDU4MmY1ZTMwY2YyODFkNGQ4NmNlY2I6ODVkMDZiMzQ3MTdlYWU0ZDEwZjdhNTJhYmRlYWZlOTc="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2741",
+      "date": "17/11/2026",
+      "time": "12:00 PM",
+      "league": "Football | Friendly International",
+      "team1": "Malaysia",
+      "team2": "Yemen",
+      "logo1": "https://img.sofascore.com/api/v1/team/6912/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4721/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794893203-0-0-6b5528ec2a7b9afcd382c1b5e46fa3db",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794884108-0-0-f16eef251718c0116005eb2b4f50f347",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -340,21 +384,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/23478/image",
       "logo2": "https://img.sofascore.com/api/v1/team/8035/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2741",
-      "date": "17/11/2026",
-      "time": "12:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Malaysia",
-      "team2": "Yemen",
-      "logo1": "https://img.sofascore.com/api/v1/team/6912/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4721/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
       "streams": [],
