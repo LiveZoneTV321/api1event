@@ -1,7 +1,7 @@
 {
-  "last_updated": "17 Nov 2026, 06:20:17 PM BST",
-  "last_updated_iso": "2026-11-17T12:20:17.637Z",
-  "total_events": 408,
+  "last_updated": "17 Nov 2026, 06:30:20 PM BST",
+  "last_updated_iso": "2026-11-17T12:30:20.345Z",
+  "total_events": 409,
   "live_match": 7,
   "events": [
     {
@@ -6462,6 +6462,21 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [],
+      "status": "ENDED"
+    },
+    {
+      "id": "3142",
+      "date": "17/11/2026",
+      "time": "6:30 PM",
+      "league": "Football | King's Cup",
+      "team1": "Tajikistan",
+      "team2": "Thailand",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
+      "logo2": "https://img.sofascore.com/api/v1/team/4730/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/10416/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": [],
