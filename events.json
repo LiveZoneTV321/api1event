@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Nov 2026, 03:40:13 PM BST",
-  "last_updated_iso": "2026-11-17T09:40:13.979Z",
+  "last_updated": "17 Nov 2026, 03:50:14 PM BST",
+  "last_updated_iso": "2026-11-17T09:50:14.339Z",
   "total_events": 409,
   "live_match": 5,
   "events": [
@@ -118,7 +118,7 @@
       "visibility": "public",
       "streams": [
         {
-          "name": "SporTv Br - aq",
+          "name": "SporTv Br alt",
           "url": "https://abbfz7naaaaaaaamlleqwa446ufun.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
@@ -165,6 +165,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "SporTV BR FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
         }
       ],
       "status": "LIVE"
