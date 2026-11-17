@@ -1,8 +1,8 @@
 {
-  "last_updated": "17 Nov 2026, 09:30:21 PM BST",
-  "last_updated_iso": "2026-11-17T15:30:21.720Z",
-  "total_events": 393,
-  "live_match": 6,
+  "last_updated": "17 Nov 2026, 09:40:14 PM BST",
+  "last_updated_iso": "2026-11-17T15:40:14.663Z",
+  "total_events": 392,
+  "live_match": 5,
   "events": [
     {
       "id": "2679",
@@ -279,43 +279,6 @@
           "name": "Server - 8",
           "url": "http://193.47.62.41/hls/JJJJG.m3u8",
           "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2760",
-      "date": "17/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | Nepal Premier League 2026 - Qualifier 1",
-      "team1": "Lumbini Lions",
-      "team2": "Sudurpaschim Royals",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "fancode - Aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "name": "FANCODE - sd",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
-        },
-        {
-          "name": "star sports 2",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
