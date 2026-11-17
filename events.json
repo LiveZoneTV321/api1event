@@ -1,8 +1,8 @@
 {
-  "last_updated": "17 Nov 2026, 10:10:21 AM BST",
-  "last_updated_iso": "2026-11-17T04:10:21.650Z",
+  "last_updated": "17 Nov 2026, 10:20:22 AM BST",
+  "last_updated_iso": "2026-11-17T04:20:22.433Z",
   "total_events": 410,
-  "live_match": 2,
+  "live_match": 3,
   "events": [
     {
       "id": "2679",
@@ -86,6 +86,29 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NjU5NzkwMmYwNDU4MmY1ZTMwY2YyODFkNGQ4NmNlY2I6ODVkMDZiMzQ3MTdlYWU0ZDEwZjdhNTJhYmRlYWZlOTc="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2756",
+      "date": "17/11/2026",
+      "time": "10:30 AM",
+      "league": "Cricket | SL vs PAK, 2026 - 2nd Test, Day 1",
+      "team1": "Sri Lanka",
+      "team2": "Pakistan",
+      "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187754/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -513,21 +536,6 @@
       "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5092",
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2756",
-      "date": "17/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | SL vs PAK, 2026 - 2nd Test, Day 1",
-      "team1": "Sri Lanka",
-      "team2": "Pakistan",
-      "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187754/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
