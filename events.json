@@ -1,8 +1,8 @@
 {
-  "last_updated": "18 Nov 2026, 12:30:30 AM BST",
-  "last_updated_iso": "2026-11-17T18:30:30.975Z",
+  "last_updated": "18 Nov 2026, 12:40:14 AM BST",
+  "last_updated_iso": "2026-11-17T18:40:14.401Z",
   "total_events": 378,
-  "live_match": 3,
+  "live_match": 6,
   "events": [
     {
       "id": "2679",
@@ -105,6 +105,36 @@
       "status": "LIVE"
     },
     {
+      "id": "2722",
+      "date": "18/11/2026",
+      "time": "1:00 AM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Mauritania",
+      "team2": "Burkina Faso",
+      "logo1": "https://img.sofascore.com/api/v1/team/4779/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4749/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001794939781-0-0-12f9c05fa15676f1add450239a2242d4",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2752",
       "date": "18/11/2026",
       "time": "5:00 AM",
@@ -193,21 +223,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2722",
-      "date": "18/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Mauritania",
-      "team2": "Burkina Faso",
-      "logo1": "https://img.sofascore.com/api/v1/team/4779/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4749/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "2763",
       "date": "18/11/2026",
       "time": "1:00 AM",
@@ -219,8 +234,23 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001794939625-0-0-6cefd55e7ce31538c800ee3930d6af84",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
     },
     {
       "id": "2764",
@@ -234,8 +264,23 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001794939874-0-0-09f855a87e3f0fbb0cf2b7fc663b311a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
     },
     {
       "id": "2765",
