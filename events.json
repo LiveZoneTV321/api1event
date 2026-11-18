@@ -1,6 +1,6 @@
 {
-  "last_updated": "18 Nov 2026, 11:40:15 PM BST",
-  "last_updated_iso": "2026-11-18T17:40:15.973Z",
+  "last_updated": "18 Nov 2026, 11:50:14 PM BST",
+  "last_updated_iso": "2026-11-18T17:50:14.073Z",
   "total_events": 354,
   "live_match": 6,
   "events": [
@@ -279,6 +279,13 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
         }
       ],
       "status": "LIVE"
