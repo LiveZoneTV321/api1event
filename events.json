@@ -1,8 +1,8 @@
 {
-  "last_updated": "19 Nov 2026, 01:10:14 AM BST",
-  "last_updated_iso": "2026-11-18T19:10:14.152Z",
-  "total_events": 354,
-  "live_match": 8,
+  "last_updated": "19 Nov 2026, 01:20:18 AM BST",
+  "last_updated_iso": "2026-11-18T19:20:18.209Z",
+  "total_events": 353,
+  "live_match": 7,
   "events": [
     {
       "id": "2679",
@@ -286,50 +286,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2786",
-      "date": "18/11/2026",
-      "time": "10:00 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 27th Match",
-      "team1": "Emirates Eagles",
-      "team2": "Yas Lions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "a sports fhd",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0l2pj0gnuu/out/v1/5cdb31bc933d4e81aeb2c2f1e7c88fcb/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjU3NjA4ZDc0MWJkOWVlYjUzZmVlNTllMDU0YTMxOGQ6OWZmOTliZTQyOTIzYWE4ZmJlNmRjYWRiYzM5OWYzYTE="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0l2pj0gnuu/out/v1/5cdb31bc933d4e81aeb2c2f1e7c88fcb/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjU3NjA4ZDc0MWJkOWVlYjUzZmVlNTllMDU0YTMxOGQ6OWZmOTliZTQyOTIzYWE4ZmJlNmRjYWRiYzM5OWYzYTE="
         }
       ],
       "status": "LIVE"
