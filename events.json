@@ -1,14 +1,14 @@
 {
-  "last_updated": "18 Nov 2026, 09:50:13 PM BST",
-  "last_updated_iso": "2026-11-18T15:50:13.675Z",
-  "total_events": 357,
-  "live_match": 3,
+  "last_updated": "18 Nov 2026, 10:00:26 PM BST",
+  "last_updated_iso": "2026-11-18T16:00:26.829Z",
+  "total_events": 354,
+  "live_match": 2,
   "events": [
     {
       "id": "2679",
-      "date": "18/11/2026",
+      "date": "19/11/2026",
       "time": "2:00 PM",
-      "league": "Cricket | BAN vs SA, 2026 - 1st Test, Day 4",
+      "league": "Cricket | BAN vs SA, 2026 - 1st Test, Day 5",
       "team1": "South Africa",
       "team2": "Bangladesh",
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
@@ -126,37 +126,14 @@
       "status": "LIVE"
     },
     {
-      "id": "2784",
+      "id": "2786",
       "date": "18/11/2026",
-      "time": "5:00 PM",
-      "league": "Cricket | Nepal Premier League 2026 - Eliminator",
-      "team1": "Kathmandu Gurkhas",
-      "team2": "Chitwan Rhinos",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Myco - (bd)1",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2785",
-      "date": "18/11/2026",
-      "time": "7:45 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 26th Match",
-      "team1": "UAE Bulls",
-      "team2": "United Tigers",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/78.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+      "time": "10:00 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 27th Match",
+      "team1": "Emirates Eagles",
+      "team2": "Yas Lions",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/1LK.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
@@ -174,20 +151,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o5raaf1w01/out/v1/5327ed7dbb71426fb7d1ab8f15df4abc/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NGQ4NDdiOTY1MWEzYWMwMWI5NTNmYmZjNjg3NTIwNzQ6Yzk4OTk5OTg3MmIxODU5Y2E5NjA5ZDllZTY1NTJlYzU="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3tfs6xw8wk/out/v1/2eff5d3fd0da4e878a40e6765496a321/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NGQ4NDdiOTY1MWEzYWMwMWI5NTNmYmZjNjg3NTIwNzQ6Yzk4OTk5OTg3MmIxODU5Y2E5NjA5ZDllZTY1NTJlYzU="
         }
       ],
       "status": "LIVE"
@@ -217,21 +180,6 @@
       "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/68877",
       "logo2": "https://img.sofascore.com/api/v1/team/17/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2786",
-      "date": "18/11/2026",
-      "time": "10:00 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 27th Match",
-      "team1": "Emirates Eagles",
-      "team2": "Yas Lions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -532,21 +480,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274884/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274889/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2807",
-      "date": "19/11/2026",
-      "time": "10:00 AM",
-      "league": "Cricket | Bangladesh tour of South Africa, 2026 - 1st Test, Day 5",
-      "team1": "South Africa",
-      "team2": "Bangladesh",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
