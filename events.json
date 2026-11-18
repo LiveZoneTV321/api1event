@@ -1,8 +1,8 @@
 {
-  "last_updated": "18 Nov 2026, 06:00:33 PM BST",
-  "last_updated_iso": "2026-11-18T12:00:33.790Z",
-  "total_events": 358,
-  "live_match": 4,
+  "last_updated": "18 Nov 2026, 06:10:14 PM BST",
+  "last_updated_iso": "2026-11-18T12:10:14.394Z",
+  "total_events": 357,
+  "live_match": 3,
   "events": [
     {
       "id": "2679",
@@ -118,50 +118,6 @@
         {
           "name": "t sports hd",
           "url": "http://103.209.196.22:84/feed1001/index.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2782",
-      "date": "18/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | SL vs PAK, 2026 - 2nd Test, Day 2",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YTM2OGJjMDU5NmNjNjk3NTYwNTcwMWFhNzlkMDFmM2M6ZDUxNGEwMzIwMzY1ODljMmEzZTRlYTJkOTU4NzkzYTM="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YTM2OGJjMDU5NmNjNjk3NTYwNTcwMWFhNzlkMDFmM2M6ZDUxNGEwMzIwMzY1ODljMmEzZTRlYTJkOTU4NzkzYTM="
-        },
-        {
-          "name": "Cricbuzz - hd",
-          "url": "https://002.cdnplayer.eu/live/csstream3/chunklist.m3u8?vidictid=207754673588&id=1003&pk=a7ab797461ccef1b3d4164817d89934e584fd150aa9396ccceb425db2e4b2d3aff56a0ba43d6be56dee32653b3d7a371b27d475ce2edd9fc2ef1131653b70cd2",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -510,8 +466,8 @@
     {
       "id": "2803",
       "date": "19/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | India tour of New Zealand 2026 - 1st Test, Day 1",
+      "time": "4:00 AM",
+      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 1",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -931,7 +887,7 @@
       "id": "2831",
       "date": "20/11/2026",
       "time": "4:00 AM",
-      "league": "Cricket | India tour of New Zealand 2026 - 1st Test, Day 2",
+      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 2",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -1951,7 +1907,7 @@
       "id": "2901",
       "date": "21/11/2026",
       "time": "4:00 AM",
-      "league": "Cricket | India tour of New Zealand 2026 - 1st Test, Day 3",
+      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 3",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -2791,7 +2747,7 @@
       "id": "2957",
       "date": "22/11/2026",
       "time": "4:00 AM",
-      "league": "Cricket | India tour of New Zealand 2026 - 1st Test, Day 4",
+      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 4",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
