@@ -1,7 +1,7 @@
 {
-  "last_updated": "18 Nov 2026, 05:40:14 PM BST",
-  "last_updated_iso": "2026-11-18T11:40:14.236Z",
-  "total_events": 359,
+  "last_updated": "18 Nov 2026, 05:50:16 PM BST",
+  "last_updated_iso": "2026-11-18T11:50:16.377Z",
+  "total_events": 358,
   "live_match": 4,
   "events": [
     {
@@ -114,61 +114,10 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NmRlMGQxNjE4ODRlOGI0NWU0N2Y0ZWRjNWU5ZGI5NGQ6YmZhY2NkMzY2MmRmYjFkMDQ2ODg3ZWNjMDUwYTU3NmU="
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2781",
-      "date": "18/11/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | England tour of Australia, 2026 - 3rd ODI",
-      "team1": "Australia",
-      "team2": "England",
-      "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/team/287712/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         },
         {
-          "name": "FANCODE FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aywqinj3vc/out/v1/49441817748348bf8b20205da90af5fa/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MjA1NDUxYTZjZDgxZGNlMjg0NTE5YTMzZGQ1N2ExZGI6MmRjZmQxYmJmNjYxNmQwOWIwMWQ5NjllZmEwNjU4YTY="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MjA1NDUxYTZjZDgxZGNlMjg0NTE5YTMzZGQ1N2ExZGI6MmRjZmQxYmJmNjYxNmQwOWIwMWQ5NjllZmEwNjU4YTY="
-        },
-        {
-          "name": "TNT SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "name": "SKY CRICKET FHD",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "t sports hd",
+          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -244,6 +193,36 @@
       "status": "LIVE"
     },
     {
+      "id": "2785",
+      "date": "18/11/2026",
+      "time": "7:45 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 26th Match",
+      "team1": "UAE Bulls",
+      "team2": "United Tigers",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/78.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "PREMIERE2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "a sports fhd",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2776",
       "date": "18/11/2026",
       "time": "11:45 PM",
@@ -274,24 +253,9 @@
       "status": "ENDED"
     },
     {
-      "id": "2785",
-      "date": "18/11/2026",
-      "time": "5:45 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 26th Match",
-      "team1": "UAE Bulls",
-      "team2": "United Tigers",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/78.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "2786",
       "date": "18/11/2026",
-      "time": "8:00 PM",
+      "time": "10:00 PM",
       "league": "Cricket | Abu Dhabi T10 League 2026 - 27th Match",
       "team1": "Emirates Eagles",
       "team2": "Yas Lions",
