@@ -1,8 +1,8 @@
 {
-  "last_updated": "19 Nov 2026, 12:30:22 AM BST",
-  "last_updated_iso": "2026-11-18T18:30:22.098Z",
+  "last_updated": "19 Nov 2026, 12:40:18 AM BST",
+  "last_updated_iso": "2026-11-18T18:40:18.159Z",
   "total_events": 354,
-  "live_match": 6,
+  "live_match": 8,
   "events": [
     {
       "id": "2679",
@@ -402,6 +402,80 @@
       "status": "LIVE"
     },
     {
+      "id": "2799",
+      "date": "19/11/2026",
+      "time": "1:00 AM",
+      "league": "Football | Copa del Rey",
+      "team1": "Alcoyano",
+      "team2": "Mallorca",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/181",
+      "logo2": "https://img.sofascore.com/api/v1/team/2826/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001795026259-0-0-32352c38d74f07c5e14aff6085adb227",
+          "referer": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.59/hls/GTTTAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2800",
+      "date": "19/11/2026",
+      "time": "1:00 AM",
+      "league": "Football | Copa del Rey",
+      "team1": "CD Badajoz",
+      "team2": "CD Tenerife",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/21942",
+      "logo2": "https://img.sofascore.com/api/v1/team/2822/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795026263-0-0-46dc93772dfe81ede14de805eaec3ceb",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.59/hls/GTTTAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2787",
       "date": "19/11/2026",
       "time": "4:30 AM",
@@ -546,36 +620,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2203/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2672/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2799",
-      "date": "19/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Copa del Rey",
-      "team1": "Alcoyano",
-      "team2": "Mallorca",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/181",
-      "logo2": "https://img.sofascore.com/api/v1/team/2826/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2800",
-      "date": "19/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Copa del Rey",
-      "team1": "CD Badajoz",
-      "team2": "CD Tenerife",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/21942",
-      "logo2": "https://img.sofascore.com/api/v1/team/2822/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
