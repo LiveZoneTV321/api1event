@@ -1,6 +1,6 @@
 {
-  "last_updated": "18 Nov 2026, 11:30:20 AM BST",
-  "last_updated_iso": "2026-11-18T05:30:20.273Z",
+  "last_updated": "18 Nov 2026, 11:40:17 AM BST",
+  "last_updated_iso": "2026-11-18T05:40:17.794Z",
   "total_events": 359,
   "live_match": 3,
   "events": [
@@ -195,6 +195,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "YTM2OGJjMDU5NmNjNjk3NTYwNTcwMWFhNzlkMDFmM2M6ZDUxNGEwMzIwMzY1ODljMmEzZTRlYTJkOTU4NzkzYTM="
+        },
+        {
+          "name": "Cricbuzz - hd",
+          "url": "https://002.cdnplayer.eu/live/csstream3/chunklist.m3u8?vidictid=207754673588&id=1003&pk=a7ab797461ccef1b3d4164817d89934e584fd150aa9396ccceb425db2e4b2d3aff56a0ba43d6be56dee32653b3d7a371b27d475ce2edd9fc2ef1131653b70cd2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
