@@ -1,8 +1,8 @@
 {
-  "last_updated": "19 Nov 2026, 03:50:15 PM BST",
-  "last_updated_iso": "2026-11-19T09:50:15.369Z",
+  "last_updated": "19 Nov 2026, 04:00:24 PM BST",
+  "last_updated_iso": "2026-11-19T10:00:24.972Z",
   "total_events": 335,
-  "live_match": 5,
+  "live_match": 6,
   "events": [
     {
       "id": "2679",
@@ -351,6 +351,43 @@
           "name": "sony",
           "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8",
           "referer": "https://www.sonyliv.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3128",
+      "date": "19/11/2026",
+      "time": "4:00 PM",
+      "league": "Cricket | ACC Emerging Teams Asia Cup",
+      "team1": "Sri Lanka A",
+      "team2": "Afghanistan A",
+      "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187575/image",
+      "leagueLogo": "",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OTY0YzRiMDlkMzRhZWMyNjAwNGFmNTg0NjhkZjNmNjM6MzMyNDEwNzdlOWI3NjA0ZTg3NmQ2YjIzYzFmY2Y4YWM="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OTY0YzRiMDlkMzRhZWMyNjAwNGFmNTg0NjhkZjNmNjM6MzMyNDEwNzdlOWI3NjA0ZTg3NmQ2YjIzYzFmY2Y4YWM="
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124320~acl=/*~id=11217918928036380812071625224481~hmac=d09ea749e9e7fd5d022ca7f8bcee3c3e0d2dbec85a307afb53180f702ffafe70",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -5092,21 +5129,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274885/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3128",
-      "date": "19/11/2026",
-      "time": "4:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Sri Lanka A",
-      "team2": "Afghanistan A",
-      "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187575/image",
-      "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
       "streams": [],
