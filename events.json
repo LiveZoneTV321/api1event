@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Nov 2026, 12:50:16 PM BST",
-  "last_updated_iso": "2026-11-19T06:50:16.314Z",
+  "last_updated": "19 Nov 2026, 01:00:28 PM BST",
+  "last_updated_iso": "2026-11-19T07:00:28.999Z",
   "total_events": 336,
   "live_match": 5,
   "events": [
@@ -363,12 +363,12 @@
     {
       "id": "2808",
       "date": "19/11/2026",
-      "time": "5:00 PM",
+      "time": "5:15 PM",
       "league": "Cricket | Nepal Premier League 2026 - Qualifier 2",
-      "team1": "TBC",
-      "team2": "TBC",
-      "logo1": "",
-      "logo2": "",
+      "team1": "Sudurpaschim Royals",
+      "team2": "Chitwan Rhinos",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/ZV.png",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
