@@ -1,8 +1,8 @@
 {
-  "last_updated": "19 Nov 2026, 07:50:16 PM BST",
-  "last_updated_iso": "2026-11-19T13:50:16.877Z",
-  "total_events": 331,
-  "live_match": 6,
+  "last_updated": "19 Nov 2026, 08:00:27 PM BST",
+  "last_updated_iso": "2026-11-19T14:00:27.923Z",
+  "total_events": 330,
+  "live_match": 5,
   "events": [
     {
       "id": "2803",
@@ -195,57 +195,6 @@
           "name": "a sports fhd",
           "url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3127",
-      "date": "19/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Bangladesh A",
-      "team2": "Hong Kong, China",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4765/image",
-      "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sonyliv - aq",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795110383~acl=/*~id=48069623606989697975643132091407~hmac=d32366d25b041daf844ab1cd04a2155110b012f1fb87cd41638ef4128e5d9136",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://dai.google.com/linear/hls/event/7cIN-VbvRemT_Gc-OWNing/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "t sports hd",
-          "url": "https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PRIME VIDEO",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6re2sw5cd/out/v1/8e8f93ec4fe2435c885a283151852080/cenc.mpd",
-          "referer": "https://www.primevideo.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "6300bd600d0c9e459bd1a3d023e2270d:edf53fad044c43f8aae91ad2576cccfd"
-        },
-        {
-          "name": "sony",
-          "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8",
-          "referer": "https://www.sonyliv.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
