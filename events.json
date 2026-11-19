@@ -1,8 +1,8 @@
 {
-  "last_updated": "19 Nov 2026, 12:10:15 PM BST",
-  "last_updated_iso": "2026-11-19T06:10:15.261Z",
+  "last_updated": "19 Nov 2026, 12:20:14 PM BST",
+  "last_updated_iso": "2026-11-19T06:20:14.382Z",
   "total_events": 336,
-  "live_match": 4,
+  "live_match": 5,
   "events": [
     {
       "id": "2679",
@@ -249,6 +249,43 @@
       "status": "LIVE"
     },
     {
+      "id": "2805",
+      "date": "19/11/2026",
+      "time": "10:10 AM",
+      "league": "Cricket | Womens Big Bash League",
+      "team1": "Hobart Hurricanes Women",
+      "team2": "Perth Scorchers Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274885/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274890/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NmY4N2Y0OWYxYTUxYjljOGQ3ZDExYTIzYzNmMjA3ZWY6MGZkZDg1ZTAwYjk4NjM3YmI5N2UxYjZiMzE5ZDJiZTk="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NmY4N2Y0OWYxYTUxYjljOGQ3ZDExYTIzYzNmMjA3ZWY6MGZkZDg1ZTAwYjk4NjM3YmI5N2UxYjZiMzE5ZDJiZTk="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3127",
       "date": "19/11/2026",
       "time": "12:00 PM",
@@ -296,21 +333,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2203/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2672/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2805",
-      "date": "19/11/2026",
-      "time": "2:40 PM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Hobart Hurricanes Women",
-      "team2": "Perth Scorchers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274885/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274890/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
