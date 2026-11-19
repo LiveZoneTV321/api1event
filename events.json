@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Nov 2026, 03:00:26 PM BST",
-  "last_updated_iso": "2026-11-19T09:00:26.354Z",
+  "last_updated": "19 Nov 2026, 03:10:14 PM BST",
+  "last_updated_iso": "2026-11-19T09:10:14.958Z",
   "total_events": 336,
   "live_match": 5,
   "events": [
@@ -413,7 +413,7 @@
     {
       "id": "2809",
       "date": "19/11/2026",
-      "time": "3:30 PM",
+      "time": "5:30 PM",
       "league": "Cricket | Abu Dhabi T10 League 2026 - 28th Match",
       "team1": "UAE Bulls",
       "team2": "Arabian Aces",
@@ -428,7 +428,7 @@
     {
       "id": "2810",
       "date": "19/11/2026",
-      "time": "5:45 PM",
+      "time": "7:45 PM",
       "league": "Cricket | Abu Dhabi T10 League 2026 - 29th Match",
       "team1": "Yas Lions",
       "team2": "Royal Desert Champions",
@@ -443,7 +443,7 @@
     {
       "id": "2811",
       "date": "19/11/2026",
-      "time": "8:00 PM",
+      "time": "10:00 PM",
       "league": "Cricket | Abu Dhabi T10 League 2026 - 30th Match",
       "team1": "Emirates Eagles",
       "team2": "United Tigers",
