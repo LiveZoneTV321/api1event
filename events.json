@@ -1,7 +1,7 @@
 {
-  "last_updated": "19 Nov 2026, 03:10:14 PM BST",
-  "last_updated_iso": "2026-11-19T09:10:14.958Z",
-  "total_events": 336,
+  "last_updated": "19 Nov 2026, 03:20:13 PM BST",
+  "last_updated_iso": "2026-11-19T09:20:13.559Z",
+  "total_events": 335,
   "live_match": 5,
   "events": [
     {
@@ -263,38 +263,45 @@
       "status": "LIVE"
     },
     {
-      "id": "2805",
+      "id": "2806",
       "date": "19/11/2026",
-      "time": "10:10 AM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Hobart Hurricanes Women",
-      "team2": "Perth Scorchers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274885/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274890/image",
+      "time": "2:10 PM",
+      "league": "Cricket | Womens Big Bash League 2026 - 27th Match",
+      "team1": "Brisbane Heat Women",
+      "team2": "Sydney Thunder Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274884/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274889/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
           "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayg6j8yw1b/out/v1/e02856592bc44834b4edda32878b485a/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NmY4N2Y0OWYxYTUxYjljOGQ3ZDExYTIzYzNmMjA3ZWY6MGZkZDg1ZTAwYjk4NjM3YmI5N2UxYjZiMzE5ZDJiZTk="
+          "drm": "YjA2ZGM1ODQ4ZWY2MjNhMWVkMWJjN2MyOTAwMDA3ZDk6ZDYyZmZlYjQwNjFiYjBiZDdmMTExNjQ3NjFlYTY5NGE="
         },
         {
           "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayg6j8yw1b/out/v1/e02856592bc44834b4edda32878b485a/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NmY4N2Y0OWYxYTUxYjljOGQ3ZDExYTIzYzNmMjA3ZWY6MGZkZDg1ZTAwYjk4NjM3YmI5N2UxYjZiMzE5ZDJiZTk="
+          "drm": "YjA2ZGM1ODQ4ZWY2MjNhMWVkMWJjN2MyOTAwMDA3ZDk6ZDYyZmZlYjQwNjFiYjBiZDdmMTExNjQ3NjFlYTY5NGE="
+        },
+        {
+          "name": "EUROSPORT FHD",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
         }
       ],
       "status": "LIVE"
@@ -375,21 +382,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2203/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2672/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2806",
-      "date": "19/11/2026",
-      "time": "6:10 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 27th Match",
-      "team1": "Brisbane Heat Women",
-      "team2": "Sydney Thunder Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274884/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274889/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
