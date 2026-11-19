@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Nov 2026, 12:40:17 PM BST",
-  "last_updated_iso": "2026-11-19T06:40:17.298Z",
+  "last_updated": "19 Nov 2026, 12:50:16 PM BST",
+  "last_updated_iso": "2026-11-19T06:50:16.314Z",
   "total_events": 336,
   "live_match": 5,
   "events": [
@@ -301,6 +301,13 @@
         {
           "name": "sonyliv - aq",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795110383~acl=/*~id=48069623606989697975643132091407~hmac=d32366d25b041daf844ab1cd04a2155110b012f1fb87cd41638ef4128e5d9136",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://dai.google.com/linear/hls/event/7cIN-VbvRemT_Gc-OWNing/master.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
