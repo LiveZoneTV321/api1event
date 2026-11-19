@@ -1,9 +1,53 @@
 {
-  "last_updated": "19 Nov 2026, 11:00:28 PM BST",
-  "last_updated_iso": "2026-11-19T17:00:28.415Z",
-  "total_events": 327,
-  "live_match": 2,
+  "last_updated": "19 Nov 2026, 11:10:17 PM BST",
+  "last_updated_iso": "2026-11-19T17:10:17.419Z",
+  "total_events": 328,
+  "live_match": 3,
   "events": [
+    {
+      "id": "1",
+      "date": "19/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Argentina U17",
+      "team2": "Australia U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/22576/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/22578/image",
+      "leagueLogo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "d sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795105217-0-0-2b3c3e459c0db44996f0eb52d870451b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.44/hls/XAXAXA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
     {
       "id": "2803",
       "date": "20/11/2026",
