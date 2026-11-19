@@ -1,8 +1,8 @@
 {
-  "last_updated": "20 Nov 2026, 01:10:14 AM BST",
-  "last_updated_iso": "2026-11-19T19:10:14.420Z",
+  "last_updated": "20 Nov 2026, 01:20:16 AM BST",
+  "last_updated_iso": "2026-11-19T19:20:16.539Z",
   "total_events": 326,
-  "live_match": 6,
+  "live_match": 10,
   "events": [
     {
       "id": "2795",
@@ -195,6 +195,124 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NTJhMGYzMTkxOGYyYTZmOTc4MDlkMzU4NmFhNmM0MWU6YTEwOGEwNTBkZmM1Y2YyMDY1YzIzMzcwZWZhNThiMDk="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2812",
+      "date": "20/11/2026",
+      "time": "4:30 AM",
+      "league": "Football | Brasileirão Série A",
+      "team1": "Vitoria",
+      "team2": "Red Bull Bragantino",
+      "logo1": "https://img.sofascore.com/api/v1/team/1962/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1999/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001795112737-0-0-d64a356d9bb84ad04ee6ed4ade8748a2",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2813",
+      "date": "20/11/2026",
+      "time": "4:30 AM",
+      "league": "Football | Brasileirão Série A",
+      "team1": "Vasco",
+      "team2": "SC Internacional",
+      "logo1": "https://img.sofascore.com/api/v1/team/1974/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1966/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "SportDigital FussBall",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "name": "PREMIERER1 FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        },
+        {
+          "name": "SPORT TV FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001795112733-0-0-e53f872ad948430cd72270eedc3034d3",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2814",
+      "date": "20/11/2026",
+      "time": "6:30 AM",
+      "league": "Football | Brasileirão Série A",
+      "team1": "São Paulo",
+      "team2": "Fluminense",
+      "logo1": "https://img.sofascore.com/api/v1/team/1981/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1961/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "PREMIERE2 BR FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795112680-0-0-85d9a92359e305719e254060e25ebe5e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -423,49 +541,34 @@
       "status": "LIVE"
     },
     {
-      "id": "2812",
-      "date": "20/11/2026",
-      "time": "4:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Vitoria",
-      "team2": "Red Bull Bragantino",
-      "logo1": "https://img.sofascore.com/api/v1/team/1962/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1999/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2813",
-      "date": "20/11/2026",
-      "time": "4:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Vasco",
-      "team2": "SC Internacional",
-      "logo1": "https://img.sofascore.com/api/v1/team/1974/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1966/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2814",
+      "id": "2829",
       "date": "20/11/2026",
       "time": "6:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "São Paulo",
-      "team2": "Fluminense",
-      "logo1": "https://img.sofascore.com/api/v1/team/1981/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1961/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "league": "Football | MLS",
+      "team1": "Orlando City",
+      "team2": "FC Cincinnati",
+      "logo1": "https://img.sofascore.com/api/v1/team/52237/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/215167/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
       "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001795112624-0-0-e0e9996ed7f433864a28375563f7d5fa",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
     },
     {
       "id": "2818",
@@ -627,21 +730,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/21895/image",
       "logo2": "https://img.sofascore.com/api/v1/team/853574/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2829",
-      "date": "20/11/2026",
-      "time": "6:30 AM",
-      "league": "Football | MLS",
-      "team1": "Orlando City",
-      "team2": "FC Cincinnati",
-      "logo1": "https://img.sofascore.com/api/v1/team/52237/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/215167/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
       "visibility": "public",
       "streams": [],
