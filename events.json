@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Nov 2026, 01:40:13 PM BST",
-  "last_updated_iso": "2026-11-19T07:40:13.719Z",
+  "last_updated": "19 Nov 2026, 01:50:14 PM BST",
+  "last_updated_iso": "2026-11-19T07:50:14.205Z",
   "total_events": 336,
   "live_match": 5,
   "events": [
@@ -330,6 +330,20 @@
           "name": "t sports hd",
           "url": "https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PRIME VIDEO",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6re2sw5cd/out/v1/8e8f93ec4fe2435c885a283151852080/cenc.mpd",
+          "referer": "https://www.primevideo.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "6300bd600d0c9e459bd1a3d023e2270d:edf53fad044c43f8aae91ad2576cccfd"
+        },
+        {
+          "name": "sony",
+          "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8",
+          "referer": "https://www.sonyliv.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
