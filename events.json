@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Nov 2026, 01:00:28 PM BST",
-  "last_updated_iso": "2026-11-19T07:00:28.999Z",
+  "last_updated": "19 Nov 2026, 01:10:13 PM BST",
+  "last_updated_iso": "2026-11-19T07:10:13.779Z",
   "total_events": 336,
   "live_match": 5,
   "events": [
@@ -308,6 +308,13 @@
         {
           "name": "hd quality",
           "url": "https://dai.google.com/linear/hls/event/7cIN-VbvRemT_Gc-OWNing/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports hd",
+          "url": "https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
