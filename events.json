@@ -1,8 +1,8 @@
 {
-  "last_updated": "19 Nov 2026, 09:20:16 PM BST",
-  "last_updated_iso": "2026-11-19T15:20:16.168Z",
-  "total_events": 330,
-  "live_match": 5,
+  "last_updated": "19 Nov 2026, 09:30:23 PM BST",
+  "last_updated_iso": "2026-11-19T15:30:23.585Z",
+  "total_events": 328,
+  "live_match": 3,
   "events": [
     {
       "id": "2803",
@@ -91,43 +91,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2808",
-      "date": "19/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | Nepal Premier League 2026 - Qualifier 2",
-      "team1": "Sudurpaschim Royals",
-      "team2": "Chitwan Rhinos",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "fancode - Aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "name": "fancode - sd",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
-        },
-        {
-          "name": "STAR SPORTS SELECT 2 HD",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2810",
       "date": "19/11/2026",
       "time": "7:45 PM",
@@ -194,43 +157,6 @@
         {
           "name": "a sports fhd",
           "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3128",
-      "date": "19/11/2026",
-      "time": "4:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Sri Lanka A",
-      "team2": "Afghanistan A",
-      "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187575/image",
-      "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "OTY0YzRiMDlkMzRhZWMyNjAwNGFmNTg0NjhkZjNmNjM6MzMyNDEwNzdlOWI3NjA0ZTg3NmQ2YjIzYzFmY2Y4YWM="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "OTY0YzRiMDlkMzRhZWMyNjAwNGFmNTg0NjhkZjNmNjM6MzMyNDEwNzdlOWI3NjA0ZTg3NmQ2YjIzYzFmY2Y4YWM="
-        },
-        {
-          "name": "sonyliv - aq",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124320~acl=/*~id=11217918928036380812071625224481~hmac=d09ea749e9e7fd5d022ca7f8bcee3c3e0d2dbec85a307afb53180f702ffafe70",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
