@@ -1,8 +1,8 @@
 {
-  "last_updated": "19 Nov 2026, 11:50:14 AM BST",
-  "last_updated_iso": "2026-11-19T05:50:14.491Z",
+  "last_updated": "19 Nov 2026, 12:00:24 PM BST",
+  "last_updated_iso": "2026-11-19T06:00:24.727Z",
   "total_events": 337,
-  "live_match": 3,
+  "live_match": 4,
   "events": [
     {
       "id": "2679",
@@ -242,6 +242,29 @@
           "name": "Tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3127",
+      "date": "19/11/2026",
+      "time": "12:00 PM",
+      "league": "Cricket | ACC Emerging Teams Asia Cup",
+      "team1": "Bangladesh A",
+      "team2": "Hong Kong, China",
+      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4765/image",
+      "leagueLogo": "",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795110383~acl=/*~id=48069623606989697975643132091407~hmac=d32366d25b041daf844ab1cd04a2155110b012f1fb87cd41638ef4128e5d9136",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -5028,21 +5051,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274885/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3127",
-      "date": "19/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Bangladesh A",
-      "team2": "Hong Kong, China",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4765/image",
-      "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
       "streams": [],
