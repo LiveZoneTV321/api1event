@@ -1,53 +1,9 @@
 {
-  "last_updated": "20 Nov 2026, 12:00:28 AM BST",
-  "last_updated_iso": "2026-11-19T18:00:28.541Z",
-  "total_events": 328,
-  "live_match": 5,
+  "last_updated": "20 Nov 2026, 12:10:17 AM BST",
+  "last_updated_iso": "2026-11-19T18:10:17.111Z",
+  "total_events": 326,
+  "live_match": 3,
   "events": [
-    {
-      "id": "1",
-      "date": "19/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Argentina U17",
-      "team2": "Australia U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/22576/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/22578/image",
-      "leagueLogo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "d sports - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a"
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795105217-0-0-2b3c3e459c0db44996f0eb52d870451b",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "http://193.47.62.44/hls/XAXAXA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
     {
       "id": "2795",
       "date": "19/11/2026",
@@ -239,50 +195,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NTJhMGYzMTkxOGYyYTZmOTc4MDlkMzU4NmFhNmM0MWU6YTEwOGEwNTBkZmM1Y2YyMDY1YzIzMzcwZWZhNThiMDk="
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2811",
-      "date": "19/11/2026",
-      "time": "10:00 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 30th Match",
-      "team1": "Emirates Eagles",
-      "team2": "United Tigers",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "PREMIERE2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "a sports fhd",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/31bn2pivmp/out/v1/08c3aa15efe64750912c5fd5f87392aa/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MWUxZWIxNTFiZTUyMjkwMGE0YmNiY2U0NjNmNzY0ZDQ6NDliNGM2ZGYxMmM5NDU5ZDZkNzY0MTM0MTI3MGQ4OTA="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/31bn2pivmp/out/v1/08c3aa15efe64750912c5fd5f87392aa/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MWUxZWIxNTFiZTUyMjkwMGE0YmNiY2U0NjNmNzY0ZDQ6NDliNGM2ZGYxMmM5NDU5ZDZkNzY0MTM0MTI3MGQ4OTA="
         }
       ],
       "status": "LIVE"
