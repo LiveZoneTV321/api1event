@@ -1,8 +1,8 @@
 {
-  "last_updated": "19 Nov 2026, 10:20:29 AM BST",
-  "last_updated_iso": "2026-11-19T04:20:29.166Z",
+  "last_updated": "19 Nov 2026, 10:30:20 AM BST",
+  "last_updated_iso": "2026-11-19T04:30:20.300Z",
   "total_events": 337,
-  "live_match": 2,
+  "live_match": 3,
   "events": [
     {
       "id": "2679",
@@ -212,6 +212,43 @@
       "status": "LIVE"
     },
     {
+      "id": "2804",
+      "date": "19/11/2026",
+      "time": "10:30 AM",
+      "league": "Cricket | SL vs PAK, 2026 - 2nd Test, Day 3",
+      "team1": "Pakistan",
+      "team2": "Sri Lanka",
+      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MTViYjEzNmU3YWM3MzdjN2YzNTE3MmZlNjcwM2I2OTU6OGZhOTMzZWU5MmMxZThkMWY1ZDI4NTUxNTJkNzg0ZjI="
+        },
+        {
+          "name": "willow - alt",
+          "url": "15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "aHR0cHM6Ly9kYXNoLW90dC5iaWEtY2YubGl2ZS5wdi1jZG4ubmV0L2lhZC1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvYXN3cGNvODZmcS9vdXQvdjEvNGU2YTQ1YTdmMGIxNGM3ZGFkN2M1N2QwM2I4MGI2MzgvY2VuYy5tcGQ="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2795",
       "date": "19/11/2026",
       "time": "11:45 PM",
@@ -236,21 +273,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2203/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2672/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2804",
-      "date": "19/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | SL vs PAK, 2026 - 2nd Test, Day 3",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
