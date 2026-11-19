@@ -1,8 +1,8 @@
 {
-  "last_updated": "19 Nov 2026, 07:40:17 PM BST",
-  "last_updated_iso": "2026-11-19T13:40:17.525Z",
-  "total_events": 334,
-  "live_match": 9,
+  "last_updated": "19 Nov 2026, 07:50:16 PM BST",
+  "last_updated_iso": "2026-11-19T13:50:16.877Z",
+  "total_events": 331,
+  "live_match": 6,
   "events": [
     {
       "id": "2803",
@@ -91,87 +91,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2804",
-      "date": "19/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | SL vs PAK, 2026 - 2nd Test, Day 3",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MTViYjEzNmU3YWM3MzdjN2YzNTE3MmZlNjcwM2I2OTU6OGZhOTMzZWU5MmMxZThkMWY1ZDI4NTUxNTJkNzg0ZjI="
-        },
-        {
-          "name": "willow - alt",
-          "url": "15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "aHR0cHM6Ly9kYXNoLW90dC5iaWEtY2YubGl2ZS5wdi1jZG4ubmV0L2lhZC1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvYXN3cGNvODZmcS9vdXQvdjEvNGU2YTQ1YTdmMGIxNGM3ZGFkN2M1N2QwM2I4MGI2MzgvY2VuYy5tcGQ="
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2806",
-      "date": "19/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 27th Match",
-      "team1": "Brisbane Heat Women",
-      "team2": "Sydney Thunder Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274884/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274889/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayg6j8yw1b/out/v1/e02856592bc44834b4edda32878b485a/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjA2ZGM1ODQ4ZWY2MjNhMWVkMWJjN2MyOTAwMDA3ZDk6ZDYyZmZlYjQwNjFiYjBiZDdmMTExNjQ3NjFlYTY5NGE="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayg6j8yw1b/out/v1/e02856592bc44834b4edda32878b485a/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjA2ZGM1ODQ4ZWY2MjNhMWVkMWJjN2MyOTAwMDA3ZDk6ZDYyZmZlYjQwNjFiYjBiZDdmMTExNjQ3NjFlYTY5NGE="
-        },
-        {
-          "name": "EUROSPORT FHD",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2808",
       "date": "19/11/2026",
       "time": "5:15 PM",
@@ -209,50 +128,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2809",
-      "date": "19/11/2026",
-      "time": "5:30 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 28th Match",
-      "team1": "UAE Bulls",
-      "team2": "Arabian Aces",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/78.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "name": "a sports fhd",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oxdfwbm9bd/out/v1/58ee6ff8cf414cd0ac3bf08b8859d811/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjUxZjk4MWI0YTQ0ZTFiODc0YTc5NTgyNzZiNzY1ZDY6YmM0MjYzOGYzZWM0ZDAxNTUyNDE0M2E2ZDQwZWJmZDU="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oxdfwbm9bd/out/v1/58ee6ff8cf414cd0ac3bf08b8859d811/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YjUxZjk4MWI0YTQ0ZTFiODc0YTc5NTgyNzZiNzY1ZDY6YmM0MjYzOGYzZWM0ZDAxNTUyNDE0M2E2ZDQwZWJmZDU="
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2810",
       "date": "19/11/2026",
       "time": "7:45 PM",
@@ -278,6 +153,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/onhhok4gqg/out/v1/b286f1b90a364e10976bcc541a8d99c2/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OTlhNmI4ZmQwNjJkOWFlMmZlYWIzZjc1ZWYwMjc5ZDM6MWU2MjYwNWQ2OWQ1ZmQxYWEyYjM4Njg0NjQ0YTE0NmE="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t71pl7epzb/out/v1/5e43a94e688d4cd3b1255f2e8fd5a29d/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OTlhNmI4ZmQwNjJkOWFlMmZlYWIzZjc1ZWYwMjc5ZDM6MWU2MjYwNWQ2OWQ1ZmQxYWEyYjM4Njg0NjQ0YTE0NmE="
         }
       ],
       "status": "LIVE"
