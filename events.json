@@ -1,8 +1,8 @@
 {
-  "last_updated": "20 Nov 2026, 07:10:17 PM BST",
-  "last_updated_iso": "2026-11-20T13:10:17.309Z",
+  "last_updated": "20 Nov 2026, 07:20:19 PM BST",
+  "last_updated_iso": "2026-11-20T13:20:19.530Z",
   "total_events": 368,
-  "live_match": 6,
+  "live_match": 7,
   "events": [
     {
       "id": "2803",
@@ -360,6 +360,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Server - 8",
+          "url": "http://193.47.62.41/hls/RYYYAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -388,6 +395,50 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001795173652-0-0-0add7757e503794b73b83c8db9f197ab",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/RYYYAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3144",
+      "date": "20/11/2026",
+      "time": "7:30 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Mali U17",
+      "team2": "New Zealand U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4831/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4784/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001795177428-0-0-831af2ca47b088f0854105ddfea51804",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/RUUU.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -5009,21 +5060,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3144",
-      "date": "20/11/2026",
-      "time": "7:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Mali U17",
-      "team2": "New Zealand U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4831/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4784/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
