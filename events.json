@@ -1,8 +1,8 @@
 {
-  "last_updated": "20 Nov 2026, 11:30:33 PM BST",
-  "last_updated_iso": "2026-11-20T17:30:33.342Z",
-  "total_events": 361,
-  "live_match": 8,
+  "last_updated": "20 Nov 2026, 11:40:26 PM BST",
+  "last_updated_iso": "2026-11-20T17:40:26.420Z",
+  "total_events": 360,
+  "live_match": 7,
   "events": [
     {
       "id": "2803",
@@ -323,6 +323,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -381,43 +388,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "N2U3NjJhZTAxNjY4NjU4MzI0NmYxOTU5ODUwZWVhNmU6N2VhNGZiNDM1NmM3NmJmMjQyYjMxODk0NThlY2VhMmU="
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3147",
-      "date": "20/11/2026",
-      "time": "9:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Senegal U17",
-      "team2": "Croatia U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4739/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4715/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795184715-0-0-0928c6a36686c416994a0871e914a158",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         }
       ],
       "status": "LIVE"
