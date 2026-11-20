@@ -1,7 +1,7 @@
 {
-  "last_updated": "20 Nov 2026, 07:30:25 PM BST",
-  "last_updated_iso": "2026-11-20T13:30:25.780Z",
-  "total_events": 368,
+  "last_updated": "20 Nov 2026, 07:40:18 PM BST",
+  "last_updated_iso": "2026-11-20T13:40:18.937Z",
+  "total_events": 367,
   "live_match": 7,
   "events": [
     {
@@ -165,64 +165,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3129",
-      "date": "20/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Pakistan A",
-      "team2": "United Arab Emirates",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4727/image",
-      "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         },
         {
           "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzE4MGVkYWMwMDllYzJiM2RkYzk4MjJmM2FlODE0YzM6Yjk0ZDMyN2ZkODFkZDdhNWE0M2EwYTdiZDczN2RkOGE="
+          "drm": "YjUyMzIzNWZhZjQ5N2UxY2UwOTY3OTQ2YmEwMWE5YzM6MTY5N2U4ZGQ5OWNkOWNkOTQwZjQ2M2Y0ZmRjNzM4NWY="
         },
         {
           "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzE4MGVkYWMwMDllYzJiM2RkYzk4MjJmM2FlODE0YzM6Yjk0ZDMyN2ZkODFkZDdhNWE0M2EwYTdiZDczN2RkOGE="
-        },
-        {
-          "name": "STARZPLAY FHD",
-          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9"
-        },
-        {
-          "name": "ten sports",
-          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "STARZPLAY FHD",
-          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MGFlNGYxNjJlZWMzZTZmMmI1ODBhNWJmMGY0YTY0ZDQ6MDM0ODMzMzVkYjgxY2JhNWJiY2Y1MWI2ZDMxMTk2ZDk="
+          "drm": "YjUyMzIzNWZhZjQ5N2UxY2UwOTY3OTQ2YmEwMWE5YzM6MTY5N2U4ZGQ5OWNkOWNkOTQwZjQ2M2Y0ZmRjNzM4NWY="
         }
       ],
       "status": "LIVE"
@@ -439,6 +395,36 @@
           "name": "Server - 3",
           "url": "http://193.47.62.41/hls/RUUU.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3145",
+      "date": "20/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Spain U17",
+      "team2": "China U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4698/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4755/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795177619-0-0-b8228bc9de95ec1aa8b3c1457e600e24",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -5060,21 +5046,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3145",
-      "date": "20/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Spain U17",
-      "team2": "China U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4698/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4755/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
