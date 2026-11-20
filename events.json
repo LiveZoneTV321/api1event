@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Nov 2026, 03:10:20 AM BST",
-  "last_updated_iso": "2026-11-20T21:10:20.714Z",
+  "last_updated": "21 Nov 2026, 03:20:18 AM BST",
+  "last_updated_iso": "2026-11-20T21:20:18.671Z",
   "total_events": 354,
   "live_match": 9,
   "events": [
@@ -371,9 +371,16 @@
       "visibility": "public",
       "streams": [
         {
-          "name": "Server - 1",
+          "name": "hd quality",
           "url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=f1fe0ce53de562a1c262e323afab5ec6&wsABSTime=1795238711",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.50/hls/E666.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
