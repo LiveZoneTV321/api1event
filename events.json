@@ -1,8 +1,8 @@
 {
-  "last_updated": "20 Nov 2026, 10:20:19 PM BST",
-  "last_updated_iso": "2026-11-20T16:20:19.747Z",
-  "total_events": 372,
-  "live_match": 8,
+  "last_updated": "20 Nov 2026, 10:30:26 PM BST",
+  "last_updated_iso": "2026-11-20T16:30:26.738Z",
+  "total_events": 371,
+  "live_match": 7,
   "events": [
     {
       "id": "2803",
@@ -179,6 +179,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "YjUyMzIzNWZhZjQ5N2UxY2UwOTY3OTQ2YmEwMWE5YzM6MTY5N2U4ZGQ5OWNkOWNkOTQwZjQ2M2Y0ZmRjNzM4NWY="
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1eszvr6hm3/out/v1/f099e57287244d09aeea990398a83c47/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "N2U3NjJhZTAxNjY4NjU4MzI0NmYxOTU5ODUwZWVhNmU6N2VhNGZiNDM1NmM3NmJmMjQyYjMxODk0NThlY2VhMmU="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "N2U3NjJhZTAxNjY4NjU4MzI0NmYxOTU5ODUwZWVhNmU6N2VhNGZiNDM1NmM3NmJmMjQyYjMxODk0NThlY2VhMmU="
         }
       ],
       "status": "LIVE"
@@ -241,50 +255,6 @@
         {
           "name": "sonyliv - (kan)",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3145",
-      "date": "20/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Spain U17",
-      "team2": "China U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4698/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4755/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795177619-0-0-b8228bc9de95ec1aa8b3c1457e600e24",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1795179668-0-0-b947b41be2621f15616f00dba4bc846c",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
