@@ -1,8 +1,8 @@
 {
-  "last_updated": "20 Nov 2026, 05:40:18 PM BST",
-  "last_updated_iso": "2026-11-20T11:40:18.809Z",
+  "last_updated": "20 Nov 2026, 05:50:18 PM BST",
+  "last_updated_iso": "2026-11-20T11:50:18.572Z",
   "total_events": 368,
-  "live_match": 3,
+  "live_match": 4,
   "events": [
     {
       "id": "2803",
@@ -132,6 +132,36 @@
         {
           "name": "sonyliv - (kan)",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2834",
+      "date": "20/11/2026",
+      "time": "7:30 PM",
+      "league": "Cricket | ABU DHABI T10 LEAGUE",
+      "team1": "ABU DHABI T10 LEAGUE",
+      "team2": "ABU DHABI T10 LEAGUE",
+      "logo1": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+      "logo2": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "PREMIERE2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "name": "a sports fhd",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -422,21 +452,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/21895/image",
       "logo2": "https://img.sofascore.com/api/v1/team/853574/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2834",
-      "date": "20/11/2026",
-      "time": "7:30 PM",
-      "league": "Cricket | ABU DHABI T10 LEAGUE",
-      "team1": "ABU DHABI T10 LEAGUE",
-      "team2": "ABU DHABI T10 LEAGUE",
-      "logo1": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-      "logo2": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -1436,7 +1451,7 @@
       "id": "2905",
       "date": "21/11/2026",
       "time": "2:15 PM",
-      "league": "Cricket | England tour of Australia, 2026 - 1st T20I",
+      "league": "Cricket | AUS vs ENG in AUS, 2026 - 1st T20I",
       "team1": "Australia",
       "team2": "England",
       "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
