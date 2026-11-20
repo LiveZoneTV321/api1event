@@ -1,8 +1,8 @@
 {
-  "last_updated": "20 Nov 2026, 04:40:19 PM BST",
-  "last_updated_iso": "2026-11-20T10:40:19.079Z",
-  "total_events": 314,
-  "live_match": 3,
+  "last_updated": "20 Nov 2026, 04:50:19 PM BST",
+  "last_updated_iso": "2026-11-20T10:50:19.577Z",
+  "total_events": 313,
+  "live_match": 4,
   "events": [
     {
       "id": "2803",
@@ -133,6 +133,43 @@
           "name": "sonyliv - (kan)",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2833",
+      "date": "20/11/2026",
+      "time": "2:10 PM",
+      "league": "Cricket | Womens Big Bash League 2026 - 28th Match",
+      "team1": "Adelaide Strikers Women",
+      "team2": "Melbourne Renegades Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274888/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NGRiMjYxMjA4NmVkOTg1YWUwMjlmZTcxYTNiNTY0Mzk6YTdlNDU5MzBiYTRmYmNmNTFjYjEyNTIyYWM0MzNjYTE="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fk6ka0whhr/out/v1/ef8739158e254282a97530153688db81/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NGRiMjYxMjA4NmVkOTg1YWUwMjlmZTcxYTNiNTY0Mzk6YTdlNDU5MzBiYTRmYmNmNTFjYjEyNTIyYWM0MzNjYTE="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -428,44 +465,14 @@
       "status": "ENDED"
     },
     {
-      "id": "2833",
-      "date": "20/11/2026",
-      "time": "6:40 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 28th Match",
-      "team1": "Adelaide Strikers Women",
-      "team2": "Melbourne Renegades Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274888/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "2834",
       "date": "20/11/2026",
-      "time": "5:30 PM",
+      "time": "7:30 PM",
       "league": "Cricket | ABU DHABI T10 LEAGUE",
       "team1": "ABU DHABI T10 LEAGUE",
       "team2": "ABU DHABI T10 LEAGUE",
       "logo1": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
       "logo2": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2835",
-      "date": "20/11/2026",
-      "time": "7:45 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - Final",
-      "team1": "TBC",
-      "team2": "TBC",
-      "logo1": "",
-      "logo2": "",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
