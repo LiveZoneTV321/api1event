@@ -1,8 +1,8 @@
 {
-  "last_updated": "20 Nov 2026, 05:50:18 PM BST",
-  "last_updated_iso": "2026-11-20T11:50:18.572Z",
+  "last_updated": "20 Nov 2026, 06:00:27 PM BST",
+  "last_updated_iso": "2026-11-20T12:00:27.352Z",
   "total_events": 368,
-  "live_match": 4,
+  "live_match": 5,
   "events": [
     {
       "id": "2803",
@@ -288,6 +288,29 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3142",
+      "date": "20/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Belgium U17",
+      "team2": "Vietnam U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4717/image",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5462",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "FOX2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         }
       ],
       "status": "LIVE"
@@ -4909,21 +4932,6 @@
       "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3142",
-      "date": "20/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Belgium U17",
-      "team2": "Vietnam U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4717/image",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5462",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "unpublic",
       "streams": [],
       "status": "ENDED"
     },
