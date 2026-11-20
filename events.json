@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Nov 2026, 03:00:26 PM BST",
-  "last_updated_iso": "2026-11-20T09:00:26.775Z",
+  "last_updated": "20 Nov 2026, 03:10:13 PM BST",
+  "last_updated_iso": "2026-11-20T09:10:13.614Z",
   "total_events": 314,
   "live_match": 2,
   "events": [
@@ -186,6 +186,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "STARZPLAY FHD",
+          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MGFlNGYxNjJlZWMzZTZmMmI1ODBhNWJmMGY0YTY0ZDQ6MDM0ODMzMzVkYjgxY2JhNWJiY2Y1MWI2ZDMxMTk2ZDk="
         }
       ],
       "status": "LIVE"
