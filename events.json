@@ -1,7 +1,7 @@
 {
-  "last_updated": "20 Nov 2026, 11:40:17 AM BST",
-  "last_updated_iso": "2026-11-20T05:40:17.109Z",
-  "total_events": 317,
+  "last_updated": "20 Nov 2026, 11:50:12 AM BST",
+  "last_updated_iso": "2026-11-20T05:50:12.361Z",
+  "total_events": 316,
   "live_match": 3,
   "events": [
     {
@@ -140,43 +140,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2830",
-      "date": "20/11/2026",
-      "time": "9:00 AM",
-      "league": "Football | MLS",
-      "team1": "Seattle Sounders",
-      "team2": "Real Salt Lake",
-      "logo1": "https://img.sofascore.com/api/v1/team/22009/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5133/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795138156-0-0-8ef16067b5f87876a51ac80ed1199f62",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "http://193.47.62.41/hls/R333AAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2832",
       "date": "20/11/2026",
       "time": "10:30 AM",
@@ -207,6 +170,29 @@
           "name": "Tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3129",
+      "date": "20/11/2026",
+      "time": "12:00 PM",
+      "league": "Cricket | ACC Emerging Teams Asia Cup",
+      "team1": "Pakistan A",
+      "team2": "United Arab Emirates",
+      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4727/image",
+      "leagueLogo": "",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -4723,21 +4709,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274885/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3129",
-      "date": "20/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Pakistan A",
-      "team2": "United Arab Emirates",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4727/image",
-      "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
       "streams": [],
