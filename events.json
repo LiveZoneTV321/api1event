@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 12:10:19 AM BST",
-  "last_updated_iso": "2026-11-20T18:10:19.918Z",
-  "total_events": 360,
-  "live_match": 7,
+  "last_updated": "21 Nov 2026, 12:20:18 AM BST",
+  "last_updated_iso": "2026-11-20T18:20:18.695Z",
+  "total_events": 358,
+  "live_match": 5,
   "events": [
     {
       "id": "2803",
@@ -388,73 +388,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "N2U3NjJhZTAxNjY4NjU4MzI0NmYxOTU5ODUwZWVhNmU6N2VhNGZiNDM1NmM3NmJmMjQyYjMxODk0NThlY2VhMmU="
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3148",
-      "date": "20/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Ivory Coast U17",
-      "team2": "Uzbekistan U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4768/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4723/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001795184395-0-0-42cf762666238a63305aa6a99072618f",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3149",
-      "date": "20/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Fiji U17",
-      "team2": "Morocco U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/1096685/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4778/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001795184474-0-0-4c6034843b22430a737b024c618466c0",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel17.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         }
       ],
       "status": "LIVE"
