@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 03:30:22 PM BST",
-  "last_updated_iso": "2026-11-21T09:30:22.275Z",
+  "last_updated": "21 Nov 2026, 03:40:18 PM BST",
+  "last_updated_iso": "2026-11-21T09:40:18.600Z",
   "total_events": 342,
-  "live_match": 3,
+  "live_match": 4,
   "events": [
     {
       "id": "2803",
@@ -269,6 +269,29 @@
         {
           "name": "sonyliv - aq",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795282335~acl=/*~id=62149777860658370208685505764532~hmac=f1208fc027d34823a2ecb8f71321e8d9418978f4c0bcbbe5552e47232aac243a",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3132",
+      "date": "21/11/2026",
+      "time": "4:00 PM",
+      "league": "Cricket | ACC Emerging Teams Asia Cup",
+      "team1": "Bangladesh A",
+      "team2": "Afghanistan A",
+      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187575/image",
+      "leagueLogo": "",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795296284~acl=/*~id=84323317474479880796257696539958~hmac=15092a6740dcc2466afd0e9ce6219ab83b36c7dda50482e6d1e7b8f06c6e8a59",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -4366,21 +4389,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274885/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3132",
-      "date": "21/11/2026",
-      "time": "4:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Bangladesh A",
-      "team2": "Afghanistan A",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187575/image",
-      "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
       "streams": [],
