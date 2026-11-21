@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Nov 2026, 08:00:36 AM BST",
-  "last_updated_iso": "2026-11-21T02:00:36.253Z",
+  "last_updated": "21 Nov 2026, 08:10:23 AM BST",
+  "last_updated_iso": "2026-11-21T02:10:23.124Z",
   "total_events": 351,
   "live_match": 8,
   "events": [
@@ -206,7 +206,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3203/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "Server - 1",
@@ -236,7 +236,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/12/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "Bein Sports - aq",
@@ -266,7 +266,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "hd quality",
@@ -296,7 +296,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5994/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "Server - 1",
@@ -319,8 +319,15 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2814/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
         {
           "name": "PREMIER1 SPORTS FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
@@ -381,13 +388,6 @@
           "name": "Server - 7",
           "url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
