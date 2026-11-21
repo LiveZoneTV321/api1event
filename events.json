@@ -1,7 +1,7 @@
 {
-  "last_updated": "21 Nov 2026, 02:10:16 PM BST",
-  "last_updated_iso": "2026-11-21T08:10:16.131Z",
-  "total_events": 343,
+  "last_updated": "21 Nov 2026, 02:20:22 PM BST",
+  "last_updated_iso": "2026-11-21T08:20:22.644Z",
+  "total_events": 342,
   "live_match": 3,
   "events": [
     {
@@ -196,45 +196,45 @@
       "status": "LIVE"
     },
     {
-      "id": "2903",
+      "id": "2905",
       "date": "21/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Sydney Sixers Women",
-      "team2": "Perth Scorchers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274883/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274890/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "time": "2:15 PM",
+      "league": "Cricket | AUS vs ENG in AUS, 2026 - 1st T20I",
+      "team1": "Australia",
+      "team2": "England",
+      "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
-          "name": "willow sports",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NjAxMmNlNGFmNGNhZDUyNmI3MzBhN2RjODMwYmIzNWQ6ODAyODAxNjNjYzZhYWQzOTg1YTIyZWJmMmYwODJlNzY="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wxizovddui/out/v1/184506c2d6ae4bd7a6e64e76f6b14223/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NjAxMmNlNGFmNGNhZDUyNmI3MzBhN2RjODMwYmIzNWQ6ODAyODAxNjNjYzZhYWQzOTg1YTIyZWJmMmYwODJlNzY="
-        },
-        {
           "name": "Tapmad - (bd)",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8",
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "name": "TNT sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "name": "EUROSPORT FHD",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
         }
       ],
       "status": "LIVE"
@@ -1082,21 +1082,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3065/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3052/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2905",
-      "date": "21/11/2026",
-      "time": "2:15 PM",
-      "league": "Cricket | AUS vs ENG in AUS, 2026 - 1st T20I",
-      "team1": "Australia",
-      "team2": "England",
-      "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
