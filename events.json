@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 03:50:24 PM BST",
-  "last_updated_iso": "2026-11-21T09:50:24.269Z",
+  "last_updated": "21 Nov 2026, 04:00:25 PM BST",
+  "last_updated_iso": "2026-11-21T10:00:25.596Z",
   "total_events": 342,
-  "live_match": 4,
+  "live_match": 5,
   "events": [
     {
       "id": "2803",
@@ -189,6 +189,36 @@
           "name": "Tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2897",
+      "date": "21/11/2026",
+      "time": "4:30 PM",
+      "league": "Football | Super Lig",
+      "team1": "Genclerbirligi",
+      "team2": "Gaziantep F.K.",
+      "logo1": "https://img.sofascore.com/api/v1/team/7802/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/5138/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795252870-0-0-8fb0bf451d5cf5be3a82e3cc4850849d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1073,21 +1103,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/5067/image",
       "logo2": "https://img.sofascore.com/api/v1/team/47321/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2897",
-      "date": "21/11/2026",
-      "time": "4:30 PM",
-      "league": "Football | Super Lig",
-      "team1": "Genclerbirligi",
-      "team2": "Gaziantep F.K.",
-      "logo1": "https://img.sofascore.com/api/v1/team/7802/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5138/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
       "streams": [],
