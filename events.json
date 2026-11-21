@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 05:10:27 PM BST",
-  "last_updated_iso": "2026-11-21T11:10:27.779Z",
+  "last_updated": "21 Nov 2026, 05:20:18 PM BST",
+  "last_updated_iso": "2026-11-21T11:20:18.567Z",
   "total_events": 342,
-  "live_match": 6,
+  "live_match": 9,
   "events": [
     {
       "id": "2803",
@@ -189,6 +189,117 @@
           "name": "Tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2878",
+      "date": "21/11/2026",
+      "time": "6:00 PM",
+      "league": "Football | Bundesliga 2",
+      "team1": "Nurnberg",
+      "team2": "Braunschweig",
+      "logo1": "https://img.sofascore.com/api/v1/team/2523/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2557/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001795256659-0-0-573b13d0e802052af8db38891b68f6da",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2879",
+      "date": "21/11/2026",
+      "time": "6:00 PM",
+      "league": "Football | Bundesliga 2",
+      "team1": "Hannover",
+      "team2": "Greuther Fürth",
+      "logo1": "https://img.sofascore.com/api/v1/team/2541/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2551/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795256498-0-0-90d2a65c4234e95ac26a7b022932eee0",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2880",
+      "date": "21/11/2026",
+      "time": "6:00 PM",
+      "league": "Football | Bundesliga 2",
+      "team1": "Wolfsburg",
+      "team2": "Holstein Kiel",
+      "logo1": "https://img.sofascore.com/api/v1/team/2524/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2573/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795256775-0-0-b98c0922f08f26915c4c8e89d63372d8",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795253649-0-0-039e34d4747f4ad4996e3858e94df842",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795260968-0-0-ef77e9ce896f0d35275b52397037a943",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -908,51 +1019,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2530/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2677/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2878",
-      "date": "21/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Nurnberg",
-      "team2": "Braunschweig",
-      "logo1": "https://img.sofascore.com/api/v1/team/2523/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2557/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2879",
-      "date": "21/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Hannover",
-      "team2": "Greuther Fürth",
-      "logo1": "https://img.sofascore.com/api/v1/team/2541/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2551/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2880",
-      "date": "21/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Wolfsburg",
-      "team2": "Holstein Kiel",
-      "logo1": "https://img.sofascore.com/api/v1/team/2524/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2573/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
       "visibility": "public",
       "streams": [],
