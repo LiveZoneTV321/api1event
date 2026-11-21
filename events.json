@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 04:30:23 PM BST",
-  "last_updated_iso": "2026-11-21T10:30:23.573Z",
+  "last_updated": "21 Nov 2026, 04:40:18 PM BST",
+  "last_updated_iso": "2026-11-21T10:40:18.209Z",
   "total_events": 342,
-  "live_match": 5,
+  "live_match": 6,
   "events": [
     {
       "id": "2803",
@@ -221,6 +221,13 @@
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/UPPPAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -279,6 +286,29 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "YWUyYjJjYzBkNGE0Y2E3MjkxNzhmYTMzYzc2YzMzM2Y6YTJjZWY4YTBmNDk3ODc0Y2VkZDFjMjNkMTNkN2NmNjM="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2906",
+      "date": "21/11/2026",
+      "time": "5:15 PM",
+      "league": "Cricket | Nepal Premier League  - Final",
+      "team1": "Lumbini Lions",
+      "team2": "Sudurpaschim Royals",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -1148,21 +1178,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3065/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3052/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2906",
-      "date": "21/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | Nepal Premier League  - Final",
-      "team1": "Lumbini Lions",
-      "team2": "Sudurpaschim Royals",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": [],
